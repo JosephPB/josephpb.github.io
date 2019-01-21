@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Lanyon</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2019-01-21T17:59:50-05:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Mark Otto</name>
+   <email>markdotto@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>UNGA Statements</title>
+   <link href="http://localhost:4000/2019/01/21/introducing-UNGA/"/>
+   <updated>2019-01-21T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2019/01/21/introducing-UNGA</id>
+   <content type="html">&lt;p&gt;Explain statements here&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
