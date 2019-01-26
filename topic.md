@@ -7,8 +7,8 @@ The UN General Assembly statements contain information on a lot of topics, howev
 
 In identiying these topics we performed no manual categorisation, rather the statements were split into paragraphs and automatically cluster the paragraphs based on their language, context, and lingustic properties. This means that sometimes the trends in topics may require some thought to understand the logic behind the transition, however, this methodolgy gives a less subject categorisation of documents, and can sometimes pick up more subtle trends and linkages in discussions than a human might.
 
-The following topics have been identified:
-
-[Human Rights](/topics/topic_3/)
+The following topics have been identified as case studies:
 
 [The Israel-Palestine Conflict](/topics/topic_5/)
+
+[Resources](/topics/topic_9/)

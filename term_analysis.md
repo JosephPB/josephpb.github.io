@@ -3,7 +3,7 @@ layout: page
 title: Term Analysis
 ---
 
-The use of language has changed significantly since 1970. In particular we have seen a change in the use of gender related term in high leel discussions. For instance, conversations involving references to women have seen a large increase, whereas the use of specifically male terminology has decreased. This latter point is not necessarily becuase men are being talked about less, but likely due to a shift towards the use of more inclusive language.
+The use of language has changed significantly since 1970. In particular we have seen a change in the use of gender related terms in high level discussions. For instance, conversations involving references to women have seen a large increase, whereas the use of specifically male terminology has decreased. This latter point is not necessarily becuase men are being talked about less, but likely due to a shift towards the use of more inclusive language.
 
 <div class="container">
     <div style="float:left;width:49%">
@@ -14,7 +14,7 @@ The use of language has changed significantly since 1970. In particular we have 
     </div>
 </div>
 
-There has also been an increase in coversation around children. Indeed, we see a strong correlation between the overall use of female and child related terminology.
+There has also been an increase in coversation around children. Indeed, we see a strong correlation between the overall use of *woman* and *child* related terminology.
 
 <div class="container">
     <div style="float:left;width:49%">
@@ -25,6 +25,21 @@ There has also been an increase in coversation around children. Indeed, we see a
     </div>
 </div>
 
-TODO: add information about globalisation
+Leaders have also increasingly used terms such as *global* and *globalisation*, as references to the increasing interconnectedness of the globalised world. 
 
+<p align="center">
 <img src="../data/frequency/global_frequency.svg">
+</p>
+
+However, the use of collective terms doesn not follow the same trend.
+
+<div class="container">
+    <div style="float:left;width:49%">
+	    <img src="../data/frequency/people_frequency.svg">
+    </div>
+    <div style="float:right;width:49%">
+	    <img src="../data/frequency/cooperation_frequency.svg">
+    </div>
+</div>
+
+This could be indicative of *global* being used without the intention of promoting colaboration.
