@@ -1,0 +1,538 @@
+,text,year,sentiment,score,emotion
+0,"We further agreed:
+'to hold discussions under Ambassador Jarring's auspices within the framework of Security Council resolution 242 (1967) on the basis of the expression of readiness by the parties to carry out the Security Council's resolution in all its parts, in order to achieve an agreed and binding contractual peace agreement which would ensure:
+'(a) Termination by Egypt and Israel of all claims or states of belligerency and respect and acknowledgment of the sovereignty, territorial integrity and political independence of each other and their right to live in peace within secure and recognized boundaries, free from threats or acts of force. Each of the parties to be responsible within its territory for the prevention of all hostile acts by regular military forces or paramilitary forces, including irregular forces, against the armed forces or against civilians living in the territory of the other party;
+'(ft) Withdrawal of Israeli armed forces from territories occupied in the 1967 conflict to secure, recognized and agreed boundaries to be determined in the peace agreements.'",1970,positive,0.337635,"{'sadness': 0.078601, 'joy': 0.436479, 'fear': 0.144146, 'disgust': 0.023651, 'anger': 0.039932}"
+1,"39.	In the case of the Arab-Israeli conflict, those principles are spelled out in the Security Council resolution of 22 November 1967/242 (1967)], which provides the basis for a durable peace with justice in the area. In this context, Iran was the first country to declare that acquisition of territory by force is no longer admissible. This principle was later embodied in the above- mentioned Security Council resolution which, inter alia, called upon Israel to withdraw its armed forces from occupied Arab territories.",1970,positive,0.726422,"{'sadness': 0.120976, 'joy': 0.14044, 'fear': 0.251103, 'disgust': 0.112166, 'anger': 0.109083}"
+2,"146.	Standing strongly and decidedly by the side of sister Arab States in their effort to liberate their territories, Iraq reaffirms once again that the continuation of the so-called 'Middle East crisis', and the dangers to international peace and security resulting therefrom, are a direct consequence of the debarring of the Palestinian people from the exercise of their natural rights in their homelands. Iraq is firmly determined to support unreservedly the struggle of the Palestinians for their legitimate rights.",1970,positive,0.546507,"{'sadness': 0.337041, 'joy': 0.203613, 'fear': 0.388236, 'disgust': 0.073906, 'anger': 0.235902}"
+3,"60.	The Middle East crisis, despite numerous peace initiatives, is far from being resolved. Kenya believes that a negotiated political settlement on the basis of the Security Council resolution of 22 November 1967 [242 (1967)] is the real basis for peace in this area so long ravaged by war of attrition. Any durable solution must be based on justice and realism.",1970,positive,0.372084,"{'sadness': 0.479571, 'joy': 0.145176, 'fear': 0.119583, 'disgust': 0.047758, 'anger': 0.138391}"
+4,"206.	My Government continues to support without qualification the form of settlement contemplated in Security Council resolution 242 (1967) of 22 November 1967, which is founded on the inadmissibility of the acquisition of territory by force and the withdrawal of Israeli armed forces from all Arab territories occupied after 5 June 1967.",1970,neutral,0.0,"{'sadness': 0.19915, 'joy': 0.044985, 'fear': 0.32569, 'disgust': 0.267825, 'anger': 0.082272}"
+5,"145.	The United States and Israel intend to use the acquisitions of the 1967 aggression to force the Arab nation to accept and submit to the crime of 1948, when the people of Palestine were evicted from their homeland and prevented from exercising their right to self determination and sovereignty.",1970,neutral,0.0,"{'sadness': 0.423844, 'joy': 0.180858, 'fear': 0.058368, 'disgust': 0.101209, 'anger': 0.220811}"
+6,"141.	When the United States continuously declares through its highly responsible officials that it intends to preserve the present ceasefire lines between Israel and the Arab States, that means that it will protect Israeli aggression lines and Israel's aggressive gains.",1970,negative,-0.255403,"{'sadness': 0.030749, 'joy': 0.372083, 'fear': 0.162899, 'disgust': 0.360015, 'anger': 0.154824}"
+7,"103.	The lesson is this, the heart of the grave Middle East problem, is the problem of Palestine, the problem of a people that was ruthlessly and most unjustly displaced from its homeland, and no settlement of the problem will be lasting if it does not carry the willing consent and acceptance of that people.",1970,negative,-0.975714,"{'sadness': 0.767306, 'joy': 0.075206, 'fear': 0.153363, 'disgust': 0.038594, 'anger': 0.1755}"
+8,"18.	The problem of the elimination of the consequences of the Israeli aggression of June 1967 is closely connected that of the restoration to the Palestinian people of its legitimate rights, principally its right to self-determination and territorial integrity.",1970,neutral,0.0,"{'sadness': 0.461415, 'joy': 0.161275, 'fear': 0.21239, 'disgust': 0.122352, 'anger': 0.126818}"
+9,12.	The heartrending events which are occurring today in Jordan and which have occurred in other countries in the region are only one of the consequences of Israel's refusal to implement the relevant resolutions of our Organization and to recognize the inalienable rights of the Palestinian people.,1970,negative,-0.63932,"{'sadness': 0.226259, 'joy': 0.067908, 'fear': 0.258655, 'disgust': 0.150179, 'anger': 0.158246}"
+10,"88.	On the Middle East question, Malaysia's position is clear. We note that some tension has been removed as a result of the latest negotiations. However, the problem will remain unresolved as long as Israel occupies Arab lands and refuses to comply with Security Council resolutions 242 (1967) and 338 (1973). We deplore the acquisition of territories by the use of force and the changing of the geographical and demographic aspects of the occupied territories. Another aspect of the Middle East conflict is the question of Jerusalem and Israeli acts of desecration in transforming the religious and historical character of the city and the Holy Places. Malaysia has joined the Islamic countries in calling for the withdrawal of Israel from Jerusalem and has condemned its acts of desecration. The solving of the Palestinian problem is also indispensable to peace in the Middle East. The people of Palestine must be granted their inalienable right to self-determination and their right to return to their homeland. Malaysia recognizes the PLO as the legitimate representative of the Palestinian people and we fully support the PLO in its struggle to realize the aspirations of the Palestinian people.",1975,negative,-0.388547,"{'sadness': 0.539762, 'joy': 0.153654, 'fear': 0.159147, 'disgust': 0.122709, 'anger': 0.177082}"
+11,"42.	We have welcomed the agreements reached in 1974 on disengagement in the Sinai on the Golan Heights. We also regard as useful the recent Egyptian- Israeli agreement on the disengagement of military forces in Sinai. We regard it as a continuation of the previous agreement which may pave the way for other steps towards the full settlement of the conflict. We feel that new and steady efforts are necessary in order to reach such a solution both in Sinai and Golan, as well as on the West Bank. We reaffirm our conviction that there will be no peace in the Middle East until Israel withdraws its troops from the Arab territories occupied during the 1967 war; until the problem of the Palestinian people is solved by the restoration of their legitimate rights, including the establishment of an independent Palestinian State; and until the right of all States of the region to existence, territorial integrity, sovereignty and independence is recognized.",1975,positive,0.451381,"{'sadness': 0.173018, 'joy': 0.499418, 'fear': 0.114531, 'disgust': 0.038008, 'anger': 0.108893}"
+12,"135.	In the Middle East Israel continues to trample on the rights of the Palestinian people and to occupy the territories of neighboring Arab States. We should like to reiterate what we have repeatedly emphasized
+in the past: Israel cannot have peace and security and occupation of Arab territories at the same time. It cannot have peace while continuing to trample under foot the legitimate rights of the Palestinians, as authentically represented by the Palestine Liberation Organization [PLO]. Israel cannot have it both ways. Occupation brings resistance and there is no doubt that the resistance of the Arab countries, whose territories have been occupied, as well as the Palestinians whose inalienable rights have been usurped, is mounting. And the international community is duty bound to support that resistance. Time is certainly running out.",1975,negative,-0.440285,"{'sadness': 0.202052, 'joy': 0.472339, 'fear': 0.096548, 'disgust': 0.119366, 'anger': 0.133286}"
+13,"133.	The Bulgarian people are justifiably alarmed by the continuing crisis in the Middle East, which conceals a great threat to peace. The danger of a new military clash in this area has not been removed and will not be removed until Israel withdraws from all the Arab territories occupied in 1967, until the legitimate rights of the Arab people of Palestine are restored, including the right to create their own State, and until the right of all peoples and States to live in peace and security in the region are assured. A just, overall and durable settlement to the conflict cannot be achieved by partial measures, but only within the framework of the Geneva Conference on the Middle East, with the participation of all the parties concerned, including the Palestine Liberation Organization, which is the sole legitimate representative of the Arab people of Palestine.",1975,negative,-0.24818,"{'sadness': 0.146169, 'joy': 0.38904, 'fear': 0.361336, 'disgust': 0.1031, 'anger': 0.150281}"
+14,"69.	It was with this understanding that we signed the disengagement agreement concerning the Golan Heights. We made a point of mentioning explicitly in the agreement that the agreement is only a step towards implementing Security Council resolution 338 (1973). We have never believed in the soundness of partial steps or the 'step-by-step policy', as designated by its initiators, because such a policy ignores the unity of our cause and represents the situation as a border dispute between Israel and Egypt, or between Israel and the Syrian Arab Republic, or between Israel and Jordan, while the situation in fact is between the Arabs as a whole and Israel, for an indivisible cause, namely, the restoration of the national rights of the people of Palestine and the recovery of all the occupied Arab territories.",1975,negative,-0.746093,"{'sadness': 0.268692, 'joy': 0.090883, 'fear': 0.196545, 'disgust': 0.2169, 'anger': 0.438703}"
+15,"126.	Israeli insistence on occupying Arab territories since the June 1967 war is indeed a flagrant example of blackmail that is rejected by the international community, as is its continued support of the United States Government. My country strongly denounces support of Israel in any form by any country, and rejects the idea that the United States, as a supporter of Israel, is qualified to mediate in the Middle East question and not to rely on the principle of unconditional withdrawal from all Arab territories occupied after the June 1967 war and the exercise by the Palestinian people of their full national rights by setting up a secular Palestinian State. All such attempts are doomed to fail and will not bring peace to the area.",1975,negative,-0.850158,"{'sadness': 0.755904, 'joy': 0.024872, 'fear': 0.086651, 'disgust': 0.153918, 'anger': 0.213217}"
+16,"51.	I now turn to the situation in the Middle East. It has been repeatedly emphasized in this forum that no lasting peace can be established in the Middle East so long as the Arab-Israeli conflict is not justly resolved. The essential ingredients of such a settlement have also been repeatedly stated: they are set out in Security Council resolutions 242 (1967) and 338 (1973) and have been reiterated in many important forums. They include withdrawal of Israel from all the Arab Territories occupied by it in 1967, including the holy city of Jerusalem, and the restoration of the national rights of the people of Palestine. No settlement which does not conform to those conditions will last. Not until such a settlement is reached will there be durable peace in this region.",1975,positive,0.490786,"{'sadness': 0.465847, 'joy': 0.164717, 'fear': 0.096711, 'disgust': 0.068658, 'anger': 0.098219}"
+17,"38.	In the view of my Government, the solution of the Palestine question is not confined to the contracting of bilateral agreements in 'he occupied territories. The core of the problem is the question of Palestine, the question of the Palestinian people and their entity and right in their land and heritage. The occupation of parts of neighboring Arab territory is merely the result of Israel's expansionist policy in the area. And the solution of this problem lies in the complete withdrawal of Israel from the Arab lands occupied since 1967, the return of the Palestinian people to their homes and the granting to them of the right of selfdetermination, as any other people in the world.",1975,negative,-0.293975,"{'sadness': 0.359707, 'joy': 0.237251, 'fear': 0.058508, 'disgust': 0.114486, 'anger': 0.402447}"
+18,"283.	The Mongolian People's Republic considers that only the complete withdrawal of Israeli troops from all the Arab territories occupied in 1967, the safeguarding of the legitimate national rights of the Arab people of Palestine and the creation of conditions for ensuring the security of all States of the region will pave the way for a just solution of the Middle East problem. In our opinion, to find a solution to the whole complex of Middle East problems it will be necessary to reconvene, at an appropriate time, the Geneva Peace Conference in which the representatives of the PLO should participate on an equal footing with the other participants.",1975,positive,0.602783,"{'sadness': 0.268237, 'joy': 0.379808, 'fear': 0.061932, 'disgust': 0.110623, 'anger': 0.308336}"
+19,"218.	It is true that the Sinai agreement is only a first step on the long road towards solution of the Middle East conflict. There remain extremely difficult questions to be solved such as: first, the security of the State of Israel within frontiers which can only be final when a peace treaty is reached that its neighbors recognize; secondly, the withdrawal of Israeli troops from the territories occupied during the 1967 war; and thirdly, the recognition and practical implementation of the legitimate rights of the people of Palestine, which includes living in peace within its own State.",1975,positive,0.533127,"{'sadness': 0.30713, 'joy': 0.512761, 'fear': 0.087136, 'disgust': 0.014159, 'anger': 0.122783}"
+20,"163.	With regard to the Middle East, we are convinced that we shall be unable to achieve a just and lasting peace in the region as long as the rights of the Palestinian people continue to be trampled underfoot by Israel. My Government considers that stable peace in that region will be possible only through a comprehensive solution to the problem, with the participation of all the parties involved, including the PLO. The continued unlawful occupation by Israel of Arab territories and its refusal to recognize the inalienable right of the Palestinian people to establish a State on its own territory constitute the greatest obstacle to the achievement of a viable settlement of the Middle East conflict. This situation was aggravated again by the recent decision of the Israeli Government to make Jerusalem the eternal capital of its State. This constitutes a flagrant violation of the relevant resolutions of the United Nations and defiance of international conscience and morality. On the other hand, we recognize that the comprehensive solution of the Middle East problem requires the recognition by all States of the region of the legitimate right of Israel to national existence within secure boundaries.",1980,positive,0.247758,"{'sadness': 0.511881, 'joy': 0.484756, 'fear': 0.078651, 'disgust': 0.062058, 'anger': 0.127569}"
+21,"251.	The situation in the Middle East not only continues to be tense but has, in fact, deteriorated in the past several months. In keeping with our well-known position on this question, we support the right of every State in the area, including Israel, to live in peace and security within well-defined boundaries. However, a just and lasting settlement cannot be achieved unless the legitimate aspirations of the Palestinian people, their right to participate as equals in any peace negotiation and their right to a separate State of their own are recognized. The first prerequisite of a settlement is, of course, the unconditional withdrawal of Israeli forces from the territories occupied since 1967. Nepal regrets the continuing and escalating policy of Israel to change the political, legal and demographic character of the occupied territories. Such actions militate against the norms of international law and the repeated calls of the United Nations. They not only have complicated the already difficult situation but have also had a negative impact on prospects for a peaceful solution of the Middle East problem.",1980,negative,-0.308242,"{'sadness': 0.584389, 'joy': 0.461752, 'fear': 0.098281, 'disgust': 0.089159, 'anger': 0.125899}"
+22,"25.	The situation in the Middle East is becoming ever more precarious. The persistent refusal of Israel to evacuate the occupied Arab territories and recognize the inalienable rights of the Palestinian people blocks any hope of the solution of a problem which has lasted far too long. For its part, Rwanda remains profoundly convinced that that tragic conflict will find no just or lasting solution without the unconditional withdrawal of the Zionist troops from the Arab territories occupied since 1967 and total respect for the inalienable national rights of the Palestinian people, including their right to establish their own State. We also believe that the Palestine Liberation Organization [PLO], recognized as the sole legitimate representative of the Palestinian people, must be intimately involved in any search for a solution to this grave problem.",1980,negative,-0.657589,"{'sadness': 0.672625, 'joy': 0.037505, 'fear': 0.08107, 'disgust': 0.133296, 'anger': 0.350989}"
+23,"32.	The Muslim world wholeheartedly supports the just struggle of the people of Palestine under the leadership of their legitimate and sole representative, the Palestine Liberation Organization [PLO], for the liberation of their sacred territory from Zionist rule and occupation. It considers that the issue of Palestine is at the core of the Middle East question. Successive Islamic Conferences have demanded, first, the complete withdrawal of all Israeli forces from the occupied Arab territories, including Jerusalem; secondly, the exercise by the people of Palestine of their inalienable national rights, including the right to establish a sovereign State of their own in their homeland under the leadership of the PLO and, thirdly, the dismantling of all the so-called settlements in occupied Arab territories.",1980,positive,0.318778,"{'sadness': 0.31898, 'joy': 0.13092, 'fear': 0.062213, 'disgust': 0.171411, 'anger': 0.388082}"
+24,"109.	It is no less urgent that a settlement should be negotiated in the Middle East. That dispute is a continuing threat to world peace and security. The peace treaty between Egypt and Israel  was a conspicuous step forward, but it was only a beginning. The hopes that it would lead to a comprehensive and durable peace based on the principles embodied in Security Council resolution 242 (1967) have not been realized. They will not be until Israel acknowledges the rights and aspirations of the Palestinian people. Those include the right to self-determination and the right to establish a separate State, if that is their wish. Equally, the unilateral declaration on Jerusalem and the continued establishment of settlements in occupied territories can hardly be construed as anything but obstructions to a negotiated settlement.",1980,positive,0.284437,"{'sadness': 0.45451, 'joy': 0.491855, 'fear': 0.156212, 'disgust': 0.082026, 'anger': 0.136162}"
+25,"167.	The situation in the Middle East remains one of the greatest threats to international peace and security in our time. Liberia has consistently followed, and continues to follow, a policy based on the following: first, that a just and lasting peace cannot prevail in the Middle East without due recognition of the inalienable rights of the Palestinian people, including their right to a State of their own; secondly, Israel must completely withdraw from all occupied Arab lands; and, thirdly, all States in the region, including Israel, have a right to live freely within secured and internationally recognized boundaries, with the fullest respect for their territorial integrity and sovereignty.",1980,negative,-0.395383,"{'sadness': 0.220859, 'joy': 0.607499, 'fear': 0.118444, 'disgust': 0.025484, 'anger': 0.05948}"
+26,60.	Norway has from the outset given its support to the Camp David accords as an important first step towards a comprehensive peace settlement in the Middle East. But we clearly see that such a settlement presupposes a broader participation in the negotiations than is the case today. A major problem in that conflict-ridden area is the failure of the parties to recognize each other's existence and each other's right to exist. Genuine peace in the region will depend on the acceptance by all parties of Israel's right to live in peace within secure and recognized boundaries and the recognition of the national rights of the Palestinian people and its right to self-determination.,1980,positive,0.640677,"{'sadness': 0.239797, 'joy': 0.680755, 'fear': 0.033379, 'disgust': 0.025192, 'anger': 0.036178}"
+27,"75.	It is time now to call a halt to the protracted hullabaloo about the anti-Arab policy of separate deals. The only path to a just and lasting settlement in the Middle East is that of collective efforts by all parties concerned, including, of course, the Palestine Liberation Organization [PLO], on the basis of the full withdrawal of Israeli troops from all Arab territories occupied in 1967, including East Jerusalem, the implementation of the inalienable national rights of the Arab people of Palestine, including its right to self- determination and the creation of its own State, and the ensuring of an independent existence and development for all States of the area.",1980,negative,-0.689031,"{'sadness': 0.447668, 'joy': 0.073975, 'fear': 0.052444, 'disgust': 0.081148, 'anger': 0.151343}"
+28,"158.	We believe that the cornerstone of any solution to the Middle East problem must include the total and unconditional withdrawal of Israeli forces from all the occupied Arab territories, including the city of Jerusalem, and the recognition of the right of the Palestinian people to self- determination and to the establishment of an independent State in Palestine. We call upon all peace-loving States to express their solidarity with the Palestinian and Lebanese peoples in their resistance to and struggle against Israeli acts of aggression. We also call upon the United States of America to refrain from supporting Israeli aggression.",1980,negative,-0.320525,"{'sadness': 0.228789, 'joy': 0.403851, 'fear': 0.071431, 'disgust': 0.114802, 'anger': 0.347287}"
+29,"68.	Secondly, I have noted that all the Arab countries and the Palestinians unanimously consider Israel's withdrawal from the occupied territories and the right to self-determination of the Palestinian people to be two fundamental principles. This requirement, I feet, is part of a deeply felt demand for justice. That is why the creation of settlements and the recent law passed by the Israeli parliament declaring Jerusalem the capital of Israel are particularly resented by the Arabs. Each of the parties directly concerned categorically rejects an imposed solution prepared without its participation. That, of course, applies particularly to Israel and the Palestinians.",1980,positive,0.47893,"{'sadness': 0.610542, 'joy': 0.118308, 'fear': 0.129537, 'disgust': 0.093507, 'anger': 0.131234}"
+30,"Particularly dangerous for international peace are the hotbeds of tension and conflict which for so many years have been smoldering or actually flaring up one after another, taking their toll of innocent life. This applies, first and foremost, to the conflict in the Middle East. The situation in that region continues to be explosive. Encouraged by its 'strategic ally', Israel has not ceased its aggressive actions against Lebanon, as well as against the Palestinian people, and continues its illegal occupation of Arab territories. In our opinion, a just and lasting peace in the Middle East can be brought about only through the complete and unconditional withdrawal of Israel from all Arab territories occupied since 1967, the exercise of the inalienable rights of the Arab people of Palestine, including their right to establish an independent State, and the guaranteeing of the right of all countries in the region to exist in conditions of peace and security. Such a peace can be achieved only through collective efforts within the framework of an international conference under the auspices of the United Nations, with the participation of all parties concerned, including the Palestine Liberation Organization (PLO), the sole legitimate representative of the Arab people of Palestine.",1985,positive,0.330709,"{'sadness': 0.222491, 'joy': 0.550109, 'fear': 0.088619, 'disgust': 0.110501, 'anger': 0.221906}"
+31,"Peace in the Middle East, as elsewhere, can be achieved and sustained only by according justice to all parties. The dictates of justice demand that three principles should constitute the basis for a settlement. The first is the right of self-determination of peoples, which has been denied to the Palestinian people and lies at the root of the problem in the Middle East. The people of Palestine must
+be enabled to exercise this right and to create a State of their own in their homeland. Secondly, there must be unequivocal support for the fundamental principle that territory cannot be required by the use of force. Israel must agree to withdraw from all the Arab territories occupied since 1967, including the holy city of Jerusalem, the West Bank and Gaza, as well as from the Golan Heights. Thirdly, any durable settlement must be comprehensive in nature. This can be achieved only with the participation of all the parties directly concerned, including the Palestine Liberation Organization.",1985,positive,0.473791,"{'sadness': 0.174234, 'joy': 0.62503, 'fear': 0.105448, 'disgust': 0.095952, 'anger': 0.185818}"
+32,"The Government of Finland remains convinced that the basis for a comprehensive settlement to the Arab-Israeli conflict lies in Security Council resolutions 242 (1967) and 338 (1973). Israel must withdraw from Arab territories occupied since 1967. Acquisition of territories by force is inadmissible. The right of Israel and all other states in the area to exist within secure and recognized boundaries must be guaranteed. Furthermore, provision must be made for the legitimate rights of the Palestinians, including their right to national self-determination. This presupposes the right of the Palestinians and the Palestine Liberation Organization (PLO), as the most significant representative of Palestinian national aspirations, to participate in negotiations on their own future within a comprehensive solution to the conflict.",1985,positive,0.65638,"{'sadness': 0.217721, 'joy': 0.160304, 'fear': 0.124011, 'disgust': 0.093484, 'anger': 0.136903}"
+33,"As has been said countless times, the question of Palestine lies at the heart of the crisis in the Middle East and the Arab-Israeli conflict. Since they are inextricably linked, no partial or isolated solution can lead to just, comprehensive, lasting peace in the region. Such peace can be based only on the
+total, unconditional withdrawal of Israeli troops from all the occupied Palestinian and other Arab territories, including Jerusalem and on recognition of the Palestinian people's inalienable rights, including the right to return to their homeland and their homes, the right to self-determination without outside interference and the right to establish their own independent, sovereign State in Palestine.",1985,positive,0.302018,"{'sadness': 0.340014, 'joy': 0.40704, 'fear': 0.151425, 'disgust': 0.050667, 'anger': 0.151008}"
+34,"It is high time for the international community to put an end to the arrogance and acts of aggression on the part of Israel, and to support the just rights of the Palestinian people, based on the justice of the Palestinian cause and the fact that it is the core of the Middle East conflict and that peace and security in the region will not be achieved except through a recognition of the inalienable national rights of the Palestinian people, including its right to return to its homeland, to determine its own future, and to establish an independent State on its national territory under the leadership of the Palestine Liberation Organization (PLO), its sole legitimate representative.",1985,negative,-0.87063,"{'sadness': 0.358902, 'joy': 0.271654, 'fear': 0.135721, 'disgust': 0.079212, 'anger': 0.30195}"
+35,"Bangladesh's position on this question has been firm and consistent and we have always extended our unequivocal support to our Palestinian brothers in their legitimate struggle for the restoration of their inalienable rights to self-determination, freedom and independence, under the leadership of the Palestine Liberation Organization (PLO), their sole, legitimate representative. We condemn the continued Israeli occupation of the Arab and Palestinian territories, as well as the establishment of the settlements on the occupied lands. The recent wanton Israeli attack on the PLO headquarters in Tunis is the latest manifestation of Israeli aggression. The Government and people of Bangladesh were outraged at this dastardly attack.",1985,negative,-0.575877,"{'sadness': 0.281985, 'joy': 0.052636, 'fear': 0.351114, 'disgust': 0.169677, 'anger': 0.436431}"
+36,"In the Middle East, the wars that assail the region constitute a reason for continuing concern on the part of the international community, especially when their effects are extended to States which, traditionally peaceful, are attacked
+for welcoming on their soil the legitimate representatives of a people whose right to an independent, sovereign homeland was usurped. It is our conviction that, regardless of the framework agreed upon, whether it be regional or international, a just and lasting solution of the conflict in the Middle Bast will not be achieved with the exclusion of the Palestine Liberation Organization (PIO), the authentic and legitimate representative of the Palestinian people.",1985,negative,-0.352882,"{'sadness': 0.262442, 'joy': 0.378136, 'fear': 0.144244, 'disgust': 0.064048, 'anger': 0.219315}"
+37,"The Government of Liberia believes that a comprehensive settlement in the Middle East will have to meet the following conditions: the withdrawal of the Israeli forces from all occupied Arab territories; respect for and acknowledgment of the sovereignty, territorial integrity and political independence of every State in the area and their right to live in peace within secure and recognized boundaries, free from threats or acts of force; and a just settlement of the Palestinian problem based on recognition of the legitimate rights of the Palestinian people, including the right of self-determination.",1985,positive,0.816903,"{'sadness': 0.379479, 'joy': 0.297784, 'fear': 0.114657, 'disgust': 0.10167, 'anger': 0.232627}"
+38,"The right of Israel and other States in the area to exist must be recognized. Security Council resolutions 242 (1967) and 338 (1973) should be the basis for a negotiated settlement. In our opinion, these resolutions mean that Israel should withdraw from the territories occupied in 1967 in exchange for peace being ensured within secure and recognized boundaries. For a settlement to be lasting, it is also required that the Palestinian people achieve self-determination. They have, if they so wish, the right to for a state of their own on the West Bank and in the Gaza strip.",1985,positive,0.528289,"{'sadness': 0.373225, 'joy': 0.282789, 'fear': 0.069128, 'disgust': 0.073169, 'anger': 0.048885}"
+39,"As regards the Middle East, the Government of Barbados reiterates its conviction that the question of Palestine is central to this conflict and that lasting peace in the region cannot be established until the inalienable rights of the Palestinian people, including their right to a homeland, are respected. We reaffirm our support for Security Council resolution 242 (1967), which cites as essential to a viable settlement the withdrawal of Israel from occupied territories and recognition of the right of all States to live in peace within secure and recognized boundaries.",1985,positive,0.987319,"{'sadness': 0.136569, 'joy': 0.412739, 'fear': 0.041049, 'disgust': 0.042305, 'anger': 0.108731}"
+40,"With regard to the Middle Eastern region, we are alarmed by Israel's increased intransigence. The prevalent unstable situation is rendered more dangerous by Israel's negative posture on any move to find a just and durable solution to the issue of Palestine. Let me unequivocally declare that Bangladesh's commitment to the Palestinian cause is unflinching. We condemn Israel's provocative action in settling Jewish immigrants in the occupied territories. We consider reprehensible their atrocious repression of the glorious intifadah. Israel's control of the West Bank, Gaza and the Golan Heights clearly rest on force, and must cease. Israel must withdraw from all territories illegally occupied since 1967. The inalienable national rights of the Palestinian people, including a State of their own with Jerusalem as its capital, must be restored. In this connection, we reaffirm our call for the early convening of an international peace conference with the participation of all States, including the Palestine Liberation Organization, on an equal footing.",1990,negative,-0.294048,"{'sadness': 0.458323, 'joy': 0.174792, 'fear': 0.186364, 'disgust': 0.115392, 'anger': 0.170417}"
+41,"Still with regard to the Middle East, we cannot overlook the deadlock in the
+search for a solution to the Israeli-Arab question, which has been aggravated by violence that has been endemic for three years now in the occupied territories presenting another major challenge to peace. Hopes of progress towards a solution seen to depend on the opening of a dialogue between all the interested parties, especially between the Israelis and the Palestinians, within the framework of negotiations acceptable to both parties. In any event, the Haitian Government strongly supports the efforts already initiated with a view to beginning a negotiation process on the basis of commonly acknowledged principles, contained in particular in Security Council resolutions 242 (1967) and 338 (1973). For it should be repeated that the key to any solution lies in Israel's right to live in peace within secure borders, internationally recognised and guaranteed, and in the Palestinian people's exercise of its legitimate rights to a homeland and self-determination.",1990,positive,0.761252,"{'sadness': 0.045649, 'joy': 0.76031, 'fear': 0.023592, 'disgust': 0.020308, 'anger': 0.132716}"
+42,"The Middle East has been s region of rising tension and confrontations for a long time. However, the situation has recently been exacerbated by the invasion and annexation of Kuwait by Iraq. That invasion has been condemned by the international community, including Kenya. My country, while complying with the United Nations Security Council resolutions on the crisis, urges that no effort be spared in the search for a peaceful solution to the problem. We certainly cannot allow the acquisition of territory by use of force by any State. The Middle East has seen little progress, and Kenya continues to be concerned over the unstable situation in the region. At the core of the problem remains the question of Palestine, and we are deeply concerned at the continued deterioration in the conditions of the Palestinian people in the occupied territories. We appeal to Israel to withdraw from all territories occupied since 1967 and express our regret that all attempts to alleviate the situation have been rejected.",1990,negative,-0.679042,"{'sadness': 0.615905, 'joy': 0.133777, 'fear': 0.162257, 'disgust': 0.143626, 'anger': 0.190165}"
+43,"The absolute need to settle the Gulf crisis must not allow us to forget the need also for a comprehensive approach to the situation in the Middle East. We continue to believe it urgent for Israel to begin dialogue with the Palestinian people that could lead to a comprehensive and just settlement on the basis of 'land for peace'; such a settlement can be based only on Security Council resolutions 242 (1967) and 338 (1973). My Government still views the policy of Jewish settlements in the occupied territories as illegal from the point of view of international law; that policy is an obstacle to peace in the region. We are convinced of the need for a just and lasting solution that will both protect the self-determination of the Palestinian people and recognise secure borders for all the countries of the region. We believe the most appropriate avenue is an international conference under United Nations auspices, with the participation of all the parties concerned.",1990,positive,0.313827,"{'sadness': 0.277439, 'joy': 0.381641, 'fear': 0.130069, 'disgust': 0.093707, 'anger': 0.175491}"
+44,"At the same time, we must deal with the question of Palestine, which is the crux of the Middle East conflict. We must see to it that Security Council resolutions 242 (1967) and 338 (1973) are implemented in an effective manner, as those resolutions define the conditions for the establishment of a just and lasting peace in the Middle East - namely, the inadmissibility of the acquisition of territory by force or by war; the withdrawal of Israeli armed forces from Arab territories occupied since 1967; the termination of all belligerency; respect for, and recognition of, the sovereignty, territorial integrity and political independence of every State in the area, and its right to live in peace within secure and recognized borders free from threats or acts of force; and the necessity for achieving a just settlement of the refugee problem and for guaranteeing the territorial inviolability and political independence of every State in the area.",1990,positive,0.403723,"{'sadness': 0.278547, 'joy': 0.266794, 'fear': 0.192664, 'disgust': 0.107108, 'anger': 0.23425}"
+45,"The European Community has been firm and consistent in its contribution to the search for a solution to the conflict in the Middle East on the basis of Security Council resolutions 242 (1967) and 338 (1973). That is and continues to be our policy, unwavering in recognising that the solution lies in the right of the Palestinians to self-determination and in that of the State of Israel to exist within secure, guaranteed borders. Just as action was being stepped up to initiate dialogue between Israel and the Palestinians, and as the international community was becoming increasingly alarmed at the intolerable situation in the occupied territories, the Iraqi aggression took place and has delayed the search for a solution. The Community's policy nevertheless remains the same and it will not be diverted by the present crisis from the search for a just, lasting and comprehensive solution based on the aforementioned principles.",1990,positive,0.576057,"{'sadness': 0.305162, 'joy': 0.222441, 'fear': 0.092412, 'disgust': 0.055247, 'anger': 0.18375}"
+46,"In this regard, the Republic of Yemen calls for a solution to the complex, chronic problems of interest to the Arab region, foremost among which is the question of the Palestinian Arab people, through the same perspective and through the application of the same criteria which affirm the principles of inadmissibility of the occupation of territory by force, the withdrawal of the Israeli forces from the occupied Arab and Palestinian territories including Jerusalem, the Syrian Golan Heights and southern Lebanon, to ensure the independence and sovereignty of Lebanon and to establish the independent Palestinian State, as well as the adoption of immediate steps to halt Jewish immigration to the occupied Arab and Palestinian territories.",1990,negative,-0.539405,"{'sadness': 0.278716, 'joy': 0.141703, 'fear': 0.264293, 'disgust': 0.050082, 'anger': 0.25176}"
+47,"The significant exception in this otherwise happy trend of resolving regional conflicts through peaceful dialogue is the situation in the Middle East. Complicated as it is now by the current situation in the Gulf, the Middle East crisis continues to pose a serious threat to regional peace and security. In this regard, my country will continue to support the realisation of the legitimate aspirations of all the peoples in the region as well as the right of all the regional States to live within recognised and guaranteed borders. Ethiopia will also continue to encourage peaceful dialogue between all the parties concerned within the framework of Security Council resolutions 242 C1967) and 336 C1973).",1990,positive,0.396979,"{'sadness': 0.162235, 'joy': 0.420661, 'fear': 0.318807, 'disgust': 0.074872, 'anger': 0.037841}"
+48,"In West Asia there can be no durable peace without a just and comprehensive settlement based on the inalienable rights of the Palestinian people to self-determination, as well as the right of all States in the region, including Palestine and Israel, to live in peace and security within internationally recognised borders, in accordance with United Nations Security Council resolutions 242 (1967) and 336 (1973). Israel's attempts to suppress the intifadah or block progress towards a dialogue cannot succeed. A United Nations-sponsored international conference on the Middle East should be convened at an early date.",1990,negative,-0.298164,"{'sadness': 0.193979, 'joy': 0.476451, 'fear': 0.083541, 'disgust': 0.082458, 'anger': 0.074593}"
+49,"While the international community welcomes the fortunate outcome of the Iran-Iraq conflict, illustrated very recently by the spectacular withdrawal of Iraqi troops and the exchange of prisoners, it is none the less highly concerned over the explosive situation created in the Gulf region by the invasion and annexation of Kuwait by Iraq. That annexation violates the provisions of the Charter. My country supports all the resolutions adopted by the Security Council on this question and demands the unconditional withdrawal of the Iraqi armed forces from Kuwait to the internationally recognized borders, and the return to power of the legitimate Government of the Emirate.",1990,negative,-0.375838,"{'sadness': 0.265205, 'joy': 0.225673, 'fear': 0.266752, 'disgust': 0.075696, 'anger': 0.344478}"
+50,"Bahrain welcomes these steps and reaffirms its
+support for the Middle East peace process. It also
+supports the endeavours and efforts that aim at reaching
+a just, comprehensive and durable solution based on the
+principle of land for peace as well as Security Council
+resolutions 242 (1967) and 338 (1973). Proceeding from
+this, Bahrain reaffirms its support for the position taken
+by the Syrian Arab Republic regarding the restoration of
+its full sovereignty over its territories in the Syrian Golan
+that has been occupied since 1967. It is also important
+that the peace process should be reactivated on the
+Lebanese track and that Israel should be compelled to
+comply with Security Council resolution 425 (1978). For
+if peace is to prevail, it should include all parties without
+exception.",1995,positive,0.727403,"{'sadness': 0.011137, 'joy': 0.450087, 'fear': 0.013428, 'disgust': 0.005529, 'anger': 0.014287}"
+51,"In the same context, we are of the view that the
+achievement of a just, comprehensive and permanent
+peace in the Middle East is contingent on making tangible
+progress on the Syrian and Lebanese tracks. This will
+require a greater international effort, especially on the part
+of the two sponsors of the peace process, to encourage
+the Israeli Government to comply with its undertakings
+and obligations in the context of the principle of “land for
+peace” and of Security Council resolutions 242 (1967),
+338 (1973) and 425 (1978), which stipulate complete and
+unconditional Israeli withdrawal from all the occupied
+Arab and Palestinian territories, including the holy city of
+Al-Quds, the Syrian Golan and southern Lebanon.",1995,positive,0.79347,"{'sadness': 0.01904, 'joy': 0.765552, 'fear': 0.024289, 'disgust': 0.004963, 'anger': 0.036092}"
+52,"In the Middle East, we welcomed last year, the
+implementation of the Peace Accords between Israel and
+the PLO, which resulted in autonomy for Gaza and
+Jericho. Today, we note with satisfaction that further
+progress has been made in this peace process, culminating
+in the recent signing in Washington of new and promising
+agreements between the parties. This is, indeed, a step
+forward which we must encourage and support. My
+Government looks forward to similar progress in future
+negotiations on outstanding issues, including the Golan
+Heights, the status of Jerusalem, and other equally
+important issues for the final settlement of the deep-
+rooted conflict in the Middle East.",1995,positive,0.850639,"{'sadness': 0.047071, 'joy': 0.869285, 'fear': 0.012699, 'disgust': 0.006104, 'anger': 0.054024}"
+53,"Our delegation notes with satisfaction the progress
+made in the settlement of the Middle East conflict. We
+believe that the continuation of the direct dialogue between
+Israel and the Palestine Liberation Organization (PLO) will
+finally lead to a comprehensive solution providing for
+respect for the right of all States of the region to live in
+peace within internationally recognized borders. We deeply
+regret the terrorist acts that are periodically carried out in
+the region and which considerably hamper the peace
+process. Such acts must be severely condemned.",1995,positive,0.352816,"{'sadness': 0.101079, 'joy': 0.806388, 'fear': 0.021507, 'disgust': 0.011495, 'anger': 0.079476}"
+54,"In that same region of the world, the residue of the
+Gulf war, unfortunately, are still taking their toll. The
+Islamic Republic of Mauritania, which, from the very
+beginning, given its commitment to international legality,
+has totally rejected any infringement of the independence
+and territorial integrity of fraternal Kuwait, and called for
+resolving the question of Kuwaiti prisoners and detainees,
+now wishes to declare its rejection of any infringement of
+the unity and territorial integrity of Iraq. Mauritania
+believes it is now time to put an end to the suffering of
+the brotherly Iraqi people.",1995,negative,-0.8493,"{'sadness': 0.745105, 'joy': 0.03842, 'fear': 0.09355, 'disgust': 0.05389, 'anger': 0.282193}"
+55,"Across the gulf, we invite Iran, with which the Arab
+world entertains well-known links and well-known
+differences at the same time, to seek to settle the problem
+of the Arab islands in the Gulf, namely: Abu Musa and
+Greater and Lesser Tunb Islands and to respect the
+sovereignty of the United Arab Emirates. This will no
+doubt serve the interests of stability in that part of the
+Middle East and work in favour of normal Arab-Iranian
+relations.",1995,positive,0.794958,"{'sadness': 0.095323, 'joy': 0.735579, 'fear': 0.066698, 'disgust': 0.036426, 'anger': 0.076383}"
+56,"The United Arab Emirates and the Islamic Republic of
+Iran have not yet arrived at a final settlement of their
+dispute over the future of the islands of Abu Musa and
+Greater and Lesser Tumbs. In light of our historical
+relations with those two sisterly countries, and given the
+relations of neighbourliness and friendship between the
+peoples of the United Arab Emirates and Iran, we look
+forward the day when there will be a final solution to this
+dispute so that the region may revert to the spirit of
+coexistence that once characterized it.",1995,positive,0.453745,"{'sadness': 0.037071, 'joy': 0.839187, 'fear': 0.030889, 'disgust': 0.014269, 'anger': 0.094086}"
+57,"In the Middle East, we view the developments that
+started a few years ago with the mutual recognition of the
+PLO and Israel, followed later by the signing of the
+Washington Declaration between Jordan and Israel, which
+ended the state of war between them, as extremely
+important positive steps towards the full realization of
+peace in that region. In like manner, we welcome the just-
+concluded Interim Agreement on Jericho and the West
+Bank, signed by Israel and the PLO in Washington.",1995,positive,0.928884,"{'sadness': 0.101649, 'joy': 0.728689, 'fear': 0.042816, 'disgust': 0.012211, 'anger': 0.131276}"
+58,"With this, a major turning-point, manifested by the
+declaration of principles, has been given concrete form. The
+Israeli-Palestinian peace process is now irreversible. I also
+hope that the talks between Israel and Syria will soon
+resume and that negotiations will start between Israel and
+Lebanon so that a just and lasting peace, in accordance with
+Security Council resolutions 242 (1967), 338 (1973) and
+425 (1978), be guaranteed throughout the region.",1995,positive,0.488542,"{'sadness': 0.037283, 'joy': 0.301312, 'fear': 0.136307, 'disgust': 0.00419, 'anger': 0.020128}"
+59,"Fortunately, in Palestine, another historical flash point,
+efforts continue to be made towards durable peace. That
+peace process must result in a Palestinian homeland, a
+viable State at peace with its neighbours. The attempts to
+weaken the present Palestinian leadership by undermining
+its credibility will only result in the rise of extremism and
+a protracted and bloody intra- Palestinian conflict which
+will spill over into Israel and elsewhere.",1995,positive,0.496433,"{'sadness': 0.183352, 'joy': 0.39517, 'fear': 0.162345, 'disgust': 0.055321, 'anger': 0.377292}"
+60,"Armed conflict and tensions persist in many parts
+of the world. In the Middle East we must continue to
+focus our attention on the core of the conflict, namely,
+the legitimate struggle of the Palestinian people to
+secure their inalienable rights to self-determination and
+sovereign statehood in their own homeland, with
+Jerusalem as its capital. In this context, my delegation
+commends the Palestinian leaders for their
+statesmanlike approach. They have demonstrated their
+commitment to peace through the decision to share the
+city of Jerusalem, while remaining committed to their
+national rights, in order to reach a compromise. Hence,
+it behoves Israel to make a similar compromise so that
+a final settlement can be achieved. The withdrawal of
+Israel last June from southern Lebanon, following more
+than two decades of occupation, has finally restored the
+territorial integrity and sovereignty of Lebanon within
+its internationally recognized boundaries. My
+delegation also hopes for a resumption of the Israeli-
+Syrian peace talks, based on the Madrid peace formula.",2000,positive,0.649563,"{'sadness': 0.493388, 'joy': 0.623354, 'fear': 0.464128, 'disgust': 0.07046, 'anger': 0.090493}"
+61,"Turning to the Middle East, my country, while
+reaffirming its support for the peace process, considers
+that a just, lasting and comprehensive peace in the
+region can come about only on the basis of the Madrid
+agreements, the principle of land for peace, and the full
+implementation of Security Council resolutions 242
+(1967) and 338 (1973) to ensure complete Israeli
+withdrawal from the occupied Palestinian territories
+and from the Syrian Golan and the restoration to the
+Palestinian people of their legitimate national rights,
+foremost among them the right of self-determination
+and the right to the establishment of an independent
+State with the holy city of Al-Quds Al-Sharif as its
+capital. This requires us to intensify our efforts to
+overcome the obstacles to peace in the region, a region
+that so sorely needs a chance to realize its potential and
+to turn a new page in the history of its peoples. In that
+context, we note with satisfaction the Israeli
+withdrawal from southern Lebanon.",2000,negative,-0.312529,"{'sadness': 0.101359, 'joy': 0.746035, 'fear': 0.094239, 'disgust': 0.014442, 'anger': 0.027539}"
+62,"In order to achieve that objective it is essential to
+uphold one guiding principle that cannot be
+circumvented, namely, full withdrawal from all Syrian
+and Palestinian territories, including East Jerusalem, in
+return for Israel's right to be integrated into the Middle
+East as a partner with equal rights to security, peace
+and cooperation. That is the essence of resolutions 242
+(1967) and 338 (1973) and of the principle of land for
+peace. Lasting peace and security can be established
+only on that basis. If Arab territories, or any part of
+those territories, remain under occupation or if any
+question is settled in a manner inconsistent with the
+principles of fairness and justice, it would create a time
+bomb that could explode at any time. The desired peace
+and security cannot be fully realized without the
+establishment of a full-fledged, independent Palestinian
+State.",2000,positive,0.501881,"{'sadness': 0.121359, 'joy': 0.620433, 'fear': 0.058875, 'disgust': 0.005903, 'anger': 0.136917}"
+63,"Thus, in affirming our position of solidarity with
+the fraternal Palestinian people and their leadership,
+represented by the Palestinian Authority, we renew our
+call to the co-sponsors of the peace process — in
+particular the United States of America — and the
+other active States to continue exerting political and
+diplomatic efforts that support and promote
+negotiations between the Palestinian and Israeli sides,
+with the aim of finding a just and comprehensive
+settlement of the Palestine issue. In particular this
+settlement should resolve the issues of Al-Quds Al-
+Sharif and the refugees, on the basis of Security
+Council resolutions, especially resolutions 242 (1967)
+and 338 (1973). This should enable the Palestinian
+people to exercise their legitimate and inalienable
+rights to return to their homeland and to establish their
+own independent State, with Al-Quds Al-Sharif as its
+capital.",2000,positive,0.481039,"{'sadness': 0.085861, 'joy': 0.299935, 'fear': 0.113865, 'disgust': 0.1493, 'anger': 0.187283}"
+64,"We reiterate our full support to the Palestinian
+people and their rights to self-determination on their
+land and to establish an independent Palestinian State
+with Al-Quds Al-Sharif as its capital. In order to
+strengthen the pillars of peace and security in the
+region, there is no other sovereignty possible in Al-
+Quds Al-Sharif except that of the Palestinian State. We
+expect the State of Israel to understand this fact, which
+means that the sovereignty of the State of Palestine
+over Al-Quds Al-Sharif would also allow Israelis full
+freedom of access to worship and conduct their rituals
+in peace and security.",2000,positive,0.444336,"{'sadness': 0.075935, 'joy': 0.517552, 'fear': 0.101422, 'disgust': 0.145715, 'anger': 0.278367}"
+65,"The developments through which the peace
+process has gone on all tracks and in all stages have
+shown that the success of the process and the
+achievement of the desired just, comprehensive and
+durable peace are contingent upon the implementation
+of Security Council resolutions 242 (1967) and 338
+(1973) and of all relevant resolutions of international
+legality, which call for the withdrawal of Israel from all
+Arab territories occupied since 1967 and acknowledge
+the legitimate rights of the Palestinian people,
+including the right to establish their own independent
+state, with Jerusalem as its capital.",2000,positive,0.9447,"{'sadness': 0.032943, 'joy': 0.62879, 'fear': 0.038425, 'disgust': 0.009958, 'anger': 0.030123}"
+66,"Peace in the Middle East cannot last unless it is
+comprehensive. This makes the establishment of peace
+on the Syrian track essential and a sine qua non for
+peace in the region as a whole. Negotiations on this
+track must, therefore, resume in order to reach an
+agreement ensuring the return to Syria of the occupied
+Golan Heights to the line of 4 June 1967 in
+implementation of Security Council resolutions 242
+(1967) and 338 (1973).",2000,positive,0.80371,"{'sadness': 0.027807, 'joy': 0.195329, 'fear': 0.059947, 'disgust': 0.019315, 'anger': 0.035206}"
+67,"Despite the efforts of the international
+community, peace throughout the Middle East remains
+elusive. We hope that the important progress made so
+far will pave the way for achieving a just and lasting
+peace in the region. We would like to see an enduring
+peace in the Middle East, one which would guarantee
+the restoration of the inalienable rights of the
+Palestinian people and the right of Israel to exist within
+secure and recognized borders.",2000,positive,0.934021,"{'sadness': 0.101995, 'joy': 0.786892, 'fear': 0.011474, 'disgust': 0.016822, 'anger': 0.088524}"
+68,"The prerogatives of peace are not commensurate
+with the Israeli No's'. These No's' run counter to the
+resolutions of international legitimacy that provided for
+the return to Syria of the entire Golan up to the line of
+4 June 1967. These resolutions also recognized the
+need to enable the Palestinian people to recover their
+inalienable rights, including their right to self-
+determination, the establishment of their independent
+State on their own national soil, with Jerusalem as its
+capital, and their right to return to their homeland in
+Palestine.",2000,neutral,0.0,"{'sadness': 0.236244, 'joy': 0.487828, 'fear': 0.080234, 'disgust': 0.050689, 'anger': 0.067073}"
+69,"The issue of Jerusalem is the key to peace in the
+region, and it must be solved on the premise that East
+Jerusalem is Palestinian territory occupied since 1967
+to which resolution 242 (1967) applies. East Jerusalem
+should be under Palestinian sovereignty so that it may
+30
+
+become the capital of the independent State of
+Palestine. Arab and Muslim rights to the Islamic and
+Christian holy places in Jerusalem must be preserved.",2000,neutral,0.0,"{'sadness': 0.112061, 'joy': 0.552669, 'fear': 0.11882, 'disgust': 0.032843, 'anger': 0.176958}"
+70,"Kuwait reaffirms its full support for the struggle
+of the Palestinian people to attain all their legitimate
+political rights. Kuwait demands that Israel move
+forward in fulfilling all its commitments and
+obligations under the relevant United Nations
+resolutions, primarily Security Council resolutions 242
+(1967), 338 (1973) and 1515 (2003), in accordance
+with the principle of land for peace and the provisions
+of the Arab peace initiative, the bilateral accords it
+signed with the Palestinian Authority within the
+framework of the peace process, and the road map,
+with all its provisions and obligations. Israel must also
+end its policy of oppressing the Palestinian people,
+dismantle the separation wall and release all
+Palestinian detainees.",2005,negative,-0.653038,"{'sadness': 0.091253, 'joy': 0.341404, 'fear': 0.061863, 'disgust': 0.020042, 'anger': 0.099548}"
+71,"It is clear that we must quickly begin a political
+dialogue, which is the only means to end the conflict in
+the Middle East and to restore calm there. In this
+context, my country believes that the Israeli
+withdrawal from Gaza and a few cities of the West
+Bank constitutes an important step towards the
+implementation of the road map and the Arab peace
+initiatives. Through those initiatives Arab States have
+proposed to Israel a comprehensive peace and normal
+relations in exchange for total withdrawal from all
+Palestinian territories and from Syrian and Lebanese
+territories, a return to the 4 June 1967 borders, the
+establishment of a Palestinian State with East
+Jerusalem as its capital, and a negotiated, just
+settlement of the problem of Palestinian refugees.",2005,positive,0.680538,"{'sadness': 0.1769, 'joy': 0.467542, 'fear': 0.090602, 'disgust': 0.023915, 'anger': 0.348222}"
+72,"Tragically, the Palestinian people are still under
+Israeli occupation. The international community is
+called upon to force Israel to halt its illegal practices in
+the occupied Palestinian territories, to dismantle the
+separation wall, to withdraw from all the Arab
+territories that it occupied in 1967 and to allow the
+Palestinian people to realize their legitimate rights,
+including their right to an independent State, with
+Al-Quds as its capital. The international community
+should take action to bring about a comprehensive,
+peaceful settlement of the Arab-Israeli conflict, in
+accordance with the resolutions of international
+legitimacy, the road map, the principle of land for
+peace and the Madrid terms of reference.",2005,negative,-0.469611,"{'sadness': 0.226256, 'joy': 0.356886, 'fear': 0.08228, 'disgust': 0.159188, 'anger': 0.297362}"
+73,"Jordan welcomes the Israeli withdrawal from the
+Gaza Strip and certain settlements in the northern West
+Bank. We stress that this withdrawal is not an
+alternative to the road map but must be part of it, and
+that both the Israeli and Palestinian sides must carry
+out their respective obligations under the road map as
+well as the recent Sharm el-Sheikh Understandings. In
+that regard, we call upon Israel to withdraw its military
+forces from the Palestinian towns reoccupied in
+September 2000 and to cease all forms of settlement
+activity in the occupied West Bank, including East
+Jerusalem.",2005,negative,-0.467481,"{'sadness': 0.289343, 'joy': 0.182695, 'fear': 0.222341, 'disgust': 0.064541, 'anger': 0.397632}"
+74,"The United Arab Emirates welcomes Israel’s
+withdrawal from the Gaza Strip and parts of the
+northern West Bank and hopes that the international
+community will urge Israel to complete its withdrawal
+from the Arab and Palestinian territories occupied
+since 1967, including the Syrian Golan and the
+Lebanese Shaba’a farms, dismantle the separation wall
+and discontinue its settlement plans and activities, in
+accordance with the resolutions of international
+legitimacy, the Arab peace initiative based on the land-
+for-peace principle, and the Quartet’s road map.",2005,negative,-0.645482,"{'sadness': 0.23319, 'joy': 0.557324, 'fear': 0.047819, 'disgust': 0.009701, 'anger': 0.165385}"
+75,"Firmly convinced of the importance of adopting
+peaceful solutions in resolving disputes and issues of
+foreign occupation, particularly in the Middle East and
+the Arab Gulf region, the United Arab Emirates calls
+upon the Islamic Republic of Iran to respond to its
+peaceful initiatives aimed at resolving the issue of
+Iran’s occupation of the three islands of the United
+Arab Emirates — Greater Tunb, Lesser Tunb and Abu
+Musa — through bilateral negotiations or by referral to
+the International Court of Justice.",2005,neutral,0.0,"{'sadness': 0.203257, 'joy': 0.366908, 'fear': 0.045006, 'disgust': 0.06751, 'anger': 0.292248}"
+76,"In the Middle East, the withdrawal of the
+occupying Power from the Gaza Strip and part of the
+West Bank brings us closer, fortunately, to our common
+vision of an independent State of Palestine living side
+by side with the State of Israel within secure and
+internationally recognized borders. We believe that the
+Quartet’s road map can lead the Israeli and Palestinian
+peoples to that goal. We call upon their leaders to
+remain committed to the route of peace.",2005,positive,0.555946,"{'sadness': 0.197523, 'joy': 0.590315, 'fear': 0.039139, 'disgust': 0.098894, 'anger': 0.096917}"
+77,"Without a just solution to the Palestinian-Israeli
+conflict peace will continue to elude the Middle East
+with consequences that will affect the whole world. My
+delegation supports the vision of a two-State solution,
+with Israel and Palestine living side by side in peace
+and security. We also welcome Israel’s withdrawal
+from Gaza and the West Bank as a step towards a
+complete withdrawal from the rest of the occupied
+Palestinian territory.",2005,positive,0.405494,"{'sadness': 0.361539, 'joy': 0.480771, 'fear': 0.040314, 'disgust': 0.021283, 'anger': 0.167407}"
+78,"There is no room for illusions. Azerbaijan will
+never compromise its territorial integrity. Only the
+return of all the occupied territories to Azerbaijan will
+help restore our trust and confidence in Armenia and
+its declared intention of establishing good-neighbourly
+relations with Azerbaijan. Such a step would remove
+the label of aggressor from the Government of
+Armenia — a label it inherited after it occupied the
+territories of Azerbaijan — and allow both parties to
+benefit from the opportunities the settlement of the
+conflict will bring.",2005,positive,0.471247,"{'sadness': 0.030324, 'joy': 0.707318, 'fear': 0.016148, 'disgust': 0.018329, 'anger': 0.046999}"
+79,"The situation in the Middle East is seeing some
+tangible progress. We welcome the process of Israeli
+disengagement from Gaza and the northern West Bank,
+and we commend the efforts of the President of the
+Palestinian Authority, Mahmoud Abbas, to find a
+peaceful and lasting solution to the conflict. We urge
+both the Israeli and the Palestinian peoples to continue
+the much-needed confidence-building measures so as
+to achieve a just and lasting peace.",2005,positive,0.757601,"{'sadness': 0.109779, 'joy': 0.779961, 'fear': 0.018309, 'disgust': 0.011204, 'anger': 0.103493}"
+80,"It is important for the Israeli side to realize that 
+negotiations are not an end in themselves. They are 
+neither a game nor a waste of time. A serious approach 
+must be the basis and distinguishing mark of the 
+negotiating process. Without the required seriousness 
+and credibility, the process will soon lose the little 
+support it enjoys from the public on both sides. Egypt 
+believes that these negotiations should seek to end the 
+Israeli occupation of Palestinian territories and the 
+implementation of the two-State solution through the 
+establishment of an independent Palestinian State, with 
+East Jerusalem as its capital and its borders based on 
+the lines of 1967, as has been confirmed by the United 
+States, the sponsor of the negotiations, and the 
+international Quartet on all occasions and mentioned 
+by President Obama a few days ago.",2010,negative,-0.341797,"{'sadness': 0.427818, 'joy': 0.315588, 'fear': 0.261905, 'disgust': 0.055129, 'anger': 0.095936}"
+81,"The United Arab Emirates believes that peace in 
+the Middle East and resolution of the Arab-Israeli 
+conflict cannot be achieved without ending the Israeli 
+occupation of the occupied Palestinian and other Arab 
+territories. Israel’s withdrawal to the line of 4 June 1967, 
+including East Jerusalem, the Syrian Golan Heights and 
+the remaining occupied territories in southern Lebanon, 
+is also required in order to achieve a just and 
+comprehensive peace in accordance with the resolutions 
+of international legitimacy, and based on the principle 
+of land for peace and the Arab Peace Initiative.",2010,neutral,0.0,"{'sadness': 0.083116, 'joy': 0.647903, 'fear': 0.041296, 'disgust': 0.014609, 'anger': 0.070948}"
+82,"The resolution of the conflict in the Middle East, 
+for example, has long eluded the international 
+community. This is why we are hopeful with regard to 
+the latest efforts at peaceful negotiations between 
+Israel and Palestine being brokered by the current 
+United States Administration. If there is to be lasting 
+peace in the Middle East, there must be two States, 
+Israel and Palestine, living side by side in peace and 
+security. There must be direct negotiations with both 
+parties, Israel and Palestine, at the same table. Israel 
+must heed the international community’s unanimous 
+call to extend the moratorium on disputed settlements, 
+which would contribute positively to the negotiations.",2010,positive,0.677519,"{'sadness': 0.165984, 'joy': 0.625201, 'fear': 0.046095, 'disgust': 0.014083, 'anger': 0.130124}"
+83,"In the Middle East, despite 60 years of conflict 
+and scepticism due to past failures, there is renewed 
+hope for peace, thanks to the resumption of direct talks 
+between the Government of Israel and the Palestinian 
+Authority. The creation of a politically and economically 
+viable Palestinian State, living in peace side by side with 
+Israel, within secure and internationally recognized 
+borders, is an essential condition for the establishment 
+of lasting peace in the Middle East. We particularly 
+welcome the efforts of the Administration of President 
+Barack Obama to achieve that goal.",2010,positive,0.770805,"{'sadness': 0.119491, 'joy': 0.788055, 'fear': 0.023575, 'disgust': 0.017254, 'anger': 0.062405}"
+84,"We wish to stress our strong belief in the absolute 
+necessity of finding a solution to the chronic conflict in 
+the Middle East. Although we support the direct 
+negotiations between the Palestinians and the Israelis, 
+sponsored by the United States of America, we still 
+feel that the Israeli policy is vague with regard to 
+accepting Israel’s responsibility towards the requirements 
+of peace: the establishment of an independent, sovereign 
+and viable Palestinian State, with East Jerusalem as its 
+capital, and Israel’s withdrawal from all Arab lands to 
+the borders of 4 June 1967.",2010,positive,0.411201,"{'sadness': 0.493247, 'joy': 0.154926, 'fear': 0.270075, 'disgust': 0.027282, 'anger': 0.07075}"
+85,"During this vital period for the peace process in 
+particular, I urge both sides to refrain from taking any 
+action that might block the path to peace. We condemn 
+any form of violence that has the sole aim of 
+torpedoing the peace talks. At the same time, we call 
+for the moratorium on settlement construction to be 
+extended. Lasting peace will be achieved only through 
+a two-State solution, with Israel and a Palestinian State 
+living peacefully side by side within secure borders.",2010,positive,0.487058,"{'sadness': 0.094882, 'joy': 0.703156, 'fear': 0.117943, 'disgust': 0.051577, 'anger': 0.044418}"
+86,"That region will know no stability until a definitive 
+solution to the conflict is found. Such a solution must 
+be just and permanent and in accordance with 
+resolutions of international legitimacy. It must allow 
+the brotherly Palestinian people to exercise their full 
+right to establish their independent and viable State in 
+Palestine, with East Jerusalem as its capital. It must 
+also ensure the restoration of all occupied Arab 
+territories, including the Syrian Golan Heights and the 
+Lebanese Shab’a farms.",2010,positive,0.768229,"{'sadness': 0.124544, 'joy': 0.378017, 'fear': 0.082466, 'disgust': 0.024175, 'anger': 0.161362}"
+87,"In the Middle East, the launch of direct bilateral 
+negotiations should, we hope, lead to comprehensive 
+peace based on the two-State solution, with an 
+independent and viable Palestine living side by side in 
+peace and security with Israel and other neighbouring 
+countries. From this rostrum, I wish full success to the 
+direct negotiation process among officials of those two 
+countries, sponsored by President Barack Obama of the 
+United States of America.",2010,positive,0.648589,"{'sadness': 0.144958, 'joy': 0.746838, 'fear': 0.061502, 'disgust': 0.01635, 'anger': 0.018685}"
+88,"In this spirit we support the Palestinian people’s 
+just struggle to secure their inalienable rights, 
+including the establishment of a Palestinian State on 
+the land of Palestine, as we work to implement the 
+internationally legitimate resolutions aimed at 
+returning the occupied Arab territories. We consider the 
+Arab Peace Initiative to be a practical step towards 
+resolving the Arab-Israeli conflict and achieving 
+security, peace and stability in the Middle East.",2010,positive,0.782291,"{'sadness': 0.188479, 'joy': 0.504923, 'fear': 0.087643, 'disgust': 0.018925, 'anger': 0.170047}"
+89,"We are willing and ready to reach a 
+comprehensive, just and lasting peace, based on rights 
+and justice and on the resolutions of international 
+legitimacy. Such a settlement must lead to the 
+withdrawal of Israel, the occupying Power, from all the 
+Arab and Palestinian territories occupied since 1967, 
+including East Jerusalem, so that the State of Palestine, 
+with East Jerusalem as their capital, can enjoy 
+independence and sovereignty and so that peace can 
+prevail throughout the Middle East.",2010,positive,0.988722,"{'sadness': 0.105681, 'joy': 0.703531, 'fear': 0.038989, 'disgust': 0.009814, 'anger': 0.077576}"
+90,"Lebanon denounces Israel’s continued occupation of Palestinian land and its blockade of the Gaza Strip. We call upon the international community to compel it to lift that inhumane blockade and ensure decent living conditions for the Palestinians. We condemn the repeated Israeli attacks on the Al-Aqsa Mosque and warn of their serious repercussions. We hold Israel responsible for the failure to reach a peaceful settlement to the conflict based on the two-State solution. In the meantime, we call upon the Security Council to take the appropriate action to resume negotiations, aimed at ending the occupation within a specified time frame, based on resolutions 242 (1967) and 338 (1973), the Madrid terms of reference and the Arab Peace Initiative. While Lebanon rejects the resettlement of refugees on
+its territory, we also stress the right of Palestinians to return to their homeland, in accordance with the relevant United Nations resolutions.",2015,negative,-0.36001,"{'sadness': 0.507677, 'joy': 0.130708, 'fear': 0.509478, 'disgust': 0.152726, 'anger': 0.181566}"
+91,"For Tunisia, the Palestinian cause remains at the core of important issues and conflicts in the region. We therefore reiterate our full support to the brotherly Palestinian people as it seeks to recuperate its legitimate rights to self-determination and the establishment of its independent State. Tunisia supports efforts for the continuance of peace negotiations between Palestinians and Israelis on the basis of a timeline for ending the occupation, and for the adoption of a United Nations resolution that would put an end to the Israeli occupation and restore to the Palestinian people their legitimate rights. We also condemn the ongoing Israeli blockade of the Gaza Strip and its settlement policy, which is in violation of international law and international legitimacy. They represent an attempt to impose a new status quo and to undermine the two-State solution as well as efforts to continue talks on the basis of a solution that would guarantee security and stability for all countries of the region.",2015,positive,0.463439,"{'sadness': 0.262703, 'joy': 0.394501, 'fear': 0.065569, 'disgust': 0.094234, 'anger': 0.311986}"
+92,"The Syrian Arab Republic reiterates its support for the full restoration of the occupied Syrian Golan to the line of 4 June 1967. It also emphasizes its rejection of all actions taken by Israel, the occupying Power, to alter the geographic or demographic characteristics of
+the occupied Syrian Golan, in clear violation of relevant Security Council resolutions, in particular resolutions 497 (1981) and 465 (1980). Furthermore, Syria confirms that the issue of Palestine is of central concern to the Syrian people, who support the inalienable and legitimate rights of the brotherly Palestinian people, in particular the right of return, the right to self- determination and the right to the establishment of an independent State on their own land, with Jerusalem as its capital.",2015,neutral,0.0,"{'sadness': 0.174574, 'joy': 0.116821, 'fear': 0.058925, 'disgust': 0.153253, 'anger': 0.062928}"
+93,"The international community, represented in the Security Council, is duty-bound to assume its responsibilities by taking a firm stance that would force Israel to comply with the deliverables of peace, namely, to halt all forms of settlement activity in the occupied Palestinian territories; to lift the unjust siege of the Gaza Strip; and to implement the resolutions of international legitimacy that recognize the Palestinian people’s right to regain their legitimate national rights and establish an independent Palestinian State on the basis of the 1967 borders, in conformity with the principle of the two-State solution.",2015,negative,-0.613316,"{'sadness': 0.274656, 'joy': 0.327035, 'fear': 0.29028, 'disgust': 0.054667, 'anger': 0.164989}"
+94,"Attaining that happiness will be possible only when the legitimate rights of the Palestinian people are granted through the establishment of an independent Palestinian State, with East Jerusalem as its capital, within the borders of 4 June 1967. Occupation, coercive practices and the construction and expansion of settlements should come to an end. The right of Palestinians to return to their towns and villages, consistent with the relevant international resolutions, the two-State solution and the Arab Peace Initiative, must be acknowledged.",2015,positive,0.672339,"{'sadness': 0.102195, 'joy': 0.798371, 'fear': 0.041681, 'disgust': 0.023524, 'anger': 0.036623}"
+95,"Peace in the Middle East cannot be achieved in the midst of the ongoing Israeli occupation of the Palestinian territories, which denies the rights of the Palestinian people and seeks in all possible ways to Judaize the city of Jerusalem. The occupation flies in the face of all international resolutions on the inalienable rights of the Palestinian people, in particular on the right of return and the right to establish an independent State with full sovereignty over its territory, with East Jerusalem as its capital.",2015,negative,-0.779865,"{'sadness': 0.189881, 'joy': 0.476952, 'fear': 0.067401, 'disgust': 0.124404, 'anger': 0.21728}"
+96,"In other parts of the world, we remain deeply concerned about the situation in the Middle East. The Israeli-Palestinian conflict has remained unresolved for several decades, without any real promise of an end in sight. Botswana continues to lend its unequivocal support to the two-State solution, and we join the call for constructive dialogue by the parties involved.",2015,positive,0.271975,"{'sadness': 0.307316, 'joy': 0.315564, 'fear': 0.201978, 'disgust': 0.092518, 'anger': 0.296427}"
+97,"Of course, in the Middle East we continue to be committed to an agreement between Israelis and Palestinians that goes via the two-State solution with mutually agreed borders. We must revitalize the peace process. Spain will always be willing to support the parties to return to the path of direct negotiations.",2015,positive,0.875774,"{'sadness': 0.11032, 'joy': 0.784332, 'fear': 0.042259, 'disgust': 0.011981, 'anger': 0.061928}"
+98,"A fair and lasting solution of the Middle East conflict unquestionably requires the true exercise by the Palestinian people of their inalienable right to build their own State within the borders existing prior to 1967, with its capital in East Jerusalem, which we strongly support.",2015,positive,0.934817,"{'sadness': 0.158229, 'joy': 0.580155, 'fear': 0.121745, 'disgust': 0.05946, 'anger': 0.094658}"
+99,"Elsewhere in the region, Ireland remains concerned at the continued stalemate in the Middle East peace process. We are strong advocates of the two-State solution as the only way to achieve a just and lasting peace for the Israeli and Palestinian peoples.",2015,positive,0.917415,"{'sadness': 0.137891, 'joy': 0.720955, 'fear': 0.064956, 'disgust': 0.009722, 'anger': 0.097895}"

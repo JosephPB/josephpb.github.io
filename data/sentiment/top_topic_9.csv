@@ -1,0 +1,434 @@
+,text,year,sentiment,score,emotion
+0,"24.	Furthermore, Cuba has said that the projected growth rate corresponds not even remotely to the plight of the developing countries. An annual per capita growth rate of between 3.5 per cent and 4.5 per cent in those countries means that the average annual income of the inhabitants of the countries of the third world would be approximately equivalent to 10 per cent of the average income of people in the developed capitalist countries and 5 per cent of the per capita income of the citizens of the United States. Such a prospect is hardly satisfactory for millions of men and women who live in poverty and who are prepared to fight for a more dignified existence.",1970,negative,-0.670728,"{'sadness': 0.13827, 'joy': 0.228936, 'fear': 0.331102, 'disgust': 0.052475, 'anger': 0.089914}"
+1,"46.	In the second year, the country having 310.5 end a 3.5 per cent increase would increase by 10.86; but the one having 1,224 with a 2 per cent increase would increase its income by 24.48. If in the case of the latter we assume an increase of 1 per cent, which would be a ridiculous figure given the growth rate of the developed countries, and on the assumption that in the first year there was also a 1 per cent growth, the per capita income would rise by 12.12 and this figure is higher than 10.86.",1970,negative,-0.825057,"{'sadness': 0.166588, 'joy': 0.271052, 'fear': 0.257592, 'disgust': 0.071955, 'anger': 0.144804}"
+2,"26.	After the end of the last world war, assistance of wealthy peoples to developing countries increased at a relatively satisfactory pace untU about 1960, enabling those countries to reach an average rate of growth of their gross national product of 5 per cent per year; but since that date this assistance has remained stationary, despite repeated appeals of the international Organization to the wealthy countries to devote at least 1 per cent of their national income each year to assistance.",1970,positive,0.734166,"{'sadness': 0.278639, 'joy': 0.134051, 'fear': 0.062236, 'disgust': 0.282703, 'anger': 0.0569}"
+3,"57.	The foreign debt of the developing countries, created by large export credits and development aid, has rapidly increased to almost 50 billion dollars, while the servicing of these debts has increased at the rate of 17 percent per annum, according to the Pearson report, which was drawn up by a high ranking commission of experts of the World Bank. The first Development Decade does not offer much reason for enthusiasm in most countries.",1970,positive,0.739851,"{'sadness': 0.244033, 'joy': 0.326468, 'fear': 0.379263, 'disgust': 0.030971, 'anger': 0.081329}"
+4,"174.	In addition, the national development plan for the years 19701974 has set a target for increasing the gross national income by a rate of 7.1 per cent annually. This equals twice the increase in population, and will, in turn, double the gross national income in ten years.",1970,neutral,0.0,"{'sadness': 0.084992, 'joy': 0.017921, 'fear': 0.18484, 'disgust': 0.310416, 'anger': 0.188303}"
+5,"and leaves only 15 per cent to 2,300 million people out of 3,000 million inhabitants of our planet.",1970,negative,-0.753049,"{'sadness': 0.299883, 'joy': 0.186091, 'fear': 0.215101, 'disgust': 0.184706, 'anger': 0.146639}"
+6,"56.	That rate of 5 per cent per annum really meant something much less in the average per capita earnings in the peripheral countries. Even though the goals were so modest they were not attained nor was implementation of the recommendations attained, such as the one that the industrialized nations set aside 1 per cent of the gross national product of each of them to aid the developing areas. The point we have reached has been graphically described in the Pearson report  with these figures: 34 per cent of the world population, composed of industrialized nations, received 87.5 per cent of the gross national product of all countries; 66 per cent of the world population, corresponding to the group of less developed countries, received barely 12.5 per cent of the above mentioned gross national product; 22 per cent of the world population live in the less developed countries, where per capita income was less than 1 per cent per annum; 48 per cent obtained from 1 to 2 per cent and only 30 per cent of the outside countries have exceeded 2 per cent.",1970,negative,-0.364268,"{'sadness': 0.253758, 'joy': 0.079271, 'fear': 0.118071, 'disgust': 0.159136, 'anger': 0.097893}"
+7,"211.	That is why Belgium is happy to be able to announce that its total aid will exceed 1 per cent of its gross national product in 1970, as in previous years. Moreover, it wishes to stress that its public aid rose 10 per cent in 1968, and 12 per cent in 1969, which placed it fourth among the industrialized countries. This public aid will further increase in 1971, by 18 per cent.",1970,positive,0.630951,"{'sadness': 0.135975, 'joy': 0.421501, 'fear': 0.192488, 'disgust': 0.217765, 'anger': 0.093186}"
+8,"189.	The situation will become even more difficult in the future. According to calculations by experts, the total indebtedness of the countries of Asia, Africa and Latin America will reach $90,000  $100,000 million by 1980, and payments on these debts will exceed total annual receipts from external sources.",1970,negative,-0.434537,"{'sadness': 0.333851, 'joy': 0.059725, 'fear': 0.254052, 'disgust': 0.057656, 'anger': 0.209615}"
+9,"117.	It is ever more inadmissible to countenance the perpetuation of the coexistence of two parallel worlds: one, a rich world in which 40 per cent of the earth's inhabitants share 88 per cent of the combined gross national products, while the other, a poor world, torn by hunger, poverty and ignorance is a world in which 60 per cent of the earth's population benefits only from the remaining 12 per cent of the gross national products.",1970,negative,-0.956989,"{'sadness': 0.552106, 'joy': 0.051519, 'fear': 0.063843, 'disgust': 0.224911, 'anger': 0.330915}"
+10,"82.	In our next development plan, the Fiji Government is giving the highest priority to improving the quality of life in our rural sector. There is much that can be done to make people comfortable in rural areas. This means devoting more resources to the provisions of roads, water supplies and electricity, and to improving education and health facilities for our rural population. In order that their basic needs for food and shelter may be met, they should be encouraged to appreciate the fact that locally-grown food and locally available building materials could be significantly better than imported items. Our aim should be to improve the subsistence economy of the rural sector but not to substitute for it.",1975,positive,0.789016,"{'sadness': 0.149062, 'joy': 0.544593, 'fear': 0.068508, 'disgust': 0.033818, 'anger': 0.036471}"
+11,"26.	Thirdly, foreign nationals are continually increasing their capture of immature fish so that the replacement of stocks is increasingly endangered. This is shown, for instance, by the fact that the most important fish stock in Icelandic waters, namely, cod, has now been reduced to spawning only once in its lifetime. And the average age of the fish caught is now much lower than ever before. The total fishing effort is now 100 per cent greater than it was 20 years ago, but the catch is even less than it was then. The implications are evident.",1975,negative,-0.355667,"{'sadness': 0.267064, 'joy': 0.495512, 'fear': 0.113515, 'disgust': 0.141777, 'anger': 0.066037}"
+12,"18.	Since 1825, the date when we began our independent life, Bolivia has generated, on an annual average at present prices, -wealth amounting to $300 million; it created wealth of more than $40,000 million. However, its total investments hardly reached $1,000 million. We are therefore far from having the resources that the country requires to tackle the first stages of its development.",1975,positive,0.425569,"{'sadness': 0.032639, 'joy': 0.666624, 'fear': 0.050339, 'disgust': 0.02081, 'anger': 0.00809}"
+13,"140.	Bhutan is an agricultural country and we have to import the essential materials needed for the sustenance of our economy. We have high potential to expand production for exports. Our minerals, forest produce and potential for hydro-electric power are being harnessed to meet our needs. The life-blood of our economy is road transport. Being a land-locked country, the increased transportation cost adds to our problem.",1975,positive,0.742083,"{'sadness': 0.196292, 'joy': 0.227929, 'fear': 0.459835, 'disgust': 0.035875, 'anger': 0.141397}"
+14,"68.	It is unacceptable that while S300.000 million are disbursed annually in military expenditure, millions of people should continue to live on the verge of starvation. And it is intolerable that 53 percent of the world's population should receive only 30 per cent of the world's income, and that the upper JO per cent of income earners, in poor countries should receive over 40 per cent of the total income.",1975,negative,-0.903522,"{'sadness': 0.236911, 'joy': 0.096432, 'fear': 0.279859, 'disgust': 0.136368, 'anger': 0.150565}"
+15,"239.	At present the amounts disbursed by developing countries for military purposes are 20 times higher than expenditure on development assistance. In 1973, for example, the developed countries allocated 6.6 per cent of their gross national product to military expenditure, while they contributed only 0.26 per cent to development assistance.",1975,neutral,0.0,"{'sadness': 0.0574, 'joy': 0.15787, 'fear': 0.088018, 'disgust': 0.202634, 'anger': 0.085643}"
+16,"298.	Chile is one of the countries which have been most affected by the present crisis, owing both to the lack of fuel and to the extraordinary fall in the price of copper, which is its main export product. The effect both factors have had on us is the approximate equivalent of 50 per cent of the value of Chile's exports.",1975,negative,-0.66003,"{'sadness': 0.166435, 'joy': 0.077884, 'fear': 0.24216, 'disgust': 0.045877, 'anger': 0.123308}"
+17,"79.	Most of us are plagued with the twin problems of inflation and unemployment because there has been too much emphasis on material growth and expansion. There is, as a result of this growth mentality, a persistent demand for an increased share of the national income, even when there is zero growth in productivity.",1975,negative,-0.574495,"{'sadness': 0.202459, 'joy': 0.658845, 'fear': 0.090456, 'disgust': 0.022554, 'anger': 0.052425}"
+18,"11.	Every year more than $3,000 million is being squandered on military expenditure. It would be wonderful if mankind used those resources to combat ignorance, disease and hunger!",1975,negative,-0.76089,"{'sadness': 0.172549, 'joy': 0.444975, 'fear': 0.143601, 'disgust': 0.057801, 'anger': 0.288625}"
+19,"199.	The international assistance promised will amount to approximately $1,500 million. The deficit to be covered is therefore approximately $3,000 million.",1975,neutral,0.0,"{'sadness': 0.179204, 'joy': 0.246052, 'fear': 0.042868, 'disgust': 0.035282, 'anger': 0.016505}"
+20,"219.	Apart from the direct effects the shortage of food has on the populations of our agrarian economies, food insecurity is a major constraint on the development of our countries. It causes increased food imports, resulting in a loss of much-needed foreign exchange earnings. The magnitude of the problem is illustrated by the disclosure by FAO that Africa's grain imports will increase from 11 million metric tons in 1978 to 15 million metric tons in 1985. Imports had already risen from 4.2 million metric tons in 1970 to the 1978 level. Thus, our foreign exchange earnings, already eroded in real terms by the increased worsening of the terms of trade, are consequently being consumed by this rising import bill, instead of being augmented through domestic investments for economic development.",1980,negative,-0.770051,"{'sadness': 0.610053, 'joy': 0.08192, 'fear': 0.199525, 'disgust': 0.114653, 'anger': 0.078253}"
+21,"133.	In Somalia we continue to face the problem of dealing with the largest refugee population in the world. The number of refugees currently being cared for in and outside camps has passed the one and a half million mark and continues to increase steadily, with a daily influx of well over 1,000 refugees arriving at camps. Since we were already experiencing the difficulties of underdevelopment, world inflation and natural disasters, it can be readily understood that this refugee problem has placed a quite intolerable burden on our country.",1980,negative,-0.911384,"{'sadness': 0.816292, 'joy': 0.081138, 'fear': 0.121968, 'disgust': 0.089433, 'anger': 0.042274}"
+22,"32.	The problem of the lack of water is at present the most crucial one, both for human beings and for cattle. The lack of water has devastating effects on the sole resource of the population. In fact, between 20,000 and 25,000 persons have lost all their livestock and are at present grouped in nine camps, and the Government must help them to meet all their needs. Water and food assistance must be provided to more than 100,000 persons who have lost a considerable percentage of their livestock—approximately 80 per cent.",1980,negative,-0.748156,"{'sadness': 0.243929, 'joy': 0.084917, 'fear': 0.217337, 'disgust': 0.167925, 'anger': 0.121322}"
+23,"34.	When we look at any of the widely used economic indices, what do we find? We find, for example, that poor developing States suffer from much higher rates of inflation. Recent reports indicate that inflation rates in non-oil- producing developing countries averaged 29.4 per cent in 1979 with even higher rates predicted for 1980. The comparable statistics for the advanced industrial States is reported at just under 10 per cent for both years.",1980,negative,-0.834133,"{'sadness': 0.223815, 'joy': 0.021015, 'fear': 0.414992, 'disgust': 0.052399, 'anger': 0.047132}"
+24,"119.	The gross domestic product for 1979 decreased by 25.1 per cent, and together with a negative growth rate of 6.9 per cent in 1978, brought us to the unusual position in which the gross domestic product per capita had dropped to its level no less than 17 years earlier, in 1962.",1980,negative,-0.84227,"{'sadness': 0.075233, 'joy': 0.0291, 'fear': 0.092245, 'disgust': 0.424034, 'anger': 0.121183}"
+25,"129.	In the case of my country, tens of thousands of refugees have fled to Indonesia in the last two years and more still are entering the country every month. A great many of them have already been resettled in third countries, but several thousands are still in the processing centres especially built for them, waiting for permanent resettlement.",1980,positive,0.426494,"{'sadness': 0.697247, 'joy': 0.122461, 'fear': 0.151937, 'disgust': 0.12379, 'anger': 0.078388}"
+26,"36.	There is also the continuing anomaly that confronts us of aid flows being reduced while defence expenditures increase. In the light of third world poverty, the difference between annual global military expenditure, now approaching $450 billion, and official development assistance of some $20 billion can only be termed outrageous.",1980,negative,-0.684287,"{'sadness': 0.407629, 'joy': 0.313975, 'fear': 0.181736, 'disgust': 0.053703, 'anger': 0.127003}"
+27,"158.	First, hydrocarbons provide the main source of usable energy in today's world, and secondly, supplies of this non-renewable source will be exhausted in the foreseeable future. While the relative emphasis attached to either of these may vary from country to country, we are all greatly affected by both in the long run.",1980,positive,0.592497,"{'sadness': 0.376188, 'joy': 0.11374, 'fear': 0.474117, 'disgust': 0.00385, 'anger': 0.019213}"
+28,57.	It is said that as much as 20 per cent of our people in the developing countries are seriously undernourished; 50 per cent do not have pure water; 60 per cent do not have proper health care; and 20 per cent of the babies die before they reach the age of five.,1980,negative,-0.951504,"{'sadness': 0.355046, 'joy': 0.24903, 'fear': 0.146613, 'disgust': 0.124209, 'anger': 0.124924}"
+29,143.	Here 1 appeal particularly to the Communist industrial countries. In recent years their assistance has amounted to only about 0.1 per cent of their gross national product. Almost three quarters of that aid went to just two developing countries.,1980,positive,0.985868,"{'sadness': 0.232647, 'joy': 0.078193, 'fear': 0.150036, 'disgust': 0.481326, 'anger': 0.114146}"
+30,"In reviewing the pressing problems confronting Africa, I wish to highlight the exceptionally grave situation the continent is undergoing - a situation which cannot just be described as an economic crisis, but a tragic human crisis. Fully to appreciate the dimension of the suffering, it is worth mentioning that an estimated five million children are feared to have died in 1984 alone as a result of the severe famine, while more than 150 million people were faced with the danger of serious food shortage in the same year. At the same time, per capita food production decreased by 11 per cent compared to the 1970 figures while per capita income in most African countries has been steadily declining throughout the past few years.",1985,negative,-0.832317,"{'sadness': 0.585644, 'joy': 0.011855, 'fear': 0.554592, 'disgust': 0.104267, 'anger': 0.030946}"
+31,"During the first six months of this year we experienced a balance-of-payments surplus of $2.5 billion. This figure is a dramatic turn-around from the $1.8 billion deficit we experienced in 1984 and the $2.7 billion shortfall in 1983. The deficit in our balance of trade has likewise decreased from $316 million in the first half of 1983 to $261 million in the first half of this year. We achieved this reduction notwithstanding the depressed prices for most of our
+primary export products. Our imports for 1984 were 12.6 per cent lower than in 1983.",1985,negative,-0.752362,"{'sadness': 0.726018, 'joy': 0.121676, 'fear': 0.112674, 'disgust': 0.01107, 'anger': 0.045357}"
+32,"This economic contraction affected the most important social and economic sectors. Exports from the mining sector, which was in a steep decline, dropped by over 25 per cent as compared with 1977. The agricultural sector, which accounts for two-thirds of the population, experienced a similar drop over the same period. Urban unemployment and underemployment are at present the lot of approximately 40 per cent of the active urban population. Between 1982 and 1984 exports as a whole fell by 50 per cent, which was reflected in a sharp decline in the rate of domestic development.",1985,negative,-0.70958,"{'sadness': 0.144532, 'joy': 0.055316, 'fear': 0.097848, 'disgust': 0.035202, 'anger': 0.235327}"
+33,"For Bolivia the fall in the prices of basic export products due to the world recession meant a decline of approximately 20 per cent in its gross domestic product. If population growth and the negative impact of of inflation are taken into account, it can be stated that per capita national income fell by more than 30 per cent between 1983 and 1985.",1985,negative,-0.72025,"{'sadness': 0.117927, 'joy': 0.0173, 'fear': 0.167571, 'disgust': 0.105579, 'anger': 0.223906}"
+34,"Under traditional terms, in 1986 we should have to pay $2.4 billion to service the debt, plus $3.1 billion owed from the year before, which would in all represent a commitment of $5.5 billion payable in 1986. This amounts to 160 per cent of our exports, estimated at $3.4 billion for next year.",1985,negative,-0.42254,"{'sadness': 0.23423, 'joy': 0.129804, 'fear': 0.169892, 'disgust': 0.031737, 'anger': 0.076058}"
+35,"It was estimated that, at the end of 1984, Bolivia's public and private external debt amounted to $4,693 billion. Exports that year totaled approximately $780 million, whereas imports amounted to some $520 million. In the meantime, external debt servicing in 1984 had risen to a total of $804 million, a figure that the Bolivian State was materially unable to pay.",1985,neutral,0.0,"{'sadness': 0.539142, 'joy': 0.024452, 'fear': 0.313406, 'disgust': 0.124073, 'anger': 0.232117}"
+36,"The immensity of the drug problem is vividly illustrated by a finding in a recent study that in one major country alone the earnings of traffickers in cocaine, heroin and marijuana have been estimated at between $US 90 and $US 100 billion per year, a sum which may well exceed the national budgets of most of the developing countries combined.",1985,negative,-0.895728,"{'sadness': 0.428715, 'joy': 0.064494, 'fear': 0.506369, 'disgust': 0.039898, 'anger': 0.039108}"
+37,"Our recent performance on this score is noteworthy. The share in income of the bottom 60 per cent of the families in our society increased from 21.7 per cent to 22.9 per cent between 1981 and 1983, or by 1.2 per cent in two years.",1985,positive,0.44277,"{'sadness': 0.087181, 'joy': 0.441632, 'fear': 0.082711, 'disgust': 0.057483, 'anger': 0.026186}"
+38,"We are shocked and overwhelmed by what we do not hesitate to call the scandal of the century - the fact that the net transfer of capital to the developing countries was $180 billion from 1978 to 1983, but became negative in 1984 and that the world debt amounts to approximately $900 billion, whereas military expenditures amounted to $820 billion for 1984 alone.",1985,negative,-0.938642,"{'sadness': 0.651189, 'joy': 0.05166, 'fear': 0.246882, 'disgust': 0.14653, 'anger': 0.132053}"
+39,"First, the 'vaccination commando' made it possible to immunize, within 15 days, 2.5 million children ranging in age from 9 months to 14 years, against measles, meningitis and yellow fever. The coverage was 106 per cent, showing that children from neighboring countries were also able to benefit.",1985,neutral,0.0,"{'sadness': 0.134816, 'joy': 0.219435, 'fear': 0.063264, 'disgust': 0.048537, 'anger': 0.025801}"
+40,"Niger, because of its geographical situation at the heart of the Sahel, is deeply concerned over the various problems engendered by environmental deterioration. Climatic modifications acting on seasonal rainfall make all forecasts for agriculture from year to year unreliable. Desertification and soil erosion are depriving our hard-working populations of their best lands, which constitute a major factor of production. All these elements are detrimental to the food self-sufficiency of our populations. However, environmental deterioration beyond my country also affects the atmosphere, the waters and the ozone layer, which has already been pierced in some places; and then there are acid rain, toxic wastes, industrial wastes and so on.",1990,negative,-0.858835,"{'sadness': 0.767124, 'joy': 0.069417, 'fear': 0.136155, 'disgust': 0.04044, 'anger': 0.171381}"
+41,"Rain forests, the most valuable of mankind's terrestrial assets, are being destroyed at an alarming rate daily. Our oceans are polluted by various contaminants - including fertiliser run-off, industrial wastes and oil spills - while low-lying agricultural lands weld wide, including entire islands in the Caribbean and in the South Pacific, are threatened with submersion by rising sea- levels brought about by global warming and the melting of the polar ice-caps. Ours is an ill planet which will become more ill unless our countries are willing to alter significantly our patterns of consumption.",1990,negative,-0.755179,"{'sadness': 0.588182, 'joy': 0.038464, 'fear': 0.367198, 'disgust': 0.066461, 'anger': 0.235167}"
+42,"In my own region, Latin America and the Caribbean, the 1980s have aptly been given the designation of the 'Lost Decade'. At the end of 1989 real per capita product in the region stood at the level of 13 years earlier. The rate of growth declined from 5.5 per cent in the 19708 to just over 1 per cent in the 1980s. As a result, per capita gross domestic product this year is almost 10 per cent lower than it was in 1980.",1990,negative,-0.871454,"{'sadness': 0.554763, 'joy': 0.0967, 'fear': 0.14655, 'disgust': 0.300657, 'anger': 0.088372}"
+43,"Many of these developing countries have ceased to grow in per capita terms, and phenomena such as poverty, misery, malnutrition and even hunger are becoming more and more a common concern of many of these countries. In most developing countries, immense human deprivation persists: 1 billion people live in absolute poverty and 900 million receive no education, while 14 million children die every year before the age of five.",1990,negative,-0.921825,"{'sadness': 0.682571, 'joy': 0.139855, 'fear': 0.232045, 'disgust': 0.032013, 'anger': 0.052794}"
+44,"As a result of rocket fire during this period, 155 residential houses, 8 mosques, 1 hospital, 2 colleges, 1 girls' school, the steam house of the third micro-rayon and 1 high school were destroyed. The private enterprises that have been damaged by rockets include a confectionary factory situated in the industrial park, where 3 workers were killed and 20 others were severely injured.",1990,neutral,0.0,"{'sadness': 0.638626, 'joy': 0.023035, 'fear': 0.209551, 'disgust': 0.150557, 'anger': 0.320311}"
+45,"Another key problem is the changing of the world climate through the greenhouse effect and the depletion of the ozone layer. Bach of the Earth's many environmental problems will be exacerbated if these two central problems are not solved. Air pollution, the extinction of species and erosion, will increase dramatically and reduce the chances of survival of future generations.",1990,negative,-0.816719,"{'sadness': 0.626567, 'joy': 0.132378, 'fear': 0.310205, 'disgust': 0.011719, 'anger': 0.065564}"
+46,Time is not on our side in this great venture. It is estimated that during the next two years nearly 100 million acres of tropical forests will be extinguished: 12 billion tons of carbon dioxide and other toxic pollutants will foul the air. In two years 50 billion tons of productive topsoil will be lost.,1990,negative,-0.495391,"{'sadness': 0.38907, 'joy': 0.363677, 'fear': 0.278766, 'disgust': 0.05117, 'anger': 0.020105}"
+47,"While the industrialized countries have been enjoying uninterrupted growth for eight years, the Majority of the developing countries have been stagnating or even falling back. Analysts agree that extreme poverty is rampant among 4 billion people at the same time as 800 million people are bathing in abundance.",1990,positive,0.774627,"{'sadness': 0.422189, 'joy': 0.516507, 'fear': 0.045364, 'disgust': 0.012061, 'anger': 0.037812}"
+48,"A lack of investment in health and education, especially in recent years, has caused a deterioration of services for the poor. Malnutrition, a lack of drinking water and poor education are problems we inherited from the dictatorship and from the difficulties of recent years.",1990,negative,-0.918661,"{'sadness': 0.738679, 'joy': 0.028001, 'fear': 0.202768, 'disgust': 0.098818, 'anger': 0.150495}"
+49,"The conflict has had consequences for Guinea, including demographic disturbances resulting from the massive influx of more than 380,000 refugees. Such a sudden and great concentration of people results in considerable sacrifices for the local population and for the Government.",1990,neutral,0.0,"{'sadness': 0.530848, 'joy': 0.133626, 'fear': 0.194514, 'disgust': 0.169391, 'anger': 0.140902}"
+50,"Many small island nations are painfully aware of the
+potential dangers that environmental degradation holds for
+3
+
+
+small island States like Saint Kitts and Nevis. Some of
+these dangers are: rising sea levels, coastal erosion, sea
+pollution and natural disasters. These problems are easily
+compounded, because small island States with limited
+resources, such as those in the Caribbean, lack the financial
+and technological capabilities to deal with them.",1995,negative,-0.707932,"{'sadness': 0.350816, 'joy': 0.177792, 'fear': 0.45712, 'disgust': 0.107057, 'anger': 0.096149}"
+51,"During the last decade, nearly 2 million children have
+died in wars and more than 5 million have been forced
+into refugee camps. More children die in wars than
+soldiers. At the present time throughout the world there
+are almost 30 million refugees and displaced persons in
+need of assistance. In the Great Lakes region of Africa,
+as the refugee nightmare deepens, we require urgent and
+concerted action to avert any danger of new tragedies.",1995,negative,-0.565645,"{'sadness': 0.646445, 'joy': 0.033621, 'fear': 0.41356, 'disgust': 0.170796, 'anger': 0.015673}"
+52,"After years of crisis, the Cuban economy experienced
+a 7 per cent growth in the past year while the budget deficit
+was reduced by almost half. Inflation, measured by the
+informal exchange market, was reduced by more than 80
+per cent, and at the end of the first half of 1995 the
+economy had grown by 2 per cent.",1995,negative,-0.752558,"{'sadness': 0.300839, 'joy': 0.114266, 'fear': 0.545766, 'disgust': 0.129327, 'anger': 0.196393}"
+53,"Despite these efforts, many parts of the world, sorely
+tried by poverty and backwardness, do not yet have
+sufficient food or enough drinking water, education or
+medical care. Civil war and natural disaster continue to
+endanger the economies of those same areas, which are
+already afflicted by a widespread world crisis.",1995,negative,-0.55234,"{'sadness': 0.750746, 'joy': 0.055954, 'fear': 0.105012, 'disgust': 0.127911, 'anger': 0.206474}"
+54,"It is unacceptable, indeed intolerable, that at the end
+of the twentieth century more than a billion people live in
+abject poverty and almost 1.5 billion men, women and
+children lack sufficient food and drinking water and have
+no access to education or the most elementary health care.",1995,negative,-0.9789,"{'sadness': 0.565273, 'joy': 0.34761, 'fear': 0.060178, 'disgust': 0.040805, 'anger': 0.067437}"
+55,"This is accomplished through the creation of 13 nature
+reserves and one national park and through additional
+plans to add half a million hectares of forest to the nature
+reserves in the short term. Hence, in the near future, 10
+per cent of all Surinamese territory will be protected.",1995,positive,0.451003,"{'sadness': 0.109755, 'joy': 0.457058, 'fear': 0.116314, 'disgust': 0.067937, 'anger': 0.027496}"
+56,"The situation of my country, Niger, like that of many
+other African States, is still fraught with difficulties of all
+kinds arising out of a disastrous economic environment. A
+50 per cent devaluation of our currency, the CFA franc,
+in January 1994 dealt a severe blow to the living standard
+of the population.",1995,negative,-0.873493,"{'sadness': 0.440104, 'joy': 0.159243, 'fear': 0.148928, 'disgust': 0.052855, 'anger': 0.095083}"
+57,"There is little need to emphasize the openness and
+vulnerability of Caribbean economies. We are exposed to
+the fury of natural disasters, as was evidenced by the
+havoc wrought by Tropical Storm Debbie, from which
+Saint Lucia is still recovering; the recent demolition of
+Antigua and Saint Kitts by Hurricane Luis; and the
+devastation of St. Croix, St. Thomas, St. Maarten and
+Dominica by Hurricane Marilyn.",1995,negative,-0.661308,"{'sadness': 0.10588, 'joy': 0.233343, 'fear': 0.23879, 'disgust': 0.041635, 'anger': 0.434166}"
+58,"The eminent Director of the University of
+Maryland’s Laboratory for Coastal Research recently
+described the measurement of sea-level rise as the
+“dipstick of climate change”. I would respectfully suggest
+that while sea-level rise is certainly the indicator, it is our
+islands and low-lying coastal areas that are the dipstick,
+but we are helplessly fixed and immovable.",1995,negative,-0.387781,"{'sadness': 0.275628, 'joy': 0.490193, 'fear': 0.103112, 'disgust': 0.206047, 'anger': 0.038691}"
+59,"The subject of climate change and global warming,
+phenomena that are influenced by mankind’s emissions of
+greenhouse gases into the atmosphere, remains of deep
+concern to the people of the Federated States of Micronesia.",1995,negative,-0.553905,"{'sadness': 0.405913, 'joy': 0.24339, 'fear': 0.196896, 'disgust': 0.063622, 'anger': 0.115272}"
+60,"Allow me to conclude by referring to a few
+figures. According to the latest report on development,
+produced by the World Bank, one fifth of the world's
+population, no less than 1.2 billion people, are living
+on less than one dollar a day. One out of five children
+die before reaching the age of five. The World Bank
+tells us also that the 20 richest countries have an
+average income which is 37 times higher than that of
+the 20 poorest countries and this gap is twice what it
+was 40 years ago.",2000,negative,-0.318294,"{'sadness': 0.562157, 'joy': 0.201365, 'fear': 0.214458, 'disgust': 0.015922, 'anger': 0.131883}"
+61,"The small island States of the Caribbean are
+among those countries most at risk from the adverse
+effects of climate change. Already, many of our islands
+are experiencing those effects in areas that impact
+directly on the important tourism sector of our
+economies. We are also prone to extremely damaging
+natural disasters, especially hurricanes and storm
+surges, which visit us annually with increasing
+frequency and ferocity. Our diverse region also
+experiences droughts and floods, volcanic eruptions
+and earthquakes, with equally devastating effects, if
+less regularly than the pleasantly named perennials.",2000,negative,-0.572448,"{'sadness': 0.402475, 'joy': 0.19623, 'fear': 0.470053, 'disgust': 0.004364, 'anger': 0.072035}"
+62,"All the indicators of poverty are there for us to
+see, and you can find them everywhere in Africa: weak
+primary educational systems, a lack of sanitary
+infrastructure, a lack of drinking water, of the proper
+conditions for hygiene, to name but a few. The African
+continent is part of that 1 billion inhabitants of our
+planet living on less than one dollar a day, while two-
+thirds of the population of the planet hold three-
+quarters of the world's income.",2000,negative,-0.600732,"{'sadness': 0.593328, 'joy': 0.099728, 'fear': 0.144369, 'disgust': 0.09162, 'anger': 0.212108}"
+63,"Poverty remains one of the areas of great concern
+in Africa. The number of poor people in our region
+living on less than one dollar a day is estimated to be
+300 million. That number represents more than
+40 per cent of Africa's total population. Indications are
+that the number of poor people in the continent is
+8
+
+likely to increase as Africa's output continues to drop.",2000,negative,-0.771011,"{'sadness': 0.670064, 'joy': 0.02405, 'fear': 0.224355, 'disgust': 0.111377, 'anger': 0.099193}"
+64,"Today more than one fifth of humanity lives on
+less than a dollar a day. Poverty, illiteracy and diseases
+are rife in the poor countries. Unemployment among
+youth is rampant. A growing population finds itself
+scrambling over shrinking resources in a stagnant
+economy, which has been the case in most developing
+countries. The AIDS pandemic has become a major
+scourge of the developing world, particularly in Africa.",2000,negative,-0.757472,"{'sadness': 0.489562, 'joy': 0.22273, 'fear': 0.377446, 'disgust': 0.019293, 'anger': 0.045753}"
+65,"Our determined efforts to rid the country of
+excruciating poverty are impeded by the HIV/AIDS
+pandemic. In the last decade, the extent of devastation
+caused by the pandemic in Malawi has been
+frightening. By targeting the productive age bracket of
+the population, HIV/AIDS has clearly begun to reverse
+the hard-won gains that the nation had made towards
+the close of the last decade.",2000,negative,-0.849357,"{'sadness': 0.502342, 'joy': 0.270885, 'fear': 0.28106, 'disgust': 0.03893, 'anger': 0.043302}"
+66,"Large-scale humanitarian assistance is of
+particular importance this year, because in the spring
+and summer the whole of Tajikistan was affected by a
+drought on a scale without precedent in the twentieth
+century. The loss of grain crops on irrigated land
+proved to be from 30 per cent to 50 per cent.",2000,negative,-0.353512,"{'sadness': 0.459985, 'joy': 0.155372, 'fear': 0.06928, 'disgust': 0.032385, 'anger': 0.041633}"
+67,"According to the World Bank, the revenue of the low-
+income countries accounts for only 6 per cent of the
+world's total, although they make up more than half of
+the world's population, while that of the developed
+countries is 80 per cent with only one sixth of the
+world population.",2000,neutral,0.0,"{'sadness': 0.067442, 'joy': 0.143797, 'fear': 0.143527, 'disgust': 0.079421, 'anger': 0.136822}"
+68,"We will continue to combat malaria, tuberculosis
+and other diseases. Malaria alone takes two lives every
+minute  of every day of every year, mainly those of
+children and pregnant women. We will significantly
+increase our contribution to the vaccination of children,
+so that they do not die of easily curable diseases.",2000,positive,0.337934,"{'sadness': 0.529074, 'joy': 0.271747, 'fear': 0.198203, 'disgust': 0.046721, 'anger': 0.064007}"
+69,"There are many regions in the world today that
+suffer from wars and conflicts. Famine and diseases
+such as cancer, malaria, and acquired immune
+deficiency syndrome (AIDS) still threaten the lives of
+millions. Resources provided by nature for the
+sustenance of life are being seriously endangered.",2000,negative,-0.919626,"{'sadness': 0.63245, 'joy': 0.121825, 'fear': 0.360195, 'disgust': 0.037184, 'anger': 0.050621}"
+70,"In the forested rural areas of my country, the only
+real options for economic growth often require the
+destruction of natural forests — either when clearing
+for agricultural commodities such as coffee, or through
+the sale of hardwood timber. Furthermore, the
+International Panel on Climate Change found that,
+during the 1990s, an estimated 20 to 25 per cent of
+annual global carbon emissions were generated through
+land-use change, primarily from the degradation of
+forest resources. That is the second largest source of
+global carbon emissions — second only to the
+combustion of fossil fuels. That has to change if we are
+to take responsibility to help with issues related to
+climate change.",2005,negative,-0.43666,"{'sadness': 0.160605, 'joy': 0.13661, 'fear': 0.316231, 'disgust': 0.002443, 'anger': 0.027991}"
+71,"In terms of agriculture and food security, Malawi
+has not fared well this year. My country is facing
+severe food shortages owing to the drought that we
+have had since January this year. As a result of a very
+poor harvest, we shall require approximately 270,000
+metric tons to feed some 4.2 million people who will
+be in need of food until the next harvest season,
+sometime in April or May next year. I therefore appeal
+to the world community to help us to obtain more food
+sources for our people.",2005,negative,-0.535324,"{'sadness': 0.534767, 'joy': 0.341511, 'fear': 0.074476, 'disgust': 0.105115, 'anger': 0.015074}"
+72,"The same report states, on page 3,
+'In 2003, 18 countries with a combined
+population of 460 million people registered lower
+scores on the human development index (HDI)
+than in 1990 - an unprecedented reversal. In the
+midst of an increasingly prosperous global
+economy, 10.7 million children every year do not
+live to see their fifth birthday, and more than 1
+billion people survive in abject poverty on less
+than a $1 a day.'",2005,negative,-0.745706,"{'sadness': 0.567139, 'joy': 0.30041, 'fear': 0.175259, 'disgust': 0.018127, 'anger': 0.023329}"
+73,"In much of Africa, one of the major causes and
+consequences of poverty is disease, mainly malaria and
+HIV/AIDS. These diseases continue to compromise the
+health situation in African countries, halting and even
+reversing health gains achieved in earlier years. The
+poor are caught in a complex poverty trap in which low
+income leads to low consumption, which in turn results
+in low capacity and low productivity.",2005,negative,-0.641455,"{'sadness': 0.637661, 'joy': 0.063916, 'fear': 0.435601, 'disgust': 0.059573, 'anger': 0.038663}"
+74,"This year, 500,000 families will be involved in
+Colombia’s programme — poor families that receive a
+State subsidy to feed and educate their children. In the
+near future, that number will rise to 1 million, in
+addition to the increase budgetary efforts undertaken
+under the aegis of the educational revolution. In 2006,
+10 million children will benefit from our nutrition
+programmes, and 570,000 elderly citizens will receive
+stipends to cover their most pressing needs.",2005,negative,-0.366847,"{'sadness': 0.214655, 'joy': 0.180057, 'fear': 0.032295, 'disgust': 0.655259, 'anger': 0.02773}"
+75,"My country, Grenada, knows quite well the
+challenges faced by developing countries. In less than
+one year Grenada experienced two hurricanes, causing
+infrastructural damage amounting to 250 per cent of
+our gross domestic product (GDP), crippling the
+tourism sector, increasing unemployment to 31 per cent
+and having an immeasurable psychological and social
+impact on our population.",2005,negative,-0.739623,"{'sadness': 0.210467, 'joy': 0.062973, 'fear': 0.263142, 'disgust': 0.178693, 'anger': 0.140948}"
+76,"While there is nothing we can do to prevent
+earthquakes and tsunamis, scientists have warned us
+for years that our continued dependence on and
+increasing consumption of fossil fuels is generating
+greenhouse gas emissions that are causing disruptive
+climate changes. Unless we diversify our sources of
+energy, we can expect to see more devastating
+hurricanes and floods in some parts of the world, along
+with drought and desertification in others.",2005,negative,-0.916029,"{'sadness': 0.205219, 'joy': 0.170866, 'fear': 0.496339, 'disgust': 0.010728, 'anger': 0.341817}"
+77,"In the area of health care, we in Antigua and
+Barbuda have a national medical benefits programme
+that provides low-cost access to health-care services
+and prescription drugs. Our child mortality rate is
+among the lowest in developing countries, and our
+nutrition level for children aged 5 years and under is
+among the highest.",2005,positive,0.788469,"{'sadness': 0.460832, 'joy': 0.254229, 'fear': 0.03829, 'disgust': 0.190567, 'anger': 0.049447}"
+78,"The “forest-keeper families” programme,
+involving some 33,000 families committed to
+maintaining their areas free from drugs and to
+supervising the recovery of the tropical forest, as well
+as a programme to provide care to the displaced and
+reintegrated, will cost Colombia some $300 million
+dollars next year.",2005,positive,0.728167,"{'sadness': 0.162506, 'joy': 0.45489, 'fear': 0.132982, 'disgust': 0.180066, 'anger': 0.045156}"
+79,"We have made provision in our budget to buy food for
+our people. We have also established a Feed-the-Nation
+Fund, through which people in Malawi from all walks
+of life are making voluntary donations to purchase
+food for the poorest of the poor. The response has been
+overwhelming.",2005,positive,0.49945,"{'sadness': 0.368497, 'joy': 0.058614, 'fear': 0.051518, 'disgust': 0.596121, 'anger': 0.215876}"
+80,"Thirdly, as if what I have already said were not 
+enough, we have also fallen victim to natural disasters 
+with an unusual frequency, which highlights the 
+extreme vulnerability of Guatemala to the effects of 
+climate change, given its location in a tropical area. We 
+had not even begun to recover from the effects of 
+tropical storm Stan of late 2005 when we were hit by a 
+serious drought in 2009 and, over the past few months, 
+ 
+ 
+41 10-55276 
+ 
+the eruption of the Pacaya Volcano, which caused 
+extensive damage to agriculture, followed by tropical 
+storm Agatha in June, which affected some 330,000 
+persons, killed approximately 100 and caused material 
+damage totalling an estimated $1 billion. These 
+estimates in human suffering and material losses have 
+continued to grow with the unprecedented levels of 
+rainfall during the past month, which has contributed 
+even more human victims and material damage.",2010,negative,-0.921964,"{'sadness': 0.856234, 'joy': 0.015816, 'fear': 0.181361, 'disgust': 0.074469, 'anger': 0.097675}"
+81,"The year 2010 has not been without its share of 
+catastrophes. The year began with a devastating 
+earthquake in Haiti — one of the worst disasters in 
+history. The death toll has been put at some 220,000 
+out of a population of around 9 million. The earthquake 
+has been estimated to cost $8 to $14 billion, according 
+to the Inter-American Development Bank. Against this 
+backdrop, many countries pledged assistance — up to 
+$1.5 billion. Sadly, only 10 per cent of the amount 
+pledged has been received by Haiti. In the midst of 
+these unfulfilled commitments, the humanitarian needs 
+of our sister island remain dire.",2010,negative,-0.906256,"{'sadness': 0.505585, 'joy': 0.10469, 'fear': 0.128688, 'disgust': 0.140344, 'anger': 0.087775}"
+82,"Few developing countries possess sufficient 
+financial and human resources to address adequately 
+the ongoing and anticipated impacts of global climate 
+change. According to World Bank estimates, the total 
+annual impact of potential climate change on all 
+CARICOM countries could be, in 2007 dollar prices, 
+$9.9 billion of our total gross national product (GDP), 
+or about 11.3 per cent of total GDP. That means that we 
+have no choice but to divert critical funding from our 
+poverty alleviation programmes to trying to protect our 
+countries from that formidable threat.",2010,negative,-0.548346,"{'sadness': 0.187968, 'joy': 0.13023, 'fear': 0.420591, 'disgust': 0.169864, 'anger': 0.030779}"
+83,"The results in reducing child mortality have been 
+equally encouraging. In 2009, we recorded 38 deaths 
+per 1,000 live births. That is a significant reduction 
+compared with past years. For example, there were 61 
+per 1,000 live births in 2002. The mortality rate for 
+children under five fell from 138 to 101 deaths per 
+1,000 live births in 2002, further dropping to 63 in 
+2009. The number of children immunized against 
+measles has increased substantially, with 84 per cent 
+vaccinated in 2009 as compared to 70 per cent in 2000.",2010,negative,-0.254792,"{'sadness': 0.510999, 'joy': 0.149661, 'fear': 0.097719, 'disgust': 0.083067, 'anger': 0.102806}"
+84,"Agriculture in my country is essentially a 
+subsistence affair that performs poorly despite the 
+country’s enormous potential. That includes 15 million 
+arable hectares, of which only 600,000 are cultivated 
+annually, as well as 16 million hectares of range land 
+for a herd of 2 million animals. We also have at our 
+disposal a vast network of rivers and streams, as well 
+as abundant rainfall amounting to 1,200 to 1,800 
+millimetres per year. Agriculture employs more than 75 
+per cent of working people in our country, contributing 
+about 53 per cent of our gross domestic product.",2010,neutral,0.0,"{'sadness': 0.465326, 'joy': 0.197873, 'fear': 0.151934, 'disgust': 0.241856, 'anger': 0.082388}"
+85,"Under current trends, science tells us that the 
+  
+ 
+10-55128 34 
+ 
+temperature will further increase by 4 to 7°C by the 
+end of this century, threatening the survival of many 
+States, including Solomon Islands. It is critical that we 
+have a clear plan for stabilizing greenhouse gas 
+emissions. Solomon Islands supports the call of the 
+small island developing States to restrict the 
+temperature rise to below 1.5°C and to bring down 
+greenhouse gas concentration to well below 350 parts 
+per million.",2010,positive,0.626059,"{'sadness': 0.10893, 'joy': 0.193756, 'fear': 0.392547, 'disgust': 0.045321, 'anger': 0.038824}"
+86,"It is known that climate change affects freshwater 
+resources and increases the probability of floods, 
+mudflows, landslides, droughts and other water-related 
+natural disasters. Furthermore, climate change 
+aggravates an acute scarcity of freshwater in certain 
+regions of our planet. For example, in Tajikistan, which 
+is the source of about 60 per cent of the water 
+resources for the entire region, during the last 30 years 
+over a thousand glaciers disappeared, out of a total of 
+13,000. I will add that Tajikistan’s share of gas 
+emissions is very low. All the electricity in Tajikistan is 
+generated by hydropower stations.",2010,negative,-0.671116,"{'sadness': 0.3752, 'joy': 0.052378, 'fear': 0.377427, 'disgust': 0.046699, 'anger': 0.234805}"
+87,"The past year has reinforced the need for better 
+disaster management. Just three weeks ago, residents in 
+Christchurch woke to the most destructive earthquake 
+in New Zealand in 80 years. Miraculously, there was 
+no loss of life, but the damage runs into billions of 
+dollars and people’s lives and livelihoods were 
+affected. Significant aftershocks are still affecting the 
+ 
+ 
+51 10-54965 
+ 
+population. But less than a month after the earthquake 
+hit, roads and buildings have been repaired, tourism 
+infrastructure is at almost full capacity, and people’s 
+lives are being rebuilt.",2010,negative,-0.415752,"{'sadness': 0.759179, 'joy': 0.077908, 'fear': 0.165715, 'disgust': 0.054341, 'anger': 0.147195}"
+88,"For a small island economy like Tuvalu’s, which is 
+highly reliant and dependent on the import of products 
+from overseas, the severe impact and consequences of 
+such crises also continue to be encountered by our 
+people. One element of that effect was the increased 
+cost of importing fossil fuel. The cost of fossil-fuel 
+dependency is having a crippling effect on our national 
+budget. We are in desperate need of renewable energy 
+and energy-efficiency technologies that are appropriate 
+to the unique conditions of Tuvalu.",2010,negative,-0.400674,"{'sadness': 0.114623, 'joy': 0.080674, 'fear': 0.710497, 'disgust': 0.090774, 'anger': 0.239125}"
+89,"More than 925 million people living with hunger 
+and malnutrition are a challenge that cannot be 
+postponed. Latin America can and wants to be part of 
+the solution. Ours is the region richest in biodiversity 
+on the planet, with the most megadiverse country in the 
+world, namely Brazil, and the country with the greatest 
+biodiversity per square kilometre, namely our country, 
+Colombia. The Amazon region alone holds 20 per cent 
+of the global supply of fresh water and 50 per cent of 
+the planet’s biodiversity.",2010,positive,0.439097,"{'sadness': 0.1534, 'joy': 0.742845, 'fear': 0.072758, 'disgust': 0.027051, 'anger': 0.020036}"
+90,"We realize that investments in human capital that target our large youth population would pay rich dividends. That is why our Government has placed particular emphasis on education and health care for all. We now offer stipends to 13.4 million poor students enrolled in sixth grade to the undergraduate level and free education for girls up to the higher secondary level in order to address the challenge of student drop-outs. On the first day of this year, we distributed over 326.35 million free text books throughout the country. Since 2010, nearly 1.59 billion text books have been distributed. This is perhaps the biggest such undertaking anywhere in the world. Our people living in rural areas receive over 200 services from over 5,275
+digital centres. They have access to health-care services through more than 16,500 technology-connected health complexes.",2015,positive,0.464476,"{'sadness': 0.509783, 'joy': 0.483902, 'fear': 0.080144, 'disgust': 0.115441, 'anger': 0.08003}"
+91,"Over the past decade, the impact of climate change has wreaked havoc on Caribbean SIDS. In 2004, Hurricane Ivan, a category 3 system, wiped out twice the value of the gross domestic product of Grenada — approximately $1 billion — and left 18,000 people without shelter, food and personal belongings. On 24 December 2013, we were violently reminded of the impact of slow-moving weather systems on the lives of our Caribbean people. Dominica, Saint Lucia, and Saint Vincent and the Grenadines were set back by 3.4 per cent, 1.4 per cent and 12.8 per cent of their gross domestic products, respectively.",2015,negative,-0.755194,"{'sadness': 0.549629, 'joy': 0.097531, 'fear': 0.166201, 'disgust': 0.232997, 'anger': 0.135279}"
+92,"Of all those threats, however, the one that poses the greatest existential threat to our entire planet and all living things thereon is climate change. Eminent scientists opine and predict that the damage that will be done to the world’s marine life and ecosystems caused by, for example, melting glaciers and rising sea temperatures alone are incalculable and irremediable. They predict that there will be a similar impact on the world’s flora and fauna and terrestrial ecosystems from large-scale and indiscriminate deforestation and desertification. One obvious consequence, among others, of such occurrences could be a severe curtailment in the world’s vital food supply and the advent of the spectre of massive starvation worldwide. Such occurrences would unquestionably have a negative impact on all of humanity, for we all inhabit the same planet and share the same core needs, adequate food supply being only one of them.",2015,negative,-0.706517,"{'sadness': 0.441217, 'joy': 0.301309, 'fear': 0.275423, 'disgust': 0.035744, 'anger': 0.116725}"
+93,"This geographic and economic insecurity has become the central source of domestic instability. To increase the specific gravity of our economic problems, from an environmental standpoint small States like Saint Lucia face growing insecurity as climate change unleashes increasingly deadly and destructive disasters upon us. We are now all aware of the recent devastation of Dominica by Tropical Storm Erika, which caused damage amounting to almost 100 per cent of its gross domestic product (GDP). As I speak now, Joaquin continues its decimating march across the economic and environmental fabric of the Bahamas. These two most recent examples, only weeks apart, are vivid testimony to the ferocity of the threats that confront us.",2015,negative,-0.765271,"{'sadness': 0.361898, 'joy': 0.020181, 'fear': 0.605201, 'disgust': 0.10692, 'anger': 0.169667}"
+94,"2/28 15-29701
+
+30/09/2015 A/70/PV.21
+But times are changing and the world has witnessed in recent months and years an epic outbreak of horrific natural disasters unprecedented in the 70-year history of our Organization. Tsunamis, hurricanes, earthquakes, flooding, bush fires and droughts have resulted in the loss of countless lives and untold sorrow and suffering. Especially noteworthy is the fact that developed countries are no longer insulated from the reach and destructive force of these events. Some countries and regions have been visited by climate-related and natural events like cyclones, bush fires, flooding, earthquakes, volcanic eruptions, droughts, tornados, and so on.",2015,negative,-0.885834,"{'sadness': 0.823147, 'joy': 0.085678, 'fear': 0.139534, 'disgust': 0.011396, 'anger': 0.051232}"
+95,"In the meantime, we also need to focus on the fight against climate change, in which our success so far has also been limited, since the average temperature on Earth has increased by almost 1 per cent since the last century. Global warming leads to rising sea levels, which lead to extreme weather conditions, which lead
+15-29946 5/33
+
+A/70/PV.28 03/10/2015
+to droughts, a lack of food, and because of that, to further migration movements. Today, there are between 25 and 30 million people who are migrants because of environmental conditions, and some forecasts say that by 2050 there could be around 100 million.",2015,negative,-0.791125,"{'sadness': 0.266636, 'joy': 0.29719, 'fear': 0.3827, 'disgust': 0.015811, 'anger': 0.04705}"
+96,"As a small country, it is clear that Andorra needs its natural environment and the help of others to reverse the situation and resolve issues. In Andorra, the effects of global warming concern and affect us in a very specific way. The average temperature in the Pyrenees is rising at a rate of 0.2°C per decade, and precipitation
+15-29816 3/45
+
+A/70/PV.25 02/10/2015
+has been annually decreasing by 2 litres per square metre. Experts’ calculations predict that by 2050, our water reserves will be reduced by 18 per cent. Those statistics are of particular concern to a country that lives on the tourism of snow and of mountains.",2015,negative,-0.443808,"{'sadness': 0.2402, 'joy': 0.20125, 'fear': 0.112063, 'disgust': 0.015697, 'anger': 0.01751}"
+97,"We in the Caribbean have been on the receiving end of the impact of climate change for decades. We therefore know from our own experiences that the impact of climate change represents a real and present danger to the existence of small island States like Dominica. We are living the effects of climate change. Even as recently as yesterday, our sister Caribbean island country of the Commonwealth of the Bahamas was impacted by Hurricane Joaquin. We stand in solidarity with the Government and people of the Bahamas, as they struggle to deal with the devastation that it has caused.",2015,negative,-0.337389,"{'sadness': 0.526472, 'joy': 0.234227, 'fear': 0.309921, 'disgust': 0.057937, 'anger': 0.054727}"
+98,"My people live on low-lying atoll islands that are no higher than 3 metres above sea level. With the changes in our climate system and with sea-level rise, our islands are now facing major challenges never before faced in our history. We have experienced climate extremes, not only from sea-level rise but also from disastrous natural events, such as cyclone Pam which hit Vanuatu and other low-lying Pacific islands, mine included, earlier this year, soon followed by typhoons Maysak and Dolphin.",2015,negative,-0.487593,"{'sadness': 0.398087, 'joy': 0.156741, 'fear': 0.365729, 'disgust': 0.161647, 'anger': 0.173263}"
+99,"High tides combined with strong winds wreaked havoc on our islands, our homes, our villages and our people. What is particularly alarming is the increasing frequency and severity of such events. In some parts of the country, whole villages have had to relocate because of severe coastal erosion and flooding. Food crops have been destroyed and the freshwater lakes, our major source of drinking water, are increasingly being contaminated by the intruding seawater. Our people are worried as they watch those events grow in intensity. The most vulnerable are the already vulnerable — women, children, the disabled, the sick and the aged.",2015,negative,-0.820897,"{'sadness': 0.570107, 'joy': 0.169864, 'fear': 0.541717, 'disgust': 0.139593, 'anger': 0.166287}"
