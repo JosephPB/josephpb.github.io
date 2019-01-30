@@ -10,3 +10,5 @@ We have access to every UN General Assembly speech available in English made bet
 - The overall frequency of terms in the corpus (see [Term Analysis](/term_analysis/))
 - A selection of themes running throughout the debates over the 46 years presented here (see [Topics](/topic/))
 - The shift in context of certain gender-related terms
+
+[Term Analysis]{{ site.baseurl }}{% link /term_analysis.md %}
