@@ -3,14 +3,14 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:        pretty
 markdown:         redcarpet
-pygments:         true
+#pygments:         true
 # relative_permalinks: true
 
 # Setup
 title:               UNGA Statement Analysis
 tagline:             
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
+url:                 josephph.github.io
+baseurl:             /gender-based-language
 paginate:            5
 
 # About/contact
