@@ -9,6 +9,8 @@ In identiying these topics we performed no manual categorisation, rather the sta
 
 The following topics have been identified as case studies:
 
+<a href = "{{ site.baseurl }}/topics/topic_5">The Israel-Palestine Conflict</a>
+
 [The Israel-Palestine Conflict](/topics/topic_5/)
 
 [Resources](/topics/topic_9/)
