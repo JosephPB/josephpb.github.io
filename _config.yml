@@ -1,7 +1,7 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:        pretty
+#permalink:        pretty
 #markdown:         redcarpet
 #pygments:         true
 # relative_permalinks: true
@@ -9,8 +9,8 @@ permalink:        pretty
 # Setup
 title:               UNGA Statement Analysis
 tagline:             
-url:                 josephpb.github.io
-baseurl:             /gender-based-language
+url:                 https://josephpb.github.io
+baseurl:             /gender-based-language/
 paginate:            5
 paginate_path: "page:num"
 
