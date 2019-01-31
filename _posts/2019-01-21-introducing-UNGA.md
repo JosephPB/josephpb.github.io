@@ -10,4 +10,4 @@ We have access to every UN General Assembly speech available in English made bet
 - The overall frequency of terms in the corpus (see [Term Analysis](/gender-based-language/term_analysis))
 - A selection of themes running throughout the debates over the 46 years presented here (see [Topics](/gender-based-language/topic))
 - The shift in context of certain gender-related terms
-- Which member states talk about women and children (under dveelopment)
+- Which member states talk about women and children (under development)
