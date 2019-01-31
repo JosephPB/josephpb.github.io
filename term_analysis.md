@@ -25,13 +25,13 @@ There has also been an increase in coversation around children. Indeed, we see a
     </div>
 </div>
 
-Leaders have also increasingly used terms such as *global* and *globalisation*, as references to the increasing interconnectedness of the globalised world. 
+Leaders have also increasingly used terms such as *global* and *globalisation*, as references to the increasing interconnectedness of the world. 
 
 <p align="center">
 <img src="../data/frequency/global_frequency.svg">
 </p>
 
-However, the use of collective terms doesn not follow the same trend.
+However, the use of collective terms does not follow the same trend.
 
 <div class="container">
     <div style="float:left;width:49%">
@@ -42,4 +42,4 @@ However, the use of collective terms doesn not follow the same trend.
     </div>
 </div>
 
-This could be indicative of *global* being used without the intention of promoting colaboration.
+This could be indicative of *global* being used without the actual promotion of colaboration.

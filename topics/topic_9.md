@@ -20,11 +20,11 @@ title: Resources
 
 ### Analysis
 
-Resouce allocation is, unsurprisingly, an issue continually talked about in UNGA statements. Over time different factors affect the resource allocation, both financial and physical. For instance, in the 1970s many statements referred to an increase in debt and a decrease in growth and much conversation is focused around the end of the 'First Development Decade' and the beginning of the second:
+Resouce allocation is, unsurprisingly, an issue continually talked about in UNGA statements. Over time different factors affect the allocation of resources, both financial and physical. For instance, in the 1970s many statements referred to an increase in debt and a decrease in growth, with much conversation focused around the end of the 'First Development Decade' and the beginning of the second.
 
 >The foreign debt of the developing countries, created by large export credits and development aid, has rapidly increased to almost 50 billion dollars, while the servicing of these debts has increased at the rate of 17 percent per annum, according to the Pearson report, which was drawn up by a high ranking commission of experts of the World Bank. The first Development Decade does not offer much reason for enthusiasm in most countries.
 
-As we see from the keywords used above, the term *refugee* begins to appear for the first time in the 1980s, and food shortages begin entering the conversations:
+As we see from the keywords used above, the term *refugee* begins to appear for the first time in the 1980s, and food shortages begin entering the conversations.
 
 <p align="center">
 <img src="../../data/topics/refugee_topic_9_lineplot.svg">
@@ -34,7 +34,7 @@ As we see from the keywords used above, the term *refugee* begins to appear for 
 
 >The problem of the lack of water is at present the most crucial one, both for human beings and for cattle. The lack of water has devastating effects on the sole resource of the population. In fact, between 20,000 and 25,000 persons have lost all their livestock and are at present grouped in nine camps, and the Government must help them to meet all their needs. Water and food assistance must be provided to more than 100,000 persons who have lost a considerable percentage of their livestock—approximately 80 per cent.
 
-In the 1990s and 2000s we see a continuation of discussions around food shortages, along with linkage being made between suffering and climate change. This latter point is shown through *enviroment* becoming a keyword in 1990, as well as *climate* and *change* dominating in 2010-1015.
+In the 1990s and 2000s we see a continuation of discussions around food shortages, along with linkage being made between suffering and climate change. This latter point is shown through *enviroment* becoming a keyword in 1990, as well as *climate* and *change* dominating in 2010-2015.
 
 <p align="center">
 <img src="../../data/topics/climate_topic_9_lineplot.svg">
@@ -55,7 +55,7 @@ less regularly than the pleasantly named perennials.
 
 >But times are changing and the world has witnessed in recent months and years an epic outbreak of horrific natural disasters unprecedented in the 70-year history of our Organization. Tsunamis, hurricanes, earthquakes, flooding, bush fires and droughts have resulted in the loss of countless lives and untold sorrow and suffering. Especially noteworthy is the fact that developed countries are no longer insulated from the reach and destructive force of these events. Some countries and regions have been visited by climate-related and natural events like cyclones, bush fires, flooding, earthquakes, volcanic eruptions, droughts, tornados, and so on.
 
-Additioanlly, we see that women anc children gain in prominance at around the same time in this topic. Indeed, it is no cooincidence that *people*, *child* and *aid* are prominent in the keywords during the times in which we see peaks in their likelihood of appearance. Woman are entering into the conversation, along with chilren, portrayed as victims. In the late 1990s and 2000s conversations around climate change, and natural disasters shift away from the problems of crop yields towards one of human suffering at the level of death. 
+Additioanlly, we see that women and children gain prominance in the statements at around the same time in this topic. Indeed, it is no cooincidence that *people*, *child* and *aid* are present in the top keywords during the same periods. Woman are entering into the conversation, along with chilren, portrayed as victims. Additionally, in the late 1990s and 2000s conversations around climate change, and natural disasters shift away from the problems of crop yields towards one of human suffering at the level of death. 
 
 <div class="container">
     <div style="float:left;width:49%">
@@ -75,5 +75,4 @@ Additioanlly, we see that women anc children gain in prominance at around the sa
     </div>
 </div>
 
-This is reinforced by the fact that we see a surge in negative sentiments about women at the same time as the word useage is pbecoming more prominent, demonstrating this victim language. It is notable that this spike in negativity is not seen in the overall sentiment analysis chart, highlighting the strong correlation of negative sentiment particualrly when referring to women and children.
-
+The notion of referring to women as victims is further reinforced by the fact that we see a surge in negative sentiment in paragraphs discussing women at the same time as the word useage is becoming more prominent. It is notable that this spike in negativity is not seen in the overall sentiment analysis chart, highlighting the strong correlation of negative sentiment particualrly when referring to women and children, relative to other paragraphs in this topic.

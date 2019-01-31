@@ -39,7 +39,7 @@ However, although the term *solution* is increasing in prominance after the peri
 
 Similar analysis can be performed on the sentiment of the speeches around this topic. As would be expected, we see an increase in sentiment around the peace-talk periods, with negative and low-positive sentiment scores around the time of the Lebanon War and the First Intifada.
 
-Despite these generally positive sentiment, statements focusing on women and overwhelmingly negative, only picking up slightly around the period of peace talks. This may be indicative of how woman, in many conflict situations, are generally percieved as victims.
+Despite this generally positive sentiment, statements focusing on women are overwhelmingly negative, only picking up slightly around the period of peace talks. This may be indicative of how woman, in many conflict situations, are generally percoeved as victims.
 
 <p align="center">
 <img src="../../data/topics/woman_topic_5_lineplot.svg">
@@ -54,4 +54,4 @@ Despite these generally positive sentiment, statements focusing on women and ove
     </div>
 </div>
 
-Additionlly, this is reinforced by the strong negative sentiments when speaking about women during the Lebanon War. The overall paragraph sentiment is lower just prior to this period, and then generally neutral during it, however, paragraphs mentioning women are far from neural in sentiment.
+Additionlly, this is concept of refering to women primarily as victims is reinforced by the strong negative sentiments when speaking about women during the Lebanon War. The overall paragraph sentiment is lower just prior to this period, and then generally neutral during it, however, paragraphs mentioning women are far from neural in sentiment.
