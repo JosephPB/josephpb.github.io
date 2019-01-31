@@ -55,7 +55,23 @@ less regularly than the pleasantly named perennials.
 
 >But times are changing and the world has witnessed in recent months and years an epic outbreak of horrific natural disasters unprecedented in the 70-year history of our Organization. Tsunamis, hurricanes, earthquakes, flooding, bush fires and droughts have resulted in the loss of countless lives and untold sorrow and suffering. Especially noteworthy is the fact that developed countries are no longer insulated from the reach and destructive force of these events. Some countries and regions have been visited by climate-related and natural events like cyclones, bush fires, flooding, earthquakes, volcanic eruptions, droughts, tornados, and so on.
 
-Additioanlly, we see that women and children gain prominance in the statements at around the same time in this topic. Indeed, it is no cooincidence that *people*, *child* and *aid* are present in the top keywords during the same periods. Woman are entering into the conversation, along with chilren, portrayed as victims. Additionally, in the late 1990s and 2000s conversations around climate change, and natural disasters shift away from the problems of crop yields towards one of human suffering at the level of death. 
+Additioanlly, we see that women and children gain prominance in the statements at around the same time in this topic. Indeed, it is no cooincidence that *people*, *child* and *aid* are present in the top keywords during the same periods. Woman are entering into the conversation, along with chilren, portrayed as victims. 
+
+>One of the areas of particular concern to Cyprus
+is the increasing number of refugees and internally
+displaced persons throughout the world. Cyprus has
+itself experienced the tragic consequences of mass
+displacement and ethnic cleansing. The vast majority
+of displaced people — more than 22 million people,
+according to the Office of the United Nations High
+Commissioner for Refugees — are women and
+children, who are particularly vulnerable to gross
+violations of their human rights. We strongly believe
+that the international community has an obligation to
+more forcefully secure the right of return of these
+refugees to their places of residence.
+
+Additionally, in the late 1990s and 2000s conversations around climate change, and natural disasters shift away from the problems of crop yields towards one of human suffering at the level of death.
 
 <div class="container">
     <div style="float:left;width:49%">
