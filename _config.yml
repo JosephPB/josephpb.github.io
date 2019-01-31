@@ -9,8 +9,8 @@ permalink:        pretty
 # Setup
 title:               UNGA Statement Analysis
 tagline:             
-url:                 josephph.github.io
-baseurl:             /gender-based-language/
+url:                 josephpb.github.io
+baseurl:             /gender-based-language
 paginate:            5
 paginate_path: "page:num"
 
