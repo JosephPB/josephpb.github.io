@@ -41,6 +41,20 @@ Similar analysis can be performed on the sentiment of the speeches around this t
 
 Despite this generally positive sentiment, statements focusing on women are overwhelmingly negative, only picking up slightly around the period of peace talks. This may be indicative of how woman, in many conflict situations, are generally percoeved as victims.
 
+**1982 (Lebanon War):**
+
+>We vigorously condemn the hideous massacres of 
+women children and old people in the Palestinian 
+camps in west Beirut. It is deplorable that the 
+resolutions and decisions adopted by the Security 
+Council on the question of the Middle East, 
+particularly with regard to Palestine, have 
+remained a dead letter."
+
+**1993 (Oslo Accords):**
+
+>The fruits of peace must become tangible and real for\nthe women, men and children of Gaza and the West Bank.
+
 <p align="center">
 <img src="../../data/topics/woman_topic_5_lineplot.svg">
 </p>
@@ -53,5 +67,9 @@ Despite this generally positive sentiment, statements focusing on women are over
 	    <img src="../../data/sentiment/topic_5_woman_bar_chart.svg">
     </div>
 </div>
+
+**2015:**
+
+>The current situation in the Middle East, a region torn by protracted conflicts and sectarian violence, is of particular concern, as thousands of innocent people, including women and children, are being killed. We call on the countries of the region and the conflicting parties to start direct negotiations under the aegis of the United Nations, in order to reach a political solution to the problem.
 
 Additionlly, this is concept of refering to women primarily as victims is reinforced by the strong negative sentiments when speaking about women during the Lebanon War. The overall paragraph sentiment is lower just prior to this period, and then generally neutral during it, however, paragraphs mentioning women are far from neural in sentiment.
