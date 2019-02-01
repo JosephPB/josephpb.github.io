@@ -27,10 +27,8 @@ There has also been an increase in coversation around children. Indeed, we see a
 
 We can also see which nations are referring to *women* in statements.
 
-<iframe src="../data/frequency/woman_map.html" width="700" height="400" ></iframe>
-
 <p align="center">
-    <iframe src="../data/frequency/woman_map.html" width="700" height="400" ></iframe>
+    <iframe src="../data/frequency/woman_map_2000_2015.html" width="700" height="400" ></iframe>
 </p>
 
 **Note:** Since the UN has gained member states each year, this map only reflects the statements made between 2000-2015
