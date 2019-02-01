@@ -44,4 +44,8 @@ However, the use of collective terms does not follow the same trend.
 
 This could be indicative of *global* being used without the actual promotion of colaboration.
 
-<iframe src="../data/frequency/woman_map.html"></iframe>
+<div class="container">
+    <div style="float:center;width:80%">
+        <iframe src="../data/frequency/woman_map.html"></iframe>
+    </div>
+</div>
