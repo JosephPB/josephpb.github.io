@@ -25,6 +25,14 @@ There has also been an increase in coversation around children. Indeed, we see a
     </div>
 </div>
 
+We can also see which nations are referring to *women* in statements.
+
+<p align="center">
+    <iframe src="../data/frequency/woman_map_2000_2015.html" height="400" width="700"></iframe>
+</p>
+
+**Note:** Since the UN has gained member states each year, this map only reflects the statements made between 2000-2015
+
 Leaders have also increasingly used terms such as *global* and *globalisation*, as references to the increasing interconnectedness of the world. 
 
 <p align="center">
@@ -43,7 +51,3 @@ However, the use of collective terms does not follow the same trend.
 </div>
 
 This could be indicative of *global* being used without the actual promotion of colaboration.
-
-<p align="center">
-<iframe src="../data/frequency/woman_map.html" width="800" height="600"></iframe>
-</p>
