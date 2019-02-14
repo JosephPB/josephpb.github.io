@@ -20,13 +20,15 @@ title: The Israel-Palestine Conflict
 
 ### Analysis
 
-Discussions around the conflict between Israel and Palestine have been ongoing for decades. Over this period the discussion has shifted based on the intifadas, peace agreement negotiations, and differences in opinion. For instance, we see that discussions around a 'two-state-solution' began to rise in prominance around the time of the roadmap discussions, affirmed in UNSC Resolution 1397 (2002), and the 'Agreement on Movement Action' (AMA) in 2005.
+Discussions around the conflict between Israel and Palestine have been ongoing for decades. Over this period the discussion has shifted based on the intifadas, peace agreement negotiations, and differences in opinion. By monitoring linguistic changes in speech patterns we can identify the responce of leaders to various events, as well as analyse what the conversation is focusing on, and missing. 
+
+For instance, we see that discussions around a 'two-state-solution' began to rise in prominance around the time of the roadmap discussions, affirmed in UNSC Resolution 1397 (2002), and the 'Agreement on Movement Action' (AMA) in 2005.
 
 <p align="center">
 <img src="../../data/topics/two_state_solution_topic_5_lineplot.svg">
 </p>
 
-However, although the term *solution* is increasing in prominance after the period of the AMA, conversations around *peace* and *future* begin to decrease. This linguistic shift could be an example of leaders becoming less forward looking, and more concentrating on the task of 'solving' the situation.
+However, although the term *solution* is increasing in prominance after the period of the AMA, conversations around *peace* and the *future* begin to decrease. This linguistic shift could be an example of leaders becoming less forward looking, and more concentrating on the task of 'solving' the situation.
 
 <div class="container">
     <div style="float:left;width:49%">
@@ -39,7 +41,20 @@ However, although the term *solution* is increasing in prominance after the peri
 
 Similar analysis can be performed on the sentiment of the speeches around this topic. As would be expected, we see an increase in sentiment around the peace-talk periods, with negative and low-positive sentiment scores around the time of the Lebanon War and the First Intifada.
 
+<p align="center">
+<img src="../../data/sentiment/top_topic_5_bar_chart.svg">
+</p>
+
 Despite this generally positive sentiment, statements focusing on women are overwhelmingly negative, only picking up slightly around the period of peace talks. This may be indicative of how woman, in many conflict situations, are generally percoeved as victims.
+
+<div class="container">
+    <div style="float:left;width:49%">
+        <img src="../../data/topics/woman_topic_5_lineplot.svg">
+    </div>
+    <div style="float:right;width:49%">
+	    <img src="../../data/sentiment/topic_5_woman_bar_chart.svg">
+    </div>
+</div>
 
 **1982 (Lebanon War):**
 
@@ -53,23 +68,10 @@ remained a dead letter."
 
 **1993 (Oslo Accords):**
 
->The fruits of peace must become tangible and real for\nthe women, men and children of Gaza and the West Bank.
+>The fruits of peace must become tangible and real for the women, men and children of Gaza and the West Bank.
 
-<p align="center">
-<img src="../../data/topics/woman_topic_5_lineplot.svg">
-</p>
+[//]: <> (**2015:**)
 
-<div class="container">
-    <div style="float:left;width:49%">
-	    <img src="../../data/sentiment/top_topic_5_bar_chart.svg">
-    </div>
-    <div style="float:right;width:49%">
-	    <img src="../../data/sentiment/topic_5_woman_bar_chart.svg">
-    </div>
-</div>
-
-**2015:**
-
->The current situation in the Middle East, a region torn by protracted conflicts and sectarian violence, is of particular concern, as thousands of innocent people, including women and children, are being killed. We call on the countries of the region and the conflicting parties to start direct negotiations under the aegis of the United Nations, in order to reach a political solution to the problem.
+[//]: <> (>The current situation in the Middle East, a region torn by protracted conflicts and sectarian violence, is of particular concern, as thousands of innocent people, including women and children, are being killed. We call on the countries of the region and the conflicting parties to start direct negotiations under the aegis of the United Nations, in order to reach a political solution to the problem.)
 
 Additionlly, this is concept of refering to women primarily as victims is reinforced by the strong negative sentiments when speaking about women during the Lebanon War. The overall paragraph sentiment is lower just prior to this period, and then generally neutral during it, however, paragraphs mentioning women are far from neural in sentiment.

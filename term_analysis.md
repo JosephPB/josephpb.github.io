@@ -25,7 +25,7 @@ There has also been an increase in coversation around children. Indeed, we see a
     </div>
 </div>
 
-We can also see which nations are referring to *women* in statements.
+We can also identify which nations are referring to *women* in their statements.
 
 <p align="center">
     <iframe src="../data/frequency/woman_map_2000_2015.html" width="700" height="400" ></iframe>
@@ -33,13 +33,15 @@ We can also see which nations are referring to *women* in statements.
 
 **Note:** Since the UN has gained member states each year, this map only reflects the statements made between 2000-2015
 
-Leaders have also increasingly used terms such as *global* and *globalisation*, as references to the increasing interconnectedness of the world. 
+We can also examine whether leaders are talking more of cooperation, or if issues are raised without the explicit mention of working together to solve them. There are various indicators that can be used to analyse this, one being the use of collective language. 
+
+Since the beginning of our period of analysis, leaders have increasingly used terms such as *global* and *globalisation*, as references to the increasing interconnectedness of the world. 
 
 <p align="center">
 <img src="../data/frequency/global_frequency.svg">
 </p>
 
-However, the use of collective terms does not follow the same trend.
+However, the use of collective terms such as *people* and *cooperation* does not follow the same trend.
 
 <div class="container">
     <div style="float:left;width:49%">

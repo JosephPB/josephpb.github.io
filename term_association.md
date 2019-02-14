@@ -3,7 +3,9 @@ layout: page
 title: Term Association
 ---
 
-Words can be used in a variety of contexts, and these contexts can and will vary through time. For instance the word *machine* was at one time connected with *steam*, however, now might be linked to *computer*. By analysing how word associations change over time allows some insights to be gained into the common contexts these words are used in.
+Words can be used in a variety of contexts, and these contexts can and will vary through time. For instance the word *machine* was at one time connected with *steam*, however, now might be linked to *computer*. Analysing how word associations change over time allows some insights to be gained into the common contexts these words are used in.
+
+Here we show a collection of terms and their most associated words based on speeches in that given period. The higher up the list an associated word, the more relevenat it is to the queried term.
 
 **Note:** 'NO_TERMS' is displayed when the word being searched does not appear frequently enough for accurate associations to be made.
 

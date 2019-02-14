@@ -34,7 +34,7 @@ As we see from the keywords used above, the term *refugee* begins to appear for 
 
 >The problem of the lack of water is at present the most crucial one, both for human beings and for cattle. The lack of water has devastating effects on the sole resource of the population. In fact, between 20,000 and 25,000 persons have lost all their livestock and are at present grouped in nine camps, and the Government must help them to meet all their needs. Water and food assistance must be provided to more than 100,000 persons who have lost a considerable percentage of their livestock—approximately 80 per cent.
 
-In the 1990s and 2000s we see a continuation of discussions around food shortages, along with linkage being made between suffering and climate change. This latter point is shown through *enviroment* becoming a keyword in 1990, as well as *climate* and *change* dominating in 2010-2015.
+In the 1990s and 2000s we see a continuation of discussions around food shortages, along with a linkage being made between suffering and climate change. This latter point is shown through *enviroment* becoming a keyword in 1990, as well as *climate* and *change* dominating in 2010-2015.
 
 <p align="center">
 <img src="../../data/topics/climate_topic_9_lineplot.svg">
@@ -91,4 +91,4 @@ Additionally, in the late 1990s and 2000s conversations around climate change, a
     </div>
 </div>
 
-The notion of referring to women as victims is further reinforced by the fact that we see a surge in negative sentiment in paragraphs discussing women at the same time as the word useage is becoming more prominent. It is notable that this spike in negativity is not seen in the overall sentiment analysis chart, highlighting the strong correlation of negative sentiment particualrly when referring to women and children, relative to other paragraphs in this topic.
+The notion of referring to women as victims is further reinforced by the fact that we see a surge in negative sentiment in paragraphs discussing women at the same time as the word useage is becoming more prominent. It is notable that this spike in negativity is not seen to the same extent in the overall sentiment analysis chart, highlighting the correlation of negative sentiment particualrly when referring to women and children, relative to other paragraphs in this topic.
