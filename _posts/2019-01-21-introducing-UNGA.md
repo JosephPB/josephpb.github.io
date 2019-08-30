@@ -3,7 +3,7 @@ layout: post
 title: Joseph Bullock
 ---
 
-<span style="color:grey;font-size: 0.5em">
+<span style="color:grey;font-size: 0.9em">
 AI Reseach Fellow, UN Global Pulse<br/>
 Industrial Research Associate, Risk Econ Lab, Courant Institute, NYU<br/>
 Doctoral Researcher, Department of Physics, Durham University<br/>
