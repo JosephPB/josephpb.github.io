@@ -7,10 +7,10 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:               UNGA Statement Analysis
+title:               Joseph Bullock
 tagline:             
 url:                 https://josephpb.github.io
-baseurl:             /gender-based-language
+baseurl:             /
 paginate:            5
 #paginate_path: "page:num"
 
