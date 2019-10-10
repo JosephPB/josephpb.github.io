@@ -9,7 +9,11 @@ Refugee camps can be highly dynamical and constantly experience a state of flux.
 
 ## Automated Flood Mapping
 
+After catastrophic events, situational information is critical to response teams. Flood maps showing the extent of the affected areas are provided by teams at [UNOSAT](https://unitar.org/sustainable-development-goals/satellite-analysis-and-applied-research) through their rapid mapping service. Current methods largely include semi-automatic pixel intensity thresholding on Sentinal-1 radar images which take approximately 6 hours to be performed by human analysts. Using a Machine Learning model this process has been automated, saving considerable time for the analysts, while attaining the high degree of accuracy required.
+
 ## Damage Detection
+
+Post-event damage analysis plays a crucial role in directing response team resources. By using pre-event and post-even satellite imagery, combined with methods for automatic object detetion and classification, damage detection can be automated over extremely large regions. By providing up-to-dat rapid damage assessments, response teams can better allocate resources and provide assistance more rapidly.
 
 ## Fake Text Generation
 
