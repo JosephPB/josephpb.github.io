@@ -15,14 +15,26 @@ After catastrophic events, situational information is critical to response teams
 
 Post-event damage analysis plays a crucial role in directing response team resources. By using pre-event and post-even satellite imagery, combined with methods for automatic object detetion and classification, damage detection can be automated over extremely large regions. By providing up-to-dat rapid damage assessments, response teams can better allocate resources and provide assistance more rapidly.
 
-## Fake Text Generation
+## Mapping the Risks in Text Generation
+
+Data and computing resources are becoming increasingly availabile and information can be rapidly and widely disseminated with relative ease. The ability to automate the generation of false information efficiently and convincingly, and disseminate it across these networks, often in a targetted way, poses great risks to peace and political stability. In work carried out the UN Global Pulse, we mapped the risks associated with this ability through demonstrating the ease with which an AI text generation model can be built and trained to produce disturbing content.
 
 ## Textual Analysis
 
+Textual and linguistic data, particularly surrounding political and social debates, contain a wealth of information while being largely underutilisied on a lrge scale. Part of the reason for this is the lack of cross-discipline discussions between policy experts wanted insights into the data and technical researchers helping explore and frame new questions and understanding the tools required to ask them. As a proof-of-concept we analyse a corpus of UN General Assembly speech transcripts over a 45 year period and use a variety of NLP technicques to probe the data to discover new insights in global political diologue.
+
 ## Biases and Harms in AI Systems
+
+The study of the ethical use of AI is of the upmost importance, however, many guidelines and docuements, although extremely valuable, overlook the direct link between data, model and design biases in AI systems and human level harms. By identifying possible such biases and exploring their translation into harmful results, we come to understand the additional required caution which must be used when approaching the deployment of AI solutions in humanitarian contexts.
 
 ## Human Rights Implications of AI
 
+From the production of training data to the deployment of AI solutions, the model building process has significant human rights implications. Amoung others, I am concerned by the way in which training data is 'manufactured' around the world, where individuls are often employed to tag distressing content for social media platform content warnings sometimes with little support, or are being paid extremely low wages for laborious, long-houred work with minimal support. Similarly, there are significant concerns around the use of AI systems 'in-the-wild' and the often unquestionability of AI systems.
+
 ## Medical Image Segmentation
 
+The segmentation of medical X-Ray images to identify the bone and soft tissue structures is an important tasks in many image processing tasks, such as scatter correction. Indeed, although many Machine Learning models have the potential to automate this task, the amount of high-quality labelled data is often small, especially since medical institutions are often not able to share imagery. Given this, we developed an AI solution to this problem that out-performs other off-the-shelf methods like SegNet on small image datasets. We present the image pre and post-processing pipeline as well as the network achitecture we designed and tuned.
+
 ## Scattering Amplitude Approximation
+
+In particle physics collider experiments, such as at CERN, particles are smashed together at nearly the speed of light. Understanding how these particles interact, and scatter to form other particles is crucial for better picking apart these complex collisions in which billions of particles collide every second. To understand how two particles my scatter the *scattering amplitude* is calculated and integrated over the whole possible phase space of the outgoing particles giving the total *cross section* (a measure of the likelihood of two particles interacting in a certain way) for the event. Simulating and calculating these processes is extremely computationally expensive so we use Machine Learning to approximate the scattering amplitude function which, once learn, is considerably faster to query than the original computation.
