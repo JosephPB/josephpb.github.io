@@ -3,6 +3,14 @@ layout: page
 title: Projects
 ---
 
+# Physics
+
+## Scattering Amplitude Approximation
+
+In particle physics collider experiments, such as at CERN, particles are smashed together at nearly the speed of light. Understanding how these particles interact, and scatter to form other particles is crucial for better picking apart these complex collisions in which billions of particles collide every second. To understand how two particles my scatter the *scattering amplitude* is calculated and integrated over the whole possible phase space of the outgoing particles giving the total *cross section* (a measure of the likelihood of two particles interacting in a certain way) for the event. Simulating and calculating these processes is extremely computationally expensive so we use Machine Learning to approximate the scattering amplitude function which, once learn, is considerably faster to query than the original computation.
+
+# Humanitarian
+
 ## Refugee Camp Mapping
 
 Refugee camps can be highly dynamical and constantly experience a state of flux. In order to understand their extend, populations and density, [UNOSAT](https://unitar.org/sustainable-development-goals/satellite-analysis-and-applied-research) are regularly requested to produce maps of the camps from satellite imagery. This is vital work and provides and essential source of information for the aid agencies and NGOs working there. The mapping process, however, is highly manual and can take many hours for an analyst to successfully map the camp. By working with UNOSAT we have developed a tool for automatically mapping refugee camps across the Middle East and North Africa, saving countless hours for analysts and allowing them to repond faster when information is required.
@@ -21,7 +29,19 @@ Data and computing resources are becoming increasingly availabile and informatio
 
 ## Textual Analysis
 
-Textual and linguistic data, particularly surrounding political and social debates, contain a wealth of information while being largely underutilisied on a lrge scale. Part of the reason for this is the lack of cross-discipline discussions between policy experts wanted insights into the data and technical researchers helping explore and frame new questions and understanding the tools required to ask them. As a proof-of-concept we analyse a corpus of UN General Assembly speech transcripts over a 45 year period and use a variety of NLP technicques to probe the data to discover new insights in global political diologue.
+Textual and linguistic data, particularly surrounding political and social debates, contain a wealth of information while being largely underutilisied on a large scale. Part of the reason for this is the lack of cross-discipline discussions between policy experts wanted insights into the data and technical researchers helping explore and frame new questions and understanding the tools required to ask them. As a proof-of-concept we analyse a corpus of UN General Assembly speech transcripts over a 45 year period and use a variety of NLP technicques to probe the data to discover new insights in global political diologue.
+
+# Qatalog
+
+Analysing large corpora of text is a burdensome task for humanitarian team with limited time and resources; however, access to a greater amount of timely information is crucial to many UN country teams, crisis response groups and others, in order to understand an evolving landscape. In an attempt to systematise the collection of data from across a variety of media sources, including social media, radio and news feeds, UN Global Pulse began developing Qatalog. As well as collecting this information, the system uses a variety of NLP processes to analyse and distill the information for easier querying and interpretability by analysts.
+
+# Healthcare
+
+The segmentation of medical X-Ray images to identify the bone and soft tissue structures is an important tasks in many image processing tasks, such as scatter correction. Indeed, although many Machine Learning models have the potential to automate this task, the amount of high-quality labelled data is often small, especially since medical institutions are often not able to share imagery. Given this, we developed an AI solution to this problem that out-performs other off-the-shelf methods like SegNet on small image datasets. We present the image pre and post-processing pipeline as well as the network achitecture we designed and tuned.
+
+## Medical Image Segmentation
+
+# Ethics
 
 ## Biases and Harms in AI Systems
 
@@ -31,10 +51,4 @@ The study of the ethical use of AI is of the upmost importance, however, many gu
 
 From the production of training data to the deployment of AI solutions, the model building process has significant human rights implications. Amoung others, I am concerned by the way in which training data is 'manufactured' around the world, where individuls are often employed to tag distressing content for social media platform content warnings sometimes with little support, or are being paid extremely low wages for laborious, long-houred work with minimal support. Similarly, there are significant concerns around the use of AI systems 'in-the-wild' and the often unquestionability of AI systems.
 
-## Medical Image Segmentation
 
-The segmentation of medical X-Ray images to identify the bone and soft tissue structures is an important tasks in many image processing tasks, such as scatter correction. Indeed, although many Machine Learning models have the potential to automate this task, the amount of high-quality labelled data is often small, especially since medical institutions are often not able to share imagery. Given this, we developed an AI solution to this problem that out-performs other off-the-shelf methods like SegNet on small image datasets. We present the image pre and post-processing pipeline as well as the network achitecture we designed and tuned.
-
-## Scattering Amplitude Approximation
-
-In particle physics collider experiments, such as at CERN, particles are smashed together at nearly the speed of light. Understanding how these particles interact, and scatter to form other particles is crucial for better picking apart these complex collisions in which billions of particles collide every second. To understand how two particles my scatter the *scattering amplitude* is calculated and integrated over the whole possible phase space of the outgoing particles giving the total *cross section* (a measure of the likelihood of two particles interacting in a certain way) for the event. Simulating and calculating these processes is extremely computationally expensive so we use Machine Learning to approximate the scattering amplitude function which, once learn, is considerably faster to query than the original computation.
