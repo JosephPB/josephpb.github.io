@@ -3,6 +3,8 @@ layout: page
 title: Projects
 ---
 
+<div style="text-align: justify">
+
 # Physics
 
 ## Scattering Amplitude Approximation
@@ -31,7 +33,7 @@ Data and computing resources are becoming increasingly availabile and informatio
 
 Textual and linguistic data, particularly surrounding political and social debates, contain a wealth of information while being largely underutilisied on a large scale. Part of the reason for this is the lack of cross-discipline discussions between policy experts wanted insights into the data and technical researchers helping explore and frame new questions and understanding the tools required to ask them. As a proof-of-concept we analyse a corpus of UN General Assembly speech transcripts over a 45 year period and use a variety of NLP technicques to probe the data to discover new insights in global political diologue.
 
-# Qatalog
+## Qatalog
 
 Analysing large corpora of text is a burdensome task for humanitarian team with limited time and resources; however, access to a greater amount of timely information is crucial to many UN country teams, crisis response groups and others, in order to understand an evolving landscape. In an attempt to systematise the collection of data from across a variety of media sources, including social media, radio and news feeds, UN Global Pulse began developing Qatalog. As well as collecting this information, the system uses a variety of NLP processes to analyse and distill the information for easier querying and interpretability by analysts.
 
@@ -51,4 +53,5 @@ The study of the ethical use of AI is of the upmost importance, however, many gu
 
 From the production of training data to the deployment of AI solutions, the model building process has significant human rights implications. Amoung others, I am concerned by the way in which training data is 'manufactured' around the world, where individuls are often employed to tag distressing content for social media platform content warnings sometimes with little support, or are being paid extremely low wages for laborious, long-houred work with minimal support. Similarly, there are significant concerns around the use of AI systems 'in-the-wild' and the often unquestionability of AI systems.
 
+</div>
 
