@@ -3,19 +3,25 @@ layout: page
 title: Projects
 ---
 
-<div style="text-align: justify">
-
 # Physics
 
 ## Scattering Amplitude Approximation
 
+<div style="text-align: justify">
+
 In particle physics collider experiments, such as at CERN, particles are smashed together at nearly the speed of light. Understanding how these particles interact, and scatter to form other particles is crucial for better picking apart these complex collisions in which billions of particles collide every second. To understand how two particles my scatter the *scattering amplitude* is calculated and integrated over the whole possible phase space of the outgoing particles giving the total *cross section* (a measure of the likelihood of two particles interacting in a certain way) for the event. Simulating and calculating these processes is extremely computationally expensive so we use Machine Learning to approximate the scattering amplitude function which, once learn, is considerably faster to query than the original computation.
+
+</div>
 
 # Humanitarian
 
 ## Refugee Camp Mapping
 
+<div style="text-align: justify">
+
 Refugee camps can be highly dynamical and constantly experience a state of flux. In order to understand their extend, populations and density, [UNOSAT](https://unitar.org/sustainable-development-goals/satellite-analysis-and-applied-research) are regularly requested to produce maps of the camps from satellite imagery. This is vital work and provides and essential source of information for the aid agencies and NGOs working there. The mapping process, however, is highly manual and can take many hours for an analyst to successfully map the camp. By working with UNOSAT we have developed a tool for automatically mapping refugee camps across the Middle East and North Africa, saving countless hours for analysts and allowing them to repond faster when information is required.
+
+</div>
 
 ## Automated Flood Mapping
 
@@ -52,6 +58,4 @@ The study of the ethical use of AI is of the upmost importance, however, many gu
 ## Human Rights Implications of AI
 
 From the production of training data to the deployment of AI solutions, the model building process has significant human rights implications. Amoung others, I am concerned by the way in which training data is 'manufactured' around the world, where individuls are often employed to tag distressing content for social media platform content warnings sometimes with little support, or are being paid extremely low wages for laborious, long-houred work with minimal support. Similarly, there are significant concerns around the use of AI systems 'in-the-wild' and the often unquestionability of AI systems.
-
-</div>
 
