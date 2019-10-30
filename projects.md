@@ -88,7 +88,7 @@ The study of the ethical use of AI is of the upmost importance, however, many gu
 
 </p>
 
-## Human Rights Implications of AI
+### Human Rights Implications of AI
 
 <p style="text-align: justify; font-size: 0.8em">
 
