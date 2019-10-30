@@ -10,7 +10,7 @@ title: Projects
 <p style="text-align: justify; font-size: 0.8em">
 
 
-<kbd><img style="float: right;" width="200" height="200" src="https://josephpb.github.io/images/Higgs.jpg"></kbd>
+<kbd><img style="float: right; margin-leftt: 10px;" width="200" height="200" src="https://josephpb.github.io/images/Higgs.jpg"></kbd>
 In particle physics collider experiments, such as at CERN, particles are smashed together at nearly the speed of light. Understanding how these particles interact, and scatter to form other particles is crucial for better picking apart these complex collisions in which billions of particles collide every second. To understand how two particles my scatter the *scattering amplitude* is calculated and integrated over the whole possible phase space of the outgoing particles giving the total *cross section* (a measure of the likelihood of two particles interacting in a certain way) for the event. Simulating and calculating these processes is extremely computationally expensive so we use Machine Learning to approximate the scattering amplitude function which, once learn, is considerably faster to query than the original computation.
 
 </p>
