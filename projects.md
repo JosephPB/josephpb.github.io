@@ -3,20 +3,20 @@ layout: page
 title: Projects
 ---
 
-# Physics
+## Physics
 
-## Scattering Amplitude Approximation
+### Scattering Amplitude Approximation
 
 <div style="text-align: justify">
 
-<img align="right" width="100" height="100" src="https://josephpb.github.io/images/Higgs.jpg">
+<kbd><img align="right" width="200" height="200" src="https://josephpb.github.io/images/Higgs.jpg"></kbd>
 In particle physics collider experiments, such as at CERN, particles are smashed together at nearly the speed of light. Understanding how these particles interact, and scatter to form other particles is crucial for better picking apart these complex collisions in which billions of particles collide every second. To understand how two particles my scatter the *scattering amplitude* is calculated and integrated over the whole possible phase space of the outgoing particles giving the total *cross section* (a measure of the likelihood of two particles interacting in a certain way) for the event. Simulating and calculating these processes is extremely computationally expensive so we use Machine Learning to approximate the scattering amplitude function which, once learn, is considerably faster to query than the original computation.
 
 </div>
 
-# Humanitarian
+## Humanitarian
 
-## Refugee Camp Mapping
+### Refugee Camp Mapping
 
 <div style="text-align: justify">
 
@@ -24,7 +24,7 @@ Refugee camps can be highly dynamical and constantly experience a state of flux.
 
 </div>
 
-## Automated Flood Mapping
+### Automated Flood Mapping
 
 <div style="text-align: justify">
 
@@ -32,7 +32,7 @@ After catastrophic events, situational information is critical to response teams
 
 </div>
 
-## Damage Detection
+### Damage Detection
 
 <div style="text-align: justify">
 
@@ -40,7 +40,7 @@ Post-event damage analysis plays a crucial role in directing response team resou
 
 </div>
 
-## Mapping the Risks in Text Generation
+### Mapping the Risks in Text Generation
 
 <div style="text-align: justify">
 
@@ -48,7 +48,7 @@ Data and computing resources are becoming increasingly availabile and informatio
 
 </div>
 
-## Textual Analysis
+### Textual Analysis
 
 <div style="text-align: justify">
 
@@ -56,7 +56,7 @@ Textual and linguistic data, particularly surrounding political and social debat
 
 </div>
 
-## Qatalog
+### Qatalog
 
 <div style="text-align: justify">
 
@@ -64,9 +64,9 @@ Analysing large corpora of text is a burdensome task for humanitarian team with 
 
 </div>
 
-# Healthcare
+## Healthcare
 
-## Medical Image Segmentation
+### Medical Image Segmentation
 
 <div style="text-align: justify">
 
@@ -74,9 +74,9 @@ The segmentation of medical X-Ray images to identify the bone and soft tissue st
 
 </div>
 
-# Ethics
+## Ethics
 
-## Biases and Harms in AI Systems
+### Biases and Harms in AI Systems
 
 <div style="text-align: justify">
 
