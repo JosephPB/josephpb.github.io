@@ -46,6 +46,7 @@ Post-event damage analysis plays a crucial role in directing response team resou
 
 <p style="text-align: justify; font-size: 0.8em">
 
+<kbd><img style="float: right; margin-left: 10px;" width="200" height="200" src="https://josephpb.github.io/images/bot.jpg"></kbd>
 Data and computing resources are becoming increasingly availabile and information can be rapidly and widely disseminated with relative ease. The ability to automate the generation of false information efficiently and convincingly, and disseminate it across these networks, often in a targetted way, poses great risks to peace and political stability. In work carried out the UN Global Pulse, we mapped the risks associated with this ability through demonstrating the ease with which an AI text generation model can be built and trained to produce disturbing content.
 
 </p>
