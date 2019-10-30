@@ -9,6 +9,8 @@ For a more detailed look at projects I have been and am currenrly involved in ta
 
 ## Publications
 
+T. Logar, **J. Bullock**, L. Bromley, J.A. Quinn, M. Luengo-Oroz, PulseSatellite: A tool using human-AI feedback loops for satellite image analysis inhumanitarian contexts, Proceedings of the Association for the Advancement of Artificial Intelligence (AAAI) (2020)
+
 **J. Bullock**, M. Luengo-Oroz, Automated Speech Generation from UN General Assembly Statements: Mapping Risks in AI Generated Texts, AI for Social Good Workshop, 36th International Conference on Machine Learning (ICML) (2019) [[arXiv:1906.01946](https://arxiv.org/abs/1906.01946)]
 
 **J. Bullock**, C. Cuesta-Lazaro, A. Quera-Bofarull, XNet: a convolutional neural network (CNN) implementation for medical x-ray image segmentation suitable for small datasets, Proc. SPIE 10953, Medical Imaging 2019: Biomedical Applications in Molecular, Structural, and Functional Imaging (2019) [[arXiv:1812.00548](https://arxiv.org/abs/1812.00548)]
