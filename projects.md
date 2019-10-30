@@ -9,6 +9,7 @@ title: Projects
 
 <div style="text-align: justify">
 
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
 In particle physics collider experiments, such as at CERN, particles are smashed together at nearly the speed of light. Understanding how these particles interact, and scatter to form other particles is crucial for better picking apart these complex collisions in which billions of particles collide every second. To understand how two particles my scatter the *scattering amplitude* is calculated and integrated over the whole possible phase space of the outgoing particles giving the total *cross section* (a measure of the likelihood of two particles interacting in a certain way) for the event. Simulating and calculating these processes is extremely computationally expensive so we use Machine Learning to approximate the scattering amplitude function which, once learn, is considerably faster to query than the original computation.
 
 </div>
