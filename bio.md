@@ -1,7 +1,13 @@
 ---
 layout: page
-title: Joseph Bullock
+title: Bio
 ---
+
+Physics bio:
+
+Joseph is a Doctoral Researcher at the Institute for Particle Physics Phenomenology, the UK's national particle physics research laboratory and part of Durham University. His research is predominantly in QCD, developing machine learning tools for approximating high-dimensional functions such as high multiplicity scattering amplitudes, currently up to NLO, and is supervised by Dr Simon Badger. By desinging the interpolation functions, the hope is to significantly reduce the computational time reuqired to perform such calculations, while retaining the high level of accuracy required for observable calculations. Joseph is also an affiliate of the Institute for Data Science at Durham University, and helps run the weekly Data Science Forum there.
+
+Below are a selection of bios for use in talks reltating more to the humanitarian work I have been doing.
 
 Long Bio:
 
