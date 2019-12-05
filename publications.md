@@ -17,6 +17,7 @@ T. Logar, **J. Bullock**, L. Bromley, J.A. Quinn, M. Luengo-Oroz, PulseSatellite
 
 ## Service to the Profession
 
+Programme Chair, ACM COMPASS (2020)<br/>
 Reviewer, International Conference on Machine Learning (2020)<br/>
 Co-Chair, The United Nations AI-Geo Working Group (present)<br/>
 Senior Programme Chair, AI for Social Impact, AAAI (2020)<br/>

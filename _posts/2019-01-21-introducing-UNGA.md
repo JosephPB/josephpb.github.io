@@ -28,3 +28,8 @@ My research interests include:
 A selection of projects I have worked on can be found on the [Projects](https://josephpb.github.io/projects) page.
 
 Details about my publications, talks and other academic activities can be found on the [Research](https://josephpb.github.io/research) page.
+
+Contact info:
+
+joseph [at] unglobalpulse.org
+j.p.bullock [at] durham.ac.uk
