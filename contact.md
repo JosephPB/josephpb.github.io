@@ -19,7 +19,7 @@ To get in contect please fill out the form below:
     <input type="text" name="_replyto">
   </label><br/>
   <label>
-    Your message:
+    Your message:<br/>
     <textarea name="message"></textarea>
   </label><br/>
 
