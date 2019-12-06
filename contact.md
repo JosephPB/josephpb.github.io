@@ -13,15 +13,15 @@ To get in contect please fill out the form below:
   <label>
     Your name:
     <input type="text" name="name">
-  </label>
+  </label><br/>
   <label>
     Your email:
     <input type="text" name="_replyto">
-  </label>
+  </label><br/>
   <label>
     Your message:
     <textarea name="message"></textarea>
-  </label>
+  </label><br/>
 
   <!-- your other form fields go here -->
 
