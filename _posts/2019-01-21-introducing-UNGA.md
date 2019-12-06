@@ -23,7 +23,7 @@ My research interests include:
 - Applying machine learning to complex scientific scenarios such as those in particle physics, specifically in the fields of high dimensional functional approximations, pattern and event detection
 - Researching ways in which machine learning and data analytics can be used in real-world humanitarian scenarios and the implications of their applications
 - Developing responsible methodological practices for the application of AI to human-sensitive scenarios
-- Meaningfully understanding error and their uncertainties in machine learning methodologies
+- Meaningfully understanding errors and their uncertainties in machine learning methodologies
 
 A selection of projects I have worked on can be found on the [Projects](https://josephpb.github.io/projects) page.
 
@@ -32,4 +32,5 @@ Details about my publications, talks and other academic activities can be found 
 Contact info:
 
 joseph [at] unglobalpulse.org
+
 j.p.bullock [at] durham.ac.uk
