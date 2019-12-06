@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-To get in contect please fill out the form below:
+To get in contact please fill out the form below:
 
 <form
   action="https://formspree.io/xeqorrgp"
