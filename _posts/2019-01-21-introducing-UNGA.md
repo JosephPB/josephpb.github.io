@@ -3,11 +3,11 @@ layout: post
 title: Joseph Bullock
 ---
 <kbd><img style="float: right; margin-left: 10px;" width="200"
-height="200" src="https://josephpb.github.io/images/J\ Bullock.jpg"></kbd>
+height="200" src="https://josephpb.github.io/images/J_Bullock.jpg"></kbd>
 <span style="color:grey;font-size: 0.9em">
 AI Reseach Fellow, UN Global Pulse<br/>
-Industrial Research Associate, Risk Econ Lab, Courant Institute, NYU<br/>
-Doctoral Researcher, Department of Physics, Durham University<br/>
+Industrial Research Associate, RiskEcon Lab, <br/>Courant Institute, NYU<br/>
+Doctoral Researcher, Department of Physics, <br/>Durham University<br/>
 Affiliate, Institute for Data Science, Durham University<br/>
 </span>
 
