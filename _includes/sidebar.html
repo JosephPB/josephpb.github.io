@@ -18,7 +18,7 @@
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
-    <kbd><img style="float: right; margin-left: 10px;" width="50" height="50" src="https://josephpb.github.io/images/J_Bullock.jpg"></kbd>
+
     {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
       {% if node.title != null %}
