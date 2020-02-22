@@ -9,7 +9,7 @@ For a more detailed look at projects I have been and am currenrly involved in ta
 
 ## Publications
 
-S. Badger, **J Bullock**, Using neural networks for efficient evaluation of high multiplicity scattering amplitudes (to appear) (2020) [[arXiv:2002.07516](https://arxiv.org/abs/2002.07516)] [[Code](https://github.com/JosephPB/n3jet)]
+S. Badger, **J. Bullock**, Using neural networks for efficient evaluation of high multiplicity scattering amplitudes (to appear) (2020) [[arXiv:2002.07516](https://arxiv.org/abs/2002.07516)] [[Code](https://github.com/JosephPB/n3jet)]
 
 T. Logar, **J. Bullock**, L. Bromley, J.A. Quinn, M. Luengo-Oroz, PulseSatellite: A tool using human-AI feedback loops for satellite image analysis inhumanitarian contexts, Proceedings of the Association for the Advancement of Artificial Intelligence (AAAI) (2020) [[arXiv:2001:10685](https://arxiv.org/abs/2001.10685)]
 
