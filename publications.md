@@ -40,8 +40,9 @@ Teaching Assistant:
 
 ## Invited Workshops and Talks
 
-**Humanitarian Applications of AI for Remote Sensing**, Institute for Risk and Reslience, Durham University (2020)<br/>
-**Mapping Risks and Biases in Ai Systems**, Innovative Computing Group, Durham University (2020)<br/> 
+*Machine Learning for Geospatial Analysis*, InsurTech Alliance Expo (2020)<br/>
+*Humanitarian Applications of AI for Remote Sensing*, Institute for Risk and Reslience, Durham University (2020)<br/>
+*Mapping Risks and Biases in AI Systems*, Innovative Computing Group, Durham University (2020)<br/> 
 *Mapping Risks in Generated Text*, Institute for Data Science Launch Event, Durham University (2019)<br/>
 *AI for Humanitarian Relief*, Digital Aid Workshop, Alan Turing Institute (2019)<br/>
 *Data Science for Humanitarian Relief*, Office of the United Nations High Commissioner for Human Rights (2019)<br/>
