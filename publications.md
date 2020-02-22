@@ -9,11 +9,13 @@ For a more detailed look at projects I have been and am currenrly involved in ta
 
 ## Publications
 
-T. Logar, **J. Bullock**, L. Bromley, J.A. Quinn, M. Luengo-Oroz, PulseSatellite: A tool using human-AI feedback loops for satellite image analysis inhumanitarian contexts, Proceedings of the Association for the Advancement of Artificial Intelligence (AAAI) (2020)
+S. Badger, **J Bullock**, Using neural networks for efficient evaluation of high multiplicity scattering amplitudes (to appear) (2020) [[arXiv:2002.07516](https://arxiv.org/abs/2002.07516)] [Code](https://github.com/JosephPB/n3jet)
+
+T. Logar, **J. Bullock**, L. Bromley, J.A. Quinn, M. Luengo-Oroz, PulseSatellite: A tool using human-AI feedback loops for satellite image analysis inhumanitarian contexts, Proceedings of the Association for the Advancement of Artificial Intelligence (AAAI) (2020) [[arXiv:2001:10685](https://arxiv.org/abs/2001.10685)]
 
 **J. Bullock**, M. Luengo-Oroz, Automated Speech Generation from UN General Assembly Statements: Mapping Risks in AI Generated Texts, AI for Social Good Workshop, 36th International Conference on Machine Learning (ICML) (2019) [[arXiv:1906.01946](https://arxiv.org/abs/1906.01946)]
 
-**J. Bullock**, C. Cuesta-Lazaro, A. Quera-Bofarull, XNet: a convolutional neural network (CNN) implementation for medical x-ray image segmentation suitable for small datasets, Proc. SPIE 10953, Medical Imaging 2019: Biomedical Applications in Molecular, Structural, and Functional Imaging (2019) [[arXiv:1812.00548](https://arxiv.org/abs/1812.00548)]
+**J. Bullock**, C. Cuesta-Lazaro, A. Quera-Bofarull, XNet: a convolutional neural network (CNN) implementation for medical x-ray image segmentation suitable for small datasets, Proc. SPIE 10953, Medical Imaging 2019: Biomedical Applications in Molecular, Structural, and Functional Imaging (2019) [[arXiv:1812.00548](https://arxiv.org/abs/1812.00548)] [Code](https://github.com/JosephPB/XNet)
 
 ## Service to the Profession
 
@@ -22,7 +24,7 @@ Reviewer, International Conference on Machine Learning (2020)<br/>
 Co-Chair, The United Nations AI-Geo Working Group (present)<br/>
 Senior Programme Chair, AI for Social Impact, AAAI (2020)<br/>
 Organiser and Track Chair, AI for Social Good Workshop, NeurIPS (2019)<br/>
-Organiser, Data Science Forum, Institute for Data Science, Durham University (present)<br/>
+Organiser, Data Science Forum, Institute for Data Science, Durham University (2019-present)<br/>
 Convener, Annual Young Experimentalists and Theorists Institute (2019)<br/>
 Lead Convener, 12th Annual Young Theorists Forum (2019)<br/>
 Convener, 11th Annual Young Theorists Forum (2018)<br/>
@@ -38,6 +40,8 @@ Teaching Assistant:
 
 ## Invited Workshops and Talks
 
+**Humanitarian Applications of AI for Remote Sensing**, Institute for Risk and Reslience, Durham University (2020)<br/>
+**Mapping Risks and Biases in Ai Systems**, Innovative Computing Group, Durham University (2020)<br/> 
 *Mapping Risks in Generated Text*, Institute for Data Science Launch Event, Durham University (2019)<br/>
 *AI for Humanitarian Relief*, Digital Aid Workshop, Alan Turing Institute (2019)<br/>
 *Data Science for Humanitarian Relief*, Office of the United Nations High Commissioner for Human Rights (2019)<br/>
