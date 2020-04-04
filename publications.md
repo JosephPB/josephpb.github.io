@@ -9,6 +9,8 @@ For a more detailed look at projects I have been and am currenrly involved in ta
 
 ## Publications
 
+**J. Bullock**, A. Luccioni, K. Hoffmann Pham, C. Sin Nga Lam, M. Luengo-Oroz, MApping the Landscape of Artificial Intelligence Applications Against COVID-19 (2020) [[arXiv:2003.11336](https://arxiv.org/abs/2003.11336)]
+
 S. Badger, **J. Bullock**, Using neural networks for efficient evaluation of high multiplicity scattering amplitudes (to appear) (2020) [[arXiv:2002.07516](https://arxiv.org/abs/2002.07516)] [[Code](https://github.com/JosephPB/n3jet)]
 
 T. Logar, **J. Bullock**, L. Bromley, J.A. Quinn, M. Luengo-Oroz, PulseSatellite: A tool using human-AI feedback loops for satellite image analysis inhumanitarian contexts, Proceedings of the Association for the Advancement of Artificial Intelligence (AAAI) (2020) [[arXiv:2001:10685](https://arxiv.org/abs/2001.10685)]
@@ -21,7 +23,6 @@ T. Logar, **J. Bullock**, L. Bromley, J.A. Quinn, M. Luengo-Oroz, PulseSatellite
 
 Programme Chair, ACM COMPASS (2020)<br/>
 Reviewer, International Conference on Machine Learning (2020)<br/>
-Co-Chair, The United Nations AI-Geo Working Group (present)<br/>
 Senior Programme Chair, AI for Social Impact, AAAI (2020)<br/>
 Organiser and Track Chair, AI for Social Good Workshop, NeurIPS (2019)<br/>
 Organiser, Data Science Forum, Institute for Data Science, Durham University (2019-present)<br/>
@@ -35,11 +36,29 @@ Reviewer, Computers and Geosciences, Elsevier<br/>
 
 Teaching Assistant:
 
-*Statistics and Machine Learning*, part of the Masters in Scientific Computing and Data Analytics (MSc) programme, Durham University (present)<br/>
+*Statistics and Machine Learning*, part of the Masters in Scientific Computing and Data Analytics (MSc) programme, Durham University (present)
+
 *Complex Analysis*, Department of Mathematics, Durham University (2017)
+
+
+## Honours and Awards
+
+**Best Student Paper:** SPIE Medical Imaging 2019: Biomedical Applications in Molecular, Structural, and Functional Imaging<br/>
+**UN Global Pulse Research Fellowship:** Fellowship supporting my work with UN Global Pulse.<br/>
+**Intel Research Award:** Financial and computational support relating to the publication of papers in medical imaging.<br/>
+**NVIDIA Hardware Grant:** Awarded access to NVIDIA computational resources<br/>
+**STFC Ph.D Studentship:** Full funding for doctoral programme<br/>
+**Best Presentation:** Josephine Butler Research Forum, Durham University<br/>
+**Durham Award:** For exceptional contribution to University and College life, community outreach, and developing key skills for increased employability<br/>
+
+## Additional Positions
+
+Invited to join ML for COVID Working Group, Schmidt Futures (present)<br/>
+Co-Chair, The United Nations AI-Geo Working Group (present)<br/>
 
 ## Invited Workshops and Talks
 
+*Using Neural Networks for Scattering Amplitude Approximation*, Innovative Computing Group, Durham University (2020)<br/>
 *Machine Learning for Geospatial Analysis*, InsurTech Alliance Expo (2020)<br/>
 *Humanitarian Applications of AI for Remote Sensing*, Institute for Risk and Reslience, Durham University (2020)<br/>
 *Mapping Risks and Biases in AI Systems*, Innovative Computing Group, Durham University (2020)<br/> 
@@ -58,13 +77,3 @@ Teaching Assistant:
 *X-Ray Image Segmentation*, First Annual Conference of the Durham University STFC Centre for Doctoral Training in Data Intensive Science (2018)<br/>
 *Hey Google: Show me a llama: An Introduction to Machine Learning*, Josephine Butler Research Forum, Durham University (2018)<br/>
 *An Introduction to Machine Learning*, Broaderlands Lecture Series, Durham Uni- versity (2018)<br/>
-
-## Honours and Awards
-
-**Best Student Paper:** SPIE Medical Imaging 2019: Biomedical Applications in Molecular, Structural, and Functional Imaging<br/>
-**UN Global Pulse Research Fellowship:** Fellowship supporting my work with UN Global Pulse.<br/>
-**Intel Research Award:** Financial and computational support relating to the publication of papers in medical imaging.<br/>
-**NVIDIA Hardware Grant:** Awarded access to NVIDIA computational resources<br/>
-**STFC Ph.D Studentship:** Full funding for doctoral programme<br/>
-**Best Presentation:** Josephine Butler Research Forum, Durham University<br/>
-**Durham Award:** For exceptional contribution to University and College life, community outreach, and developing key skills for increased employability<br/>
