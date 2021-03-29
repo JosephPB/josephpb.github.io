@@ -70,6 +70,10 @@ Analysing large corpora of text is a burdensome task for humanitarian team with 
 
 ## Healthcare
 
+### AI Applications for Tackling COVID-19
+
+COVID-19, the disease caused by the SARS-CoV-2 virus, has been declared a pandemicby the World Health Organization, with over 2.3 million confirmed cases as of April 19,2020. We present an overview of recent studies using Machine Learning and,  more  broadly,  Artificial  Intelligence,  to  tackle  many  aspects  of  the  COVID-19 crisis at different scales including molecular, medical and epidemiological applications. We also review datasets, tools, and resources needed to facilitate AI research and discuss strategic considerations related to operational implementation of projects, multidisciplinary partnerships, open science, and the need for international cooperationto maximize the potential of AI in the current and future pandemics.
+ 
 ### Medical Image Segmentation
 
 <p style="text-align: justify; font-size: 0.8em">
