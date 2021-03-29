@@ -10,7 +10,7 @@ Doctoral Researcher, Department of Physics, <br/>Durham University<br/>
 Affiliate, Institute for Data Science, Durham University<br/>
 </span>
 
-(**Note:** Before 2021 I published under Joseph Bullock)
+(**Note:** Before April 2021 I published under Joseph Bullock)
 
 I am a Doctoral Researcher at the [Institute for Particle Physics Phenomenology](http://ippp.dur.ac.uk) at Durham University, and part of the Centre for Doctoral Training in Data Intensive Science and Institute for Data Science there. My PhD research focuses on investigating ways in which we can apply machine learning techniques to complex problems in particle physics, specifically constructing high-dimensional functional approximations and performing uncertainty analysis.
 
