@@ -5,24 +5,41 @@ title: Research
 
 This page contains an overview of my publications, teaching, awards and fellowships, ways in which I am contributing to the field and a selection of invited talks and workshops I have led.
 
-For a more detailed look at projects I have been and am currenrly involved in take a look at the Projects page.
+For a more detailed look at projects I have been and am currenrly involved in take a look at the [Projects](https://josephpb.github.io/projects) page.
 
 ## Publications
 
-**J. Bullock**, A. Luccioni, K. Hoffmann Pham, C. Sin Nga Lam, M. Luengo-Oroz, MApping the Landscape of Artificial Intelligence Applications Against COVID-19 (2020) [[arXiv:2003.11336](https://arxiv.org/abs/2003.11336)]
+See [Google Scholar](https://scholar.google.co.uk/citations?user=rzqW5b0AAAAJ&hl=en) for an up to date list of publications
 
-S. Badger, **J. Bullock**, Using neural networks for efficient evaluation of high multiplicity scattering amplitudes (to appear) (2020) [[arXiv:2002.07516](https://arxiv.org/abs/2002.07516)] [[Code](https://github.com/JosephPB/n3jet)]
+M. Luengo-Oroz, **J. Bullock**, K. Hoffmann Pham, C. Sin Nga Lam, A. Luccioni, *From Artificial Intelligence Bias to Inequality in the Time of COVID-19*, IEEE Technology and Society Magazine, 40, 1, pp. 71-79 (2021) [[IEEE](https://ieeexplore.ieee.org/abstract/document/9379034)]
 
-T. Logar, **J. Bullock**, L. Bromley, J.A. Quinn, M. Luengo-Oroz, PulseSatellite: A tool using human-AI feedback loops for satellite image analysis inhumanitarian contexts, Proceedings of the Association for the Advancement of Artificial Intelligence (AAAI) (2020) [[arXiv:2001:10685](https://arxiv.org/abs/2001.10685)]
+**J. Bullock**, C. Cuesta-Lazaro, A. Quera-Bofarull, A. Katta, K. Hoffmann Pham, B. Hoover, H. Strobelt, R. Moreno Jimenez, A. Sedgewick, E. Samir Evers, D. Kennedy, S. Harlass, A. Gidraf Kahindo Maina, A. Hussien, M. Luengo-Oroz, *Operational response simulation tool for epidemics within refugee and IDP settlements*, (under review) (2021) [[medRxiv](https://www.medrxiv.org/content/10.1101/2021.01.27.21250611v1)] [[Code](https://github.com/UNGlobalPulse/UNGP-settlement-modelling)]
 
-**J. Bullock**, M. Luengo-Oroz, Automated Speech Generation from UN General Assembly Statements: Mapping Risks in AI Generated Texts, AI for Social Good Workshop, 36th International Conference on Machine Learning (ICML) (2019) [[arXiv:1906.01946](https://arxiv.org/abs/1906.01946)]
+**J. Bullock**, C. Cuesta-Lazaro, A. Quera-Bofarull, M. Icaza-Lizaola, A. Sedgewick, H. Truong, A. Curran, E. Elliot, T. Caulfield, K. Fong, I. Vernon, J. Williams, R. Bower, F. Krauss, *JUNE: open-source individual-based epidemiology simulation*, (under review) (2020) [[medRxiv](https://www.medrxiv.org/content/10.1101/2020.12.15.20248246v2)] [[Code](https://github.com/IDAS-Durham/JUNE)]
 
-**J. Bullock**, C. Cuesta-Lazaro, A. Quera-Bofarull, XNet: a convolutional neural network (CNN) implementation for medical x-ray image segmentation suitable for small datasets, Proc. SPIE 10953, Medical Imaging 2019: Biomedical Applications in Molecular, Structural, and Functional Imaging (2019) [[arXiv:1812.00548](https://arxiv.org/abs/1812.00548)] [[Code](https://github.com/JosephPB/XNet)]
+M. Luengo-Oroz, K. Hoffmann Pham, **J. Bullock**, R. Kirkpatrick, A. Luccioni, S. Rubel, C. Wachholz, M. Chakchouk, P. Biggs, T. Nguyen, T. Purnat, B. Mariano, *Artificial intelligence cooperation to support the global response to COVID-19*, Nature Machine Intelligence, 2, 6, pp. 295-297 (2020) [[Nature](https://www.nature.com/articles/s42256-020-0184-3)]
+
+A. Luccioni, **J. Bullock**, K. Hoffmann Pham, C. Sin Nga Lam, M. Luengo-Oroz, *Considerations, good practices, risks and pitfalls in developing AI solutions against COVID-19*, Harvard CRCS Workshop on AI for Social Good (2020) [[arXiv:2008.09043](https://arxiv.org/abs/2008.09043)]
+
+E. Nemni, **J. Bullock**, S. Belabbes, L. Bromley, *Fully convolutional neural network for rapid flood segmentation in synthetic aperture radar imagery*, Remote Sensing, 12, 16 (2020) [[MDPI](https://www.mdpi.com/2072-4292/12/16/2532/pdf)] [[Code](https://github.com/UNITAR-UNOSAT/UNOSAT-AI-Based-Rapid-Mapping-Service)]
+
+**J. Bullock**, A. Luccioni, K. Hoffmann Pham, C. Sin Nga Lam, M. Luengo-Oroz, Mapping the Landscape of Artificial Intelligence Applications Against COVID-19, Journal of Artificial Intelligence Research, 69, pp. 807-845 (2020) [[arXiv:2003.11336](https://arxiv.org/abs/2003.11336)]
+
+S. Badger, **J. Bullock**, *Using neural networks for efficient evaluation of high multiplicity scattering amplitudes*, Journal of High Energy Physics, 6 (2020) [[arXiv:2002.07516](https://arxiv.org/abs/2002.07516)] [[Code](https://github.com/JosephPB/n3jet)]
+
+T. Logar, **J. Bullock**, L. Bromley, J.A. Quinn, M. Luengo-Oroz, *PulseSatellite: A tool using human-AI feedback loops for satellite image analysis inhumanitarian contexts*, Proceedings of the Association for the Advancement of Artificial Intelligence (AAAI) (2020) [[arXiv:2001:10685](https://arxiv.org/abs/2001.10685)]
+
+**J. Bullock**, M. Luengo-Oroz, *Automated Speech Generation from UN General Assembly Statements: Mapping Risks in AI Generated Texts*, AI for Social Good Workshop, 36th International Conference on Machine Learning (ICML) (2019) [[arXiv:1906.01946](https://arxiv.org/abs/1906.01946)]
+
+**J. Bullock**, C. Cuesta-Lazaro, A. Quera-Bofarull, *XNet: a convolutional neural network (CNN) implementation for medical x-ray image segmentation suitable for small datasets*, Proc. SPIE 10953, Medical Imaging 2019: Biomedical Applications in Molecular, Structural, and Functional Imaging (2019) [[arXiv:1812.00548](https://arxiv.org/abs/1812.00548)] [[Code](https://github.com/JosephPB/XNet)]
 
 ## Service to the Profession
 
+Guest Editor, Remote Sensing (2020-2021)<br/>
+Area Chair, AI for Social Impact, AAAI (2021)<br/>
 Programme Chair, ACM COMPASS (2020)<br/>
 Reviewer, International Conference on Machine Learning (2020)<br/>
+Reviewer, AI for Humanitarian Assistance and Disaster Response Workshop, NeurIPS (2020))<br/>
 Senior Programme Chair, AI for Social Impact, AAAI (2020)<br/>
 Organiser and Track Chair, AI for Social Good Workshop, NeurIPS (2019)<br/>
 Organiser, Data Science Forum, Institute for Data Science, Durham University (2019-present)<br/>
@@ -36,28 +53,36 @@ Reviewer, Computers and Geosciences, Elsevier<br/>
 
 Teaching Assistant:
 
-*Statistics and Machine Learning*, part of the Masters in Scientific Computing and Data Analytics (MSc) programme, Durham University (present)
+*Statistics and Machine Learning*, part of the Masters in Scientific Computing and Data Analytics (MSc) programme, Durham University (2019-2021)
 
 *Complex Analysis*, Department of Mathematics, Durham University (2017)
 
 
 ## Honours and Awards
 
+**Departmental Award for Excellence:** Durham University<br/>
+**Most Notable Articles:** Remote Sensing, MDPI<br/>
+**Top Reviewer:** International Conference on Machine Learning (ICML)<br/>
 **Best Student Paper:** SPIE Medical Imaging 2019: Biomedical Applications in Molecular, Structural, and Functional Imaging<br/>
-**UN Global Pulse Research Fellowship:** Fellowship supporting my work with UN Global Pulse.<br/>
-**Intel Research Award:** Financial and computational support relating to the publication of papers in medical imaging.<br/>
-**NVIDIA Hardware Grant:** Awarded access to NVIDIA computational resources<br/>
-**STFC Ph.D Studentship:** Full funding for doctoral programme<br/>
 **Best Presentation:** Josephine Butler Research Forum, Durham University<br/>
 **Durham Award:** For exceptional contribution to University and College life, community outreach, and developing key skills for increased employability<br/>
 
+## Grants and Fellowships
+**UN Global Pulse Research Fellowship:** Fellowship supporting my work with UN Global Pulse.<br/>
+**Intel Research Award:** Financial and computational support relating to the publication of papers in medical imaging.<br/>
+**NVIDIA Hardware Grant:** Awarded access to NVIDIA computational resources<br/>
+**UKRI-STFC Ph.D Studentship:** Full funding for doctoral programme<br/>
+
 ## Additional Positions
 
-Invited to join ML for COVID Working Group, Schmidt Futures (present)<br/>
-Co-Chair, The United Nations AI-Geo Working Group (present)<br/>
+Member of the Broadband Commission Epidemic Preparedness Working Group (2020-present)<br/>
+Invited to join ML for COVID Working Group, Schmidt Futures (2020)<br/>
+Co-Chair, The United Nations AI-Geo Working Group (2019-2020)<br/>
+National representative, The Youth Assembly (2019)<br/>
 
 ## Invited Workshops and Talks
 
+*JUNE: an Open-Source Individual-Based Epidemiology Simulation*, Institute for Data Science Seminar Series, Durham University (2020)<br/>
 *Using Neural Networks for Scattering Amplitude Approximation*, Innovative Computing Group, Durham University (2020)<br/>
 *Machine Learning for Geospatial Analysis*, InsurTech Alliance Expo (2020)<br/>
 *Humanitarian Applications of AI for Remote Sensing*, Institute for Risk and Reslience, Durham University (2020)<br/>
