@@ -1,7 +1,7 @@
----
-layout: page
-title: Bio
----
+##---
+##layout: page
+##title: Bio
+##---
 
 Physics bio:
 
