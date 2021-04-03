@@ -4,7 +4,7 @@ title: Joseph Aylett-Bullock
 ---
 <kbd><img style="float: right; margin-left: 10px;" width="200" height="200" src="https://josephpb.github.io/images/J_Bullock.jpg"></kbd>
 <span style="color:grey;font-size: 0.9em">
-Reseacher, UN Global Pulse<br/>
+Reseacher, United Nations Global Pulse<br/>
 Industry Research Associate, RiskEcon Lab, <br/>Courant Institute, NYU<br/>
 Doctoral Researcher, Department of Physics, <br/>Durham University<br/>
 Affiliate, Institute for Data Science, Durham University<br/>
