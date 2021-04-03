@@ -16,6 +16,8 @@ In particle colliders, such as at CERN, particles are smashed together at nearly
 
 ### Integrating machine learning for hard-scatting processes into event generators
 
+<p style="text-align: justify; font-size: 0.8em">
+
 Building on previous work use machine learning models to approximate complex scatting amplitude functions, we look at how to integrate these into full *event generators*, such as SHERPA. Event generators are computational modelling tools used by particuale physcists to simulate how particle collision events in the large hadron collider might play out. Our previous work looked at using machine learning to understand the first part of these in relative isolation to prove that it can be done. We extend this to actually integrating these machine learning models into these larger event generation software packages to see how they perform.
 
 </p>
@@ -77,17 +79,23 @@ Analysing large corpora of text is a burdensome task for humanitarian team with 
 
 ### Modelling the spead of COVID-19 in refugee and internally displace person (IDP) settlements
 
+<p style="text-align: justify; font-size: 0.8em">
+
 The spread of infectious diseases such as COVID-19 presents many challenges to healthcare systems and infrastructures across the world, exacerbating inequalities and leaving the world’s most vulnerable populations most affected. Given their density and available infrastructure, refugee and internally displaced person (IDP) settlements can be particularly susceptible to disease spread. Non-pharmaceutical public health interventions can be used to mitigate transmission, and modeling efforts can provide crucial insights on the potential effectiveness of such interventions to help inform decision making processes. We worked with teams of public health officials in Bangladesh and Somalia to model the effectiveness of different operational interventions on mitigating the spread of the disease in settlements in these regions. Our insights were used for advocacy and decision making purposes and we are seeking to extent our work and develop mechanisms to bring communities together to better serve these vulnerable populations now and in the future.
 
 </p>
 
 ### Modelling the spead of COVID-19 in the UK
 
-Detailed and accurate modelling the spread of COVID-19, and other epidemics, can help assess the effectiveness of differernt government policy choices as well as better predict near and long-term healthcare requirments. We developed an open source framework for individual-based modelling of populations including details on their geographic, demographic, socio-economi and ethnic attributeds. We partnered with the UK's National Clinical Advisor on COVID-19 to help provide the National Health Service (NHS) with up to date insights on how the disease may spread in the UK and its affects on hospital capacity.
+<p style="text-align: justify; font-size: 0.8em">
+
+Detailed and accurate modelling of the spread of COVID-19 and other epidemics can help assess the effectiveness of differernt government policy choices as well as better predict near and long-term healthcare requirments. We developed an open source framework for individual-based modelling of populations including details on their geographic, demographic, socio-economi and ethnic attributeds. We partnered with the UK's National Clinical Advisor on COVID-19 to help provide the National Health Service (NHS) with up to date insights on how the disease may spread in the UK and its affects on hospital capacity.
 
 </p>
 
 ### AI Applications for Tackling COVID-19
+
+<p style="text-align: justify; font-size: 0.8em">
 
 COVID-19, the disease caused by the SARS-CoV-2 virus, has been declared a pandemic by the World Health Organization, with over 2.3 million confirmed cases as of April 19, 2020. We present an overview of recent studies using Machine Learning and,  more  broadly,  Artificial  Intelligence,  to  tackle  many  aspects  of  the  COVID-19 crisis at different scales including molecular, medical and epidemiological applications. We also review datasets, tools, and resources needed to facilitate AI research and discuss strategic considerations related to operational implementation of projects, multidisciplinary partnerships, open science, and the need for international cooperationto maximize the potential of AI in the current and future pandemics.
 
