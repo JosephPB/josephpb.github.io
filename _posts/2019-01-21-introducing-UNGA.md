@@ -5,13 +5,13 @@ title: Joseph Aylett-Bullock, PhD
 <kbd><img style="float: right; margin-left: 10px;" width="200" height="200" src="https://josephpb.github.io/images/J_Bullock.jpg"></kbd>
 <span style="color:grey;font-size: 0.9em">
 Research Scientist/Associate, United Nations Global Pulse<br/>
-Research Advisor, RiskEcon Lab, <br/>Courant Institute, NYU<br/>
+Research Advisor, RiskEcon Lab, Courant Institute, NYU<br/>
 Affiliate, Institute for Data Science, Durham University<br/>
 </span>
 
 (**Note:** Before April 2021 I published under Joseph Bullock)
 
-My work focuses on understanding and simulating complex systems through the development of numerical modelling and machine learning techniques at the intersection of physics, humanitarian and computational social sciences. I am interesting developing techniques to aid in translation between these disciplines to best leverage our shared knowledge, and use innovation techniques in scoping out questions and throughout the research and development cycle to address pressing challenges.
+My work focuses on understanding and simulating complex systems through the development of mathematical modelling and machine learning techniques at the intersection of physics, humanitarian and computational social sciences.
 
 I am a Research Scientist/Associate, and previouly Research Fellow, with [United Nations Global Pulse](https://www.beta.unglobalpulse.org), an innovation initiative of the UN Secretary-General to harness big data and emerging technologies for sustainable development and humanitarian action. Humanitarian situations are incredibly complex, especially given the propensity to have mutliple simultaneous and often interacting crises. Complex systems methods can help us understand these crises better and enable more informed preparation and contingency planning, mitigation measures, rapid response efforts, and medium-to-long-term recovery and resilience building. Mathematical and computational modelling tools such as agent-based approaches and machine learning techniques can bee applied at different stages of the process. My research interests lie in piecing apart this complexity, developing new methods and models addressing specific components, and combining these together into broader mechanisms for supporting decision making and policy initiatives. In addition, a key component of this work is also understanding and communicating uncertainites - including in the data, models, and overall decision making process.
 
