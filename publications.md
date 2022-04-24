@@ -13,6 +13,8 @@ For a more detailed look at projects I have been and am currenrly involved in ta
 
 My [Google Scholar](https://scholar.google.co.uk/citations?user=rzqW5b0AAAAJ&hl=en) contains the most up to date list of publications.
 
+**Note:** I now publish under my legal name, Joseph Aylett-Bullock. Before April 2021 I published under Joseph Bullock.
+
 <!---
 
 M. Luengo-Oroz, **J. Bullock**, K. Hoffmann Pham, C. Sin Nga Lam, A. Luccioni, *From Artificial Intelligence Bias to Inequality in the Time of COVID-19*, IEEE Technology and Society Magazine, 40, 1, pp. 71-79 (2021) [[IEEE](https://ieeexplore.ieee.org/abstract/document/9379034)]
@@ -94,7 +96,7 @@ National representative, The Youth Assembly (2019)<br/>
 
 ## Invited Workshops and Talks
 
-*Epidemic Modelling in Refugee and IDP Settlements, United Nations World Data Forum (2021)<br/>
+*Epidemic Modelling in Refugee and IDP Settlements*, United Nations World Data Forum (2021)<br/>
 *Machine Learning for Crisis Response*, World Bank Monitoring and Evaluation Seminar Series (2021)<br/>
 *AI for Policy and Operational Impact*, World Bank RMES Results Peer Learning Series (2021)<br/>
 *Epidemic Modelling in Refugee and IDP Settlements*, WHO Epidemic Modelling Cell (2021)<br/>
