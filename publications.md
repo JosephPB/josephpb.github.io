@@ -5,11 +5,15 @@ title: Research
 
 This page contains an overview of my publications, teaching, awards and fellowships, ways in which I am contributing to the field and a selection of invited talks and workshops I have led.
 
+<!---
 For a more detailed look at projects I have been and am currenrly involved in take a look at the [Projects](https://josephpb.github.io/projects) page.
+--->
 
 ## Publications
 
-See [Google Scholar](https://scholar.google.co.uk/citations?user=rzqW5b0AAAAJ&hl=en) for an up to date list of publications
+My [Google Scholar](https://scholar.google.co.uk/citations?user=rzqW5b0AAAAJ&hl=en) contains the most up to date list of publications.
+
+<!---
 
 M. Luengo-Oroz, **J. Bullock**, K. Hoffmann Pham, C. Sin Nga Lam, A. Luccioni, *From Artificial Intelligence Bias to Inequality in the Time of COVID-19*, IEEE Technology and Society Magazine, 40, 1, pp. 71-79 (2021) [[IEEE](https://ieeexplore.ieee.org/abstract/document/9379034)]
 
@@ -33,8 +37,12 @@ T. Logar, **J. Bullock**, L. Bromley, J.A. Quinn, M. Luengo-Oroz, *PulseSatellit
 
 **J. Bullock**, C. Cuesta-Lazaro, A. Quera-Bofarull, *XNet: a convolutional neural network (CNN) implementation for medical x-ray image segmentation suitable for small datasets*, Proc. SPIE 10953, Medical Imaging 2019: Biomedical Applications in Molecular, Structural, and Functional Imaging (2019) [[arXiv:1812.00548](https://arxiv.org/abs/1812.00548)] [[Code](https://github.com/JosephPB/XNet)]
 
+--->
+
 ## Service to the Profession
 
+Area Chair, AI for Social Impact, AAAI (2022)<br/>
+Reviewer, ACM GoodIT (2022)<br/>
 Guest Editor, Remote Sensing (2020-2021)<br/>
 Area Chair, AI for Social Impact, AAAI (2021)<br/>
 Programme Chair, ACM COMPASS (2020)<br/>
@@ -60,28 +68,41 @@ Teaching Assistant:
 
 ## Honours and Awards
 
+**RAMP Early Career Investigator Award:** The Royal Society<br/>
 **Departmental Award for Excellence:** Durham University<br/>
-**Most Notable Articles:** Remote Sensing, MDPI<br/>
+**Most Notable Article:** Remote Sensing, MDPI<br/>
 **Top Reviewer:** International Conference on Machine Learning (ICML)<br/>
 **Best Student Paper:** SPIE Medical Imaging 2019: Biomedical Applications in Molecular, Structural, and Functional Imaging<br/>
 **Best Presentation:** Josephine Butler Research Forum, Durham University<br/>
 **Durham Award:** For exceptional contribution to University and College life, community outreach, and developing key skills for increased employability<br/>
 
 ## Grants and Fellowships
-**UN Global Pulse Research Fellowship:** Fellowship supporting my work with UN Global Pulse.<br/>
-**Intel Research Award:** Financial and computational support relating to the publication of papers in medical imaging.<br/>
+
+**EPSRC IAA:** Funding bid with Durham University for 1.5 postdocs for 6 months to support epidemic modelling work (co-supervised)<br/>
+**UN Global Pulse Research Fellowship:** Fellowship supporting my work with UN Global Pulse<br/>
+**Intel Research Award:** Financial and computational support relating to the publication of papers in medical imaging<br/>
 **NVIDIA Hardware Grant:** Awarded access to NVIDIA computational resources<br/>
-**UKRI-STFC Ph.D Studentship:** Full funding for doctoral programme<br/>
+**UKRI-STFC Ph.D Scholarship:** Full funding for doctoral programme<br/>
 
 ## Additional Positions
 
-Member of the Broadband Commission Epidemic Preparedness Working Group (2020-present)<br/>
+Member, UNESCO Working Group on Ethical Principals and Policy Recommendations (2022-present)<br/>
+Member, Broadband Commission Epidemic Preparedness Working Group (2020-present)<br/>
 Invited to join ML for COVID Working Group, Schmidt Futures (2020)<br/>
 Co-Chair, The United Nations AI-Geo Working Group (2019-2020)<br/>
 National representative, The Youth Assembly (2019)<br/>
 
 ## Invited Workshops and Talks
 
+*Epidemic Modelling in Refugee and IDP Settlements, United Nations World Data Forum (2021)<br/>
+*Machine Learning for Crisis Response*, World Bank Monitoring and Evaluation Seminar Series (2021)<br/>
+*AI for Policy and Operational Impact*, World Bank RMES Results Peer Learning Series (2021)<br/>
+*Epidemic Modelling in Refugee and IDP Settlements*, WHO Epidemic Modelling Cell (2021)<br/>
+*Machine Learning for Crisis Response*, Guest Lecture, Public Health Data Science, MIT (2021)<br/>
+*Mathematical Modelling for Crisis Response*, United Nations Innovation Network (2021)<br/>
+*Radio Monitoring for Public Health Social Listening*, WHO Infodemic Management Training (2021) <br/>
+*Radio Monitoring for Public Health Social Listening*, WHO Infodemic Management Conference (2021)<br/>
+*From Biomedical Image Segmentation to Flood Mapping at UNOSAT*, Geneva Health Forum (2020)<br/>
 *JUNE: an Open-Source Individual-Based Epidemiology Simulation*, Institute for Data Science Seminar Series, Durham University (2020)<br/>
 *Using Neural Networks for Scattering Amplitude Approximation*, Innovative Computing Group, Durham University (2020)<br/>
 *Machine Learning for Geospatial Analysis*, InsurTech Alliance Expo (2020)<br/>
@@ -101,4 +122,4 @@ National representative, The Youth Assembly (2019)<br/>
 *Introduction to Machine Learning*, 4-day workshop, IBEX Innovations Ltd. (2018)<br/>
 *X-Ray Image Segmentation*, First Annual Conference of the Durham University STFC Centre for Doctoral Training in Data Intensive Science (2018)<br/>
 *Hey Google: Show me a llama: An Introduction to Machine Learning*, Josephine Butler Research Forum, Durham University (2018)<br/>
-*An Introduction to Machine Learning*, Broaderlands Lecture Series, Durham Uni- versity (2018)<br/>
+*An Introduction to Machine Learning*, Broaderlands Lecture Series, Durham University (2018)<br/>
