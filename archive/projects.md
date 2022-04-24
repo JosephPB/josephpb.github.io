@@ -3,6 +3,7 @@
 %title: Projects
 ---
 
+<!---
 
 ## Physics
 
@@ -128,3 +129,5 @@ From the production of training data to the deployment of AI solutions, the mode
 
 </p>
 
+
+--->
