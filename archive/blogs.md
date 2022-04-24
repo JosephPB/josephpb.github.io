@@ -1,7 +1,6 @@
-<!---
 ---
-layout: page
-title: Blog Posts
+%layout: page
+%title: Blog Posts
 ---
---->
+
 

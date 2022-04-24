@@ -1,9 +1,8 @@
-<!---
 ---
-layout: page
-title: Projects
+%layout: page
+%title: Projects
 ---
---->
+
 
 ## Physics
 

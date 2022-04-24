@@ -1,9 +1,8 @@
-<!---
 ---
-layout: page
-title: Contact
+%layout: page
+%title: Contact
 ---
---->
+
 
 To get in contact please fill out the form below:
 
