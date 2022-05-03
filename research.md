@@ -70,21 +70,21 @@ Teaching Assistant:
 
 ## Honours and Awards
 
-**RAMP Early Career Investigator Award:** The Royal Society<br/>
-**Departmental Award for Excellence:** Durham University<br/>
-**Most Notable Article:** Remote Sensing, MDPI<br/>
-**Top Reviewer:** International Conference on Machine Learning (ICML)<br/>
-**Best Student Paper:** SPIE Medical Imaging 2019: Biomedical Applications in Molecular, Structural, and Functional Imaging<br/>
-**Best Presentation:** Josephine Butler Research Forum, Durham University<br/>
-**Durham Award:** For exceptional contribution to University and College life, community outreach, and developing key skills for increased employability<br/>
+**RAMP Early Career Investigator Award:** The Royal Society (2021)<br/>
+**Departmental Award for Excellence:** Durham University (2020)<br/>
+**Most Notable Article:** Remote Sensing, MDPI (2020)<br/>
+**Top Reviewer:** International Conference on Machine Learning (ICML) (2019)<br/>
+**Best Student Paper:** SPIE Medical Imaging 2019: Biomedical Applications in Molecular, Structural, and Functional Imaging (2019)<br/>
+**Best Presentation:** Josephine Butler Research Forum, Durham University (2018)<br/>
+**Durham Award:** For exceptional contribution to University and College life, community outreach, and developing key skills for increased employability (2017)<br/>
 
 ## Grants and Fellowships
 
-**EPSRC IAA:** Funding bid with Durham University for 1.5 postdocs for 6 months to support epidemic modelling work (co-supervised)<br/>
-**UN Global Pulse Research Fellowship:** Fellowship supporting my work with UN Global Pulse<br/>
-**Intel Research Award:** Financial and computational support relating to the publication of papers in medical imaging<br/>
-**NVIDIA Hardware Grant:** Awarded access to NVIDIA computational resources<br/>
-**UKRI-STFC Ph.D Scholarship:** Full funding for doctoral programme<br/>
+**EPSRC IAA:** Funding bid with Durham University for 1.5 postdocs for 6 months to support epidemic modelling work (co-supervised) (2021-2022)<br/>
+**UN Global Pulse Research Fellowship:** Fellowship supporting my work with UN Global Pulse (2018-2019)<br/>
+**Intel Research Award:** Financial and computational support relating to the publication of papers in medical imaging (2018)<br/>
+**NVIDIA Hardware Grant:** Awarded access to NVIDIA computational resources (2018)<br/>
+**UKRI-STFC Ph.D Scholarship:** Full funding for doctoral programme (2017-2021)<br/>
 
 ## Additional Positions
 
